@@ -230,12 +230,12 @@ http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/478.ts
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/475.ts
 #EXTINF:-1 group-title="DIRECTV",DEP• DIRECTV SPORTS 2 AR (HD) »1«
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/473.ts
-
-
-
-
-
-
+#EXTINF:-1 group-title="DIRECTV",DEP• DIRECTV SPORTS 2 CO (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/476.ts
+#EXTINF:-1 group-title="DIRECTV",DEP• DIRECTV SPORTS 2 PE (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/477.ts
+#EXTINF:-1 group-title="DIRECTV",DEP• DIRECTV SPORTS+ AR (HD) »1«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/467.ts
 #EXTINF:-1 group-title="DIRECTV",DEP• DIRECTV SPORTS+ AR (HD) »2«
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/466.ts
 #EXTINF:-1 group-title="DIRECTV",DEP• DIRECTV SPORTS+ PE (HD)
