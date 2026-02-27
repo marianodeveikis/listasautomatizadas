@@ -1,13 +1,5 @@
 --- FILTRO 3 ---
 #EXTM3U
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -30,22 +22,30 @@ http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/585.ts
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/558.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/557.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »3«
-http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/556.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »1«
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -68,22 +68,30 @@ http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/585.ts
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/558.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/557.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV UR (HD) »3«
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/556.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »1«
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -112,16 +120,26 @@ http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/556.ts
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -150,16 +168,26 @@ http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/556.ts
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -188,16 +216,26 @@ http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/556.ts
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -210,6 +248,8 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/563.ts
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/564.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/565.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/566.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/567.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
@@ -224,16 +264,26 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/556.ts
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -246,6 +296,8 @@ http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/563.ts
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/564.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/565.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/566.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/567.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
@@ -260,16 +312,26 @@ http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/556.ts
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -282,6 +344,8 @@ http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/563.ts
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/564.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/565.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/566.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/567.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
@@ -296,16 +360,26 @@ http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/556.ts
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -318,6 +392,8 @@ http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/563.ts
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/564.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/565.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/566.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/567.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
@@ -332,16 +408,26 @@ http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/556.ts
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -354,6 +440,8 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/563.ts
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/564.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/565.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/566.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/567.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
@@ -368,16 +456,26 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/556.ts
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -390,6 +488,8 @@ http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/563.ts
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/564.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/565.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/566.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/567.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
@@ -404,16 +504,26 @@ http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/556.ts
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/463.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »1«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/26000.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CDO PREMIUM CL (HD) »2«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/25999.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »1«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/540.ts
-#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• FOX SPORTS 1 MX (HD) »2«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/534.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/568.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE CLUBES BR (HD) »2«
@@ -426,6 +536,8 @@ http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/563.ts
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/564.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/565.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/566.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/567.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• ECDF EC (HD)
@@ -440,5 +552,615 @@ http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/556.ts
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/560.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/559.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/550.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/490.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• REAL MADRID TV ES (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/587.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/495.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/492.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/493.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 1 (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/577.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• EUROSPORT 2 (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/578.ts
+#EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• GOLF CHANNEL MX (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/549.ts
 #EXTINF:-1 group-title="→ DEPORTES LATINOS ←",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/463.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",14:00 ◌ WTA ◌ ATX Open (Segunda Ronda) ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749696.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",15:00 ◌ WTA ◌ Mérida | WTA 500 (Segunda Ronda) ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749715.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",15:00 ◌ WTA ◌ Mérida | WTA 500 / Cancha 1 (Dobles - Cuartos de Final) ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749716.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",15:05 ◌ MLB Spring ◌ Chicago White Sox vs. Los Angeles Dodgers ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749717.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",15:10 ◌ MLB Spring ◌ Cleveland Guardians vs. Seattle Mariners ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749719.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",15:15 ◌ Liga Argentina ◌ Sarmiento vs. Unión Santa Fe ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749721.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",17:00 ◌ Brasileirão ◌ Santos vs. Vasco da Gama ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749725.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",17:00 ◌ Libertadores ◌ Guaraní (PAR) vs. Juventud (URU) ◌ ES-1080p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749727.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",17:00 ◌ Libertadores ◌ Guaraní (PAR) vs. Juventud (URU) ◌ ES-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749728.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",17:00 ◌ Libertadores ◌ Guaraní (PAR) vs. Juventud (URU) ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749729.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",17:30 ◌ Liga Argentina ◌ Estudiantes (RC) vs. Huracán ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749731.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",17:30 ◌ Liga Argentina ◌ River Plate vs. Banfield ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749732.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",18:00 ◌ Primera Uruguay ◌ Torque vs. Defensor Sporting ◌ ES-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749735.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",18:00 ◌ Primera Uruguay ◌ Torque vs. Defensor Sporting ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749736.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",18:15 ◌ Liga Nacional HON ◌ UPNFM vs. Platense ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749737.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",18:30 ◌ Athletes Unlimited ◌ Eclipse vs. Glow (Game 21) ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749738.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",18:55 ◌ ATP ◌ Abierto Mexicano Telcel (Cuartos de Final) ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749739.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ ATP ◌ Abierto Mexicano Telcel (Cuartos de Final) ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749740.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ ATP ◌ Abierto Mexicano Telcel / Grandstand (Cuartos de Final) ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749741.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ CONCACAF Champions ◌ Philadelphia Union vs. Defence Force FC ◌ ES-1080p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749742.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ CONCACAF Champions ◌ Philadelphia Union vs. Defence Force FC ◌ ES-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749743.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ CONCACAF Champions ◌ Philadelphia Union vs. Defence Force FC ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749744.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ Concacaf U20 ◌ Curacao vs. St. Vincent & The Grenadines ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749745.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NBA G League ◌ Cleveland Charge vs. Osceola Magic ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749747.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NBA G League ◌ Grand Rapids Gold vs. Long Island Nets ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749748.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NBA ◌ Charlotte Hornets vs. Indiana Pacers ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749749.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NBA ◌ Miami Heat vs. Philadelphia 76ers ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749750.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NHL ◌ Columbus Blue Jackets vs. Boston Bruins ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749761.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NHL ◌ Detroit Red Wings vs. Ottawa Senators ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749762.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NHL ◌ New Jersey Devils vs. Pittsburgh Penguins ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749763.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NHL ◌ Tampa Bay Lightning vs. Carolina Hurricanes ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749765.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:00 ◌ NHL ◌ Toronto Maple Leafs vs. Florida Panthers ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749766.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ Libertadores ◌ Deportes Tolima (COL) vs. Deportivo Táchira (VEN) ◌ ES-1080p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749767.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ Libertadores ◌ Deportes Tolima (COL) vs. Deportivo Táchira (VEN) ◌ ES-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749768.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ Libertadores ◌ Deportes Tolima (COL) vs. Deportivo Táchira (VEN) ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749769.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ Liga Betplay ◌ Millonarios vs. Deportivo Pereira ◌ ES-1080p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749770.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ Liga Betplay ◌ Millonarios vs. Deportivo Pereira ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749771.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ NBA ◌ Houston Rockets vs. Orlando Magic ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749772.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ NBA ◌ San Antonio Spurs vs. Brooklyn Nets ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749773.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ NBA ◌ Washington Wizards vs. Atlanta Hawks ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749774.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",19:30 ◌ Recopa ◌ Flamengo (BRA) vs. Lanús (ARG) ◌ ES-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749776.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",20:00 ◌ Amistoso Clubes ◌ Independiente del Valle vs. Inter Miami ◌ ES-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749778.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",20:00 ◌ Amistoso Clubes ◌ Independiente del Valle vs. Inter Miami ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749779.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",20:00 ◌ NBA ◌ Portland Trail Blazers vs. Chicago Bulls ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749782.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",20:30 ◌ Liga Nacional HON ◌ Marathón vs. Policía Nacional ◌ ES-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749788.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",20:30 ◌ NBA ◌ Sacramento Kings vs. Dallas Mavericks ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749789.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",21:00 ◌ NBA ◌ Los Angeles Lakers vs. Phoenix Suns ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749793.ts
+#EXTINF:-1 group-title="✨Eventos Diarios  26/02✨",21:00 ◌ NBA ◌ New Orleans Pelicans vs. Utah Jazz ◌ EN-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749794.ts
+#EXTINF:-1 group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:30 | Estrella Roja vs. Lille | UEFA Europa League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/749845.ts
+#EXTINF:-1 group-title="DEPORTES PREMIUM",| ESPN PREMIUM AR |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/591997.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM HD
+http://sudaka.link:25461/live/luiscavacho/cavacho/16959.ts
+#EXTINF:-1 group-title="DEPORTES",Directv Sports HD
+http://sudaka.link:25461/live/luiscavacho/cavacho/17326.ts
+#EXTINF:-1 group-title="DEPORTES",Directv Sports 2 HD
+http://sudaka.link:25461/live/luiscavacho/cavacho/17348.ts
+#EXTINF:-1 group-title="DEPORTES",Directv Sports + HD
+http://sudaka.link:25461/live/luiscavacho/cavacho/17350.ts
+#EXTINF:-1 group-title="DEPORTES",TNT Sports HD ARG.
+http://sudaka.link:25461/live/luiscavacho/cavacho/15076.ts
+#EXTINF:-1 group-title="DEPORTES",TNT Sports HD
+http://sudaka.link:25461/live/luiscavacho/cavacho/16399.ts
+#EXTINF:-1 group-title="DEPORTES",TNT Sports
+http://sudaka.link:25461/live/luiscavacho/cavacho/13913.ts
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premium
+http://sudaka.link:25461/live/luiscavacho/cavacho/16961.ts
+#EXTINF:-1 group-title="DEPORTES",TNT Sports Premium HD
+http://sudaka.link:25461/live/luiscavacho/cavacho/13915.ts
+#EXTINF:-1 group-title="DEPORTES",ESPN PREMIUM
+http://sudaka.link:25461/live/luiscavacho/cavacho/13917.ts
+#EXTINF:-1 group-title="DEPORTES",Win Sports +
+http://sudaka.link:25461/live/luiscavacho/cavacho/14744.ts
+#EXTINF:-1 group-title="DEPORTES",Win Sports + HD
+http://sudaka.link:25461/live/luiscavacho/cavacho/15922.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - FIORENTINA VS JAGIELLONIA BIAŁYSTOK 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682968.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - RIJEKA VS OMONIA NICOSIA 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682967.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - SAMSUNSPOR VS ŠKENDIJA 79 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682966.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - CELJE VS DRITA 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682965.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - LAUSANNE SPORT VS SIGMA OLOMOUC 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682964.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - LECH POZNAŃ VS KUPS 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682963.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - CRYSTAL PALACE VS ZRINJSKI 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682962.ts
+#EXTINF:-1 group-title="VIP | GOLDEN EVENTS",VIP - AZ VS NOAH 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682961.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - VIKTORIA PLZEŇ - PANATHINAIKOS 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1139982.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - FERENCVÁROS - LUDOGORETS 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1139981.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - STUTTGART - CELTIC 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1262145.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - CRVENA ZVEZDA - LILLE 18:45 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1139942.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - GENK - DINAMO ZAGREB 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1139938.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - CELTA DE VIGO - PAOK 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1139940.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - BOLOGNA - BRANN 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1139939.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NOTTINGHAM FOREST - FENERBAHÇE 21:00 CET
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682941.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/363875.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1024461.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1104757.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1024473.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682935.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682937.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682940.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682938.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682939.ts
+#EXTINF:-1 group-title="VIP | UEFA EUROPA LEAGUE",ES - NO MATCH
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/682936.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - F1 TV - RACE TRACKER FEED FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171969.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - F1 TV - UHD FEED FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171970.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - F1 TV - RACE DATA FEED FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171971.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - F1 TV - RACE FEED FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171972.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - SKY SPORT F1 UHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/76642.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - SKY SPORTS F1 FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/17289.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - SKY SPORT F1 HEVC
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/76681.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - SKY SPORT F1 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/219214.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - SAINZ [WILLIAMS] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171949.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - ALBON [WILLIAMS] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171950.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - BORTOLETO [SAUBER] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171951.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - HULKENBERG [SAUBER] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171952.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - LAWSON [RED BULL] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171953.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - VERSTAPPEN [RED BULL] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171954.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - HADJAR [RB] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171955.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - TSUNODA [RB] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171956.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - ANTONELLI [MERCEDES] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171957.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - RUSSELL [MERCEDES] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171958.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - NORRIS [MCLAREN] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171959.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - PIASTRI [MCLAREN] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171960.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - OCON [HAAS] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171961.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - BEARMAN [HAAS] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171962.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - HAMILTON [FERRARI] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171963.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - LECLERC [FERRARI] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171964.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - STROLL [ASTON MARTIN] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171965.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - ALONSO [ASTON MARTIN] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171966.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - DOOHAN [ALPINE] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171967.ts
+#EXTINF:-1 group-title="VIP | FORMULA 1",F1 - DRIVER - GASLY [ALPINE] FHD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1171968.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325639.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 1 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325638.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 2 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325637.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 3 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325636.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 4 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325635.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 5 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325634.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 6 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325633.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 7 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325632.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 8 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325631.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 9 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325630.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 10 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325629.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 11 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325628.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 12 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325627.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 13 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325626.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 14 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325625.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 15 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325624.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 16 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325623.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 17 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325622.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 18 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325621.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 19 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325620.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - VIX DEPORTES 20 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325619.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - TUDN HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325600.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - ESPN PREMIUM HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325590.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - DIRECTV SPORTS HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325570.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - DIRECTV SPORTS 2 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325569.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - DIRECTV SPORTS 1 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325577.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - DIRECTV SPORTS 2 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325576.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - DIRECT TV SPORTS HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325581.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - DIRECT TV SPORTS 2 HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325580.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - DIRECT TV SPORTS PLUS HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325579.ts
+#EXTINF:-1 group-title="AM | USA | DEPORTES",LAT - TNT SPORT HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/325582.ts
+#EXTINF:-1 group-title="AM | LATINO",LATINO - LIGA 1 MAX
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/1158792.ts
+#EXTINF:-1 group-title="AM | LATINO",ARG - TNT SPORTS HD ᵛᶦᵖ ◉
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/197733.ts
+#EXTINF:-1 group-title="AM | LATINO",ARG - ESPN PREMIUM ◉
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/30758.ts
+#EXTINF:-1 group-title="AM | LATINO",ARG - DIRECT TV SPORTS
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/30743.ts
+#EXTINF:-1 group-title="AM | LATINO",ARG - DIRECT TV SPORTS 2
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/30742.ts
+#EXTINF:-1 group-title="AM | LATINO",ARG - DIRECT TV SPORTS PLUS
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/30741.ts
+#EXTINF:-1 group-title="AM | LATINO",CO - WINSPORTS ᵛᶦᵖ ◉
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/190259.ts
+#EXTINF:-1 group-title="AM | LATINO",CO - WINSPORTS PLUS ᵛᶦᵖ ◉
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/190260.ts
+#EXTINF:-1 group-title="AM | LATINO",PER - DTV SPORTS PLUS HD  ᵛᶦᵖ
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/197713.ts
+#EXTINF:-1 group-title="AM | LATINO",PER - DTV SPORTS 1 HD ᵛᶦᵖ
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/197711.ts
+#EXTINF:-1 group-title="AM | LATINO",PER - DTV SPORTS 2 HD ᵛᶦᵖ
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/197712.ts
+#EXTINF:-1 group-title="AM | LATINO",UY - VTV HD
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/30554.ts
+#EXTINF:-1 group-title="AM | LATINO",UY - VTV PLUS
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/30555.ts
+#EXTINF:-1 group-title="AM | LATINO",UY - DIRECTV SPORTS (URU)
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/273363.ts
+#EXTINF:-1 group-title="AM | LATINO",UY - DIRECTV SPORTS (ARG)
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/273364.ts
+#EXTINF:-1 group-title="AM | LATINO",UY - DIRECTV SPORTS 2
+http://superff.xyz:80/live/771173887305/1D37F8C2252A/273365.ts
+#EXTINF:-1 group-title=" CANAIS | 4K",BAND 4K
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/80551.ts
+#EXTINF:-1 group-title=" CANAIS | 4K",RECORD 4K
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/80552.ts
+#EXTINF:-1 group-title=" CANAIS | 4K",PREMIERE CLUBES 4K
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/80553.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPINHA 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/536670.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPINHA 03
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/536671.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPINHA 04
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/536672.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",COPINHA 05
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/536673.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO ALAGOANO 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538613.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO ALAGOANO 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538614.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO BAIANO
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538615.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO CAPIXABA
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538616.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GAUCHO 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538617.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GOIANO 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538619.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO GOIANO 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538620.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO MARANHENSE
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538621.ts
+#EXTINF:-1 group-title="CANAIS | CAMPEONATOS ESTADUAIS",CAMPEONATO PAULISTA
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538623.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/768.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BAND SPORTS H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/215.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BAND SPORTS HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/5.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BAND SPORTS SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/452.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/523673.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/494901.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/454345.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/523672.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 2 H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/236.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 2 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/450103.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 2 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/505857.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 2 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/432374.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 3 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/772.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 3 H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/237.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 3 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/23.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 3 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/476.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 4 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/497306.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 4 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/494039.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 4 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/503687.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 5 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/773.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 5 H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/245.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 5 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/32.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 5 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/484.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 6 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/770.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 6 H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/235.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 6 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/26.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",BR SPORT 6 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/76661.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/776.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV FHD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88556.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/285.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV H265*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88558.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/73.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV HD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/87150.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/544.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV SD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88557.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 2 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/777.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 2 H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/283.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 2 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/71.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 2 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/545.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 3 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/778.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 3 H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/284.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 3 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/72.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES",SPORTV 3 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/546.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",DAZN 01 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/325.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",DAZN 02 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/326.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",DAZN 03 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/327.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",DAZN 04 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/111.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/96522.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/96523.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 03
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/96524.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",NOSSO FUTEBOL 04
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/96525.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",CAZE TV 1
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/90526.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",CAZE TV 2
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/90527.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",TV NSPORTS HD (JOGO 1)
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/163.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",TV NSPORTS HD (JOGO 2)
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/164.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",APPLE TV 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/89786.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",APPLE TV 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/89787.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",APPLE TV 03
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/89788.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",APPLE TV 04
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/89789.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/451381.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/454757.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 03
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/454758.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 04
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/454759.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 05
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/454760.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 06
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/454761.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EVENTOS ESPECIAIS
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/462795.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",GOAT 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/469593.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",GOAT 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/469594.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",GOAT 03
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/469595.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",CAZE TV 3
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/537614.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",CAZE TV 4
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/537615.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 07
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/537616.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",PPV EXTRA 08
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/537617.ts
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV",X SPORTS
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/538625.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES  H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/273.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES H265*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88561.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/775.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES FHD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88559.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/67.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES HD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88560.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/531.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE CLUBES SD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88562.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/815.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 FHD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88563.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 FHD H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/274.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 H265*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88564.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/61.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 HD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88565.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/523.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 2 SD*
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/88566.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 3 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/814.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 3 FHD H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/275.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 3 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/62.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 3 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/524.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 4 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/813.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 4 FHD H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/276.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 4 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/63.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 4 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/525.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 5 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/812.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 5 FHD H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/277.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 5 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/64.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 5 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/526.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 6 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/811.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 6 FHD H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/278.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 6 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/65.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 6 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/527.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 7 FHD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/810.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 7 FHD H265
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/279.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 7 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/66.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 7 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/528.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 8 HD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/466059.ts
+#EXTINF:-1 group-title="CANAIS | PREMIERE",PREMIERE 8 SD
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/466060.ts
+#EXTINF:-1 group-title="CANAIS | NBA LEAGUE PASS",NBA LEAGUE PASS 01
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/83025.ts
+#EXTINF:-1 group-title="CANAIS | NBA LEAGUE PASS",NBA LEAGUE PASS 02
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/83026.ts
+#EXTINF:-1 group-title="CANAIS | NBA LEAGUE PASS",NBA LEAGUE PASS 03
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/83027.ts
+#EXTINF:-1 group-title="CANAIS | NBA LEAGUE PASS",NBA LEAGUE PASS 04
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/83028.ts
+#EXTINF:-1 group-title="CANAIS | NBA LEAGUE PASS",NBA LEAGUE PASS 05
+http://bcltop.online:80/live/9kq0pry7/7syej0y0/83029.ts
