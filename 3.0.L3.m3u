@@ -1,110 +1,456 @@
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• CLARO SPORTS CO (HD)
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/463.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• FUTBÓL CHILENO I (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/86.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• FUTBÓL CHILENO I (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/87.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• FUTBÓL CHILENO I (HD) »3«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/88.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• FUTBÓL CHILENO II (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/61274.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• FUTBÓL CHILENO II (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/61275.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• FUTBÓL CHILENO II (HD) »3«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/61276.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/92.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/93.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/97.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/98.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/99.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS (HD) »3«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/56659.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS (HD) »4«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/56660.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• ESPN (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/67190.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• D13 (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60957.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• D13 (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60958.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• D13 (HD) »3«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60959.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• D13 (HD) »4«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60960.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/248242.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/247844.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS PREMIUM 2 (HD) »1«
+--- LISTA L3 ---
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL INTERNACIONAL",FCL• TNT SPORTS PREMIUM 2 (HD) »1«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/248243.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• ECDF EC (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="FUTBOL INTERNACIONAL",DEP• TYC SPORTS AR (HD) »2«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/462.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="FUTBOL INTERNACIONAL",DEP• TYC SPORTS AR (HD) »3«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/555.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo_cl_basico.png" group-title="FUTBOL INTERNACIONAL",DEP• CDO BASICO CL (HD) »1«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/74106.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="FUTBOL INTERNACIONAL",DEP• CDO PREMIUM CL (HD) »1«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/26000.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="FUTBOL INTERNACIONAL",DEP• CDO PREMIUM CL (HD) »2«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/25999.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="FUTBOL INTERNACIONAL",DEP• ECDF EC (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/585.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• VTV UR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="FUTBOL INTERNACIONAL",DEP• VTV UR (HD) »1«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/558.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• VTV UR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="FUTBOL INTERNACIONAL",DEP• VTV UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/557.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• VTV UR (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Logo_VTV_nuevo.png/1200px-Logo_VTV_nuevo.png" group-title="FUTBOL INTERNACIONAL",DEP• VTV UR (HD) »3«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/556.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• VTV+ UR (HD) »1«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="FUTBOL INTERNACIONAL",DEP• VTV+ UR (HD) »1«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/560.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• VTV+ UR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="FUTBOL INTERNACIONAL",DEP• VTV+ UR (HD) »2«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/559.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• M. DEPORTES ES (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="FUTBOL INTERNACIONAL",DEP• M. DEPORTES ES (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/550.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• LA LIGA TV ES (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="FUTBOL INTERNACIONAL",DEP• LA LIGA TV ES (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/490.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• REAL MADRID TV ES (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3RCNhs2r/pngwing-com-3.png" group-title="FUTBOL INTERNACIONAL",DEP• REAL MADRID TV ES (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/587.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• M. LA LIGA ES (HD) »3«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="FUTBOL INTERNACIONAL",DEP• M. LA LIGA ES (HD) »3«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/495.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• M. LA LIGA ES (HD) »4«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="FUTBOL INTERNACIONAL",DEP• M. LA LIGA ES (HD) »4«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/492.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• M. LA LIGA 2 ES (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="FUTBOL INTERNACIONAL",DEP• M. LA LIGA 2 ES (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/493.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• EUROSPORT 1 (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="FUTBOL INTERNACIONAL",DEP• EUROSPORT 1 (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/577.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• EUROSPORT 2 (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="FUTBOL INTERNACIONAL",DEP• EUROSPORT 2 (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/578.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",DEP• CLARO SPORTS CO (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y0HQbqq7/Claro-Sports-logo-svg.png" group-title="FUTBOL INTERNACIONAL",DEP• CLARO SPORTS CO (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/463.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="⭐DEPORTES PREMIUM",DAZN F1 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784471.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="⭐DEPORTES PREMIUM",DAZN F1 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784472.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="⭐DEPORTES PREMIUM",DAZN 1 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784473.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="⭐DEPORTES PREMIUM",DAZN 1 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784474.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="⭐DEPORTES PREMIUM",DAZN 2 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784475.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="⭐DEPORTES PREMIUM",DAZN 2 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784476.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="⭐DEPORTES PREMIUM",DAZN 3 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784477.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="⭐DEPORTES PREMIUM",DAZN 3 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784478.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="⭐DEPORTES PREMIUM",DAZN 4 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784479.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="⭐DEPORTES PREMIUM",DAZN 4 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784480.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 1 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784481.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 1 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784482.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 2 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 2 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784484.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/05/1_0_1_7574_412_1_C00000_0_0_0.png?resize=440,264&ssl=1" group-title="⭐DEPORTES PREMIUM",DAZN 1 BAR ALEMANIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784485.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/j/j/xdazn2bar.jpg.pagespeed.ic.syjFryyuj7.jpg" group-title="⭐DEPORTES PREMIUM",DAZN 2 BAR ALEMANIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784486.ts
+#EXTINF:-1 tvg-id="LIGCAHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 1 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784487.ts
+#EXTINF:-1 tvg-id="LIGCAMP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 1 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784488.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 2 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784489.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 2 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784490.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 3 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784491.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 3 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784492.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="⭐DEPORTES PREMIUM",LALIGA TV 1 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784493.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="⭐DEPORTES PREMIUM",LALIGA TV 1 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784494.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="⭐DEPORTES PREMIUM",LALIGA TV 2 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784495.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="⭐DEPORTES PREMIUM",LALIGA TV 2 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784496.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784497.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784498.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES PERU OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784499.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES PERU OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784500.ts
+#EXTINF:-1 tvg-id="MGOLFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoXLhMbBfA-VCk8d0ilRzHvnANHMsubePB1g&s" group-title="⭐DEPORTES PREMIUM",GOLF POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784501.ts
+#EXTINF:-1 tvg-id="MGOLFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoXLhMbBfA-VCk8d0ilRzHvnANHMsubePB1g&s" group-title="⭐DEPORTES PREMIUM",GOLF POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784502.ts
+#EXTINF:-1 tvg-id="MGOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="⭐DEPORTES PREMIUM",GOLF 2 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784503.ts
+#EXTINF:-1 tvg-id="MGOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="⭐DEPORTES PREMIUM",GOLF 2 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784504.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="⭐DEPORTES PREMIUM",#VAMOS POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784505.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="⭐DEPORTES PREMIUM",#VAMOS POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784506.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="⭐DEPORTES PREMIUM",ELLAS VAMOS POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784507.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="⭐DEPORTES PREMIUM",ELLAS VAMOS POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784508.ts
+#EXTINF:-1 tvg-id="EURSPHD" tvg-logo="http://www.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 1 ESPAÑA OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784509.ts
+#EXTINF:-1 tvg-id="EURSPHD" tvg-logo="http://www.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 1 ESPAÑA OP 2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784510.ts
+#EXTINF:-1 tvg-id="ES2ESP" tvg-logo="http://www.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 2 ESPAÑA OP 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784511.ts
+#EXTINF:-1 tvg-id="ES2ESP" tvg-logo="http://www.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 2 ESPAÑA OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784512.ts
+#EXTINF:-1 tvg-id="ESPORT" tvg-logo="http://www.tmsimg.com/assets/s88253_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 1 ALEMANIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784513.ts
+#EXTINF:-1 tvg-id="ESUK2V" tvg-logo="http://www.tmsimg.com/assets/s112395_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 2 ALEMANIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784514.ts
+#EXTINF:-1 tvg-id="TDEP" tvg-logo="http://www.tmsimg.com/assets/s17189_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TDP (TELEDEPORTE ESP) OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784515.ts
+#EXTINF:-1 tvg-id="TELEDHD" tvg-logo="http://www.tmsimg.com/assets/s91225_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TDP (TELEDEPORTE ESP) OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784516.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="⭐DEPORTES PREMIUM",GOL PLAY ESPAÑA OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784517.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="⭐DEPORTES PREMIUM",GOL PLAY ESPAÑA OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784518.ts
+#EXTINF:-1 tvg-id="RMAD" tvg-logo="http://www.tmsimg.com/assets/s109784_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",REAL MADRID TV
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784519.ts
+#EXTINF:-1 tvg-id="BARCATV" tvg-logo="http://www.tmsimg.com/assets/s85437_h3_aa.png" group-title="⭐DEPORTES PREMIUM",BARCA TV
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784520.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS F1 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784521.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS F1 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784522.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="⭐DEPORTES PREMIUM",SKY SPORTS LALIGA  OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784523.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="⭐DEPORTES PREMIUM",SKY SPORTS LALIGA  OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784524.ts
+#EXTINF:-1 tvg-id="SSPOPL" tvg-logo="http://www.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS PREMIER LEAGUE OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784525.ts
+#EXTINF:-1 tvg-id="SSPOPLH" tvg-logo="http://www.tmsimg.com/assets/s89363_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS PREMIER LEAGUE OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784526.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://fussball.hatcoach.org/sender/sky-sport-bundesliga.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA ALEMANIA OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784527.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://fussball.hatcoach.org/sender/sky-sport-bundesliga.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA ALEMANIA OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784528.ts
+#EXTINF:-1 tvg-id="SSPOGO" tvg-logo="http://www.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS GOLF OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784529.ts
+#EXTINF:-1 tvg-id="SSPOGO" tvg-logo="http://www.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS GOLF OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784530.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",GOLTV ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784531.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",GOLTV ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784532.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784533.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784534.ts
+#EXTINF:-1 tvg-id="WINSPHD" tvg-logo="http://www.tmsimg.com/assets/s87031_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS (CO) OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784535.ts
+#EXTINF:-1 tvg-id="WINSPHD" tvg-logo="http://www.tmsimg.com/assets/s87031_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS (CO) OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784536.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS + (CO) OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784537.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS + (CO) OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784538.ts
+#EXTINF:-1 tvg-id="BEIN2HE" tvg-logo="http://www.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS Ñ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784539.ts
+#EXTINF:-1 tvg-id="BINSESE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS Ñ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784540.ts
+#EXTINF:-1 tvg-id="BEINX" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784541.ts
+#EXTINF:-1 tvg-id="BEINX" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784542.ts
+#EXTINF:-1 tvg-id="BEIN1HD" tvg-logo="http://www.tmsimg.com/assets/s76950_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS USA OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784543.ts
+#EXTINF:-1 tvg-id="BEIN1HD" tvg-logo="http://www.tmsimg.com/assets/s76950_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS USA OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784544.ts
+#EXTINF:-1 tvg-id="BEIN2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS LALIGA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784545.ts
+#EXTINF:-1 tvg-id="BEIN1HD" tvg-logo="http://www.tmsimg.com/assets/s76950_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS LIGUE 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784546.ts
+#EXTINF:-1 tvg-id="BEIN2HE" tvg-logo="http://www.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS PREMIER LEAGUE
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784547.ts
+#EXTINF:-1 tvg-id="BEIN10C" tvg-logo="https://mma.prnewswire.com/media/1817332/beIN_SPORTS_Logo.jpg?p=facebook" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS CANADA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784548.ts
+#EXTINF:-1 tvg-id="CLAROHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 1 MX OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784549.ts
+#EXTINF:-1 tvg-id="CLARDIS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 1 MX OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784550.ts
+#EXTINF:-1 tvg-id="CLASP2" tvg-logo="http://www.tmsimg.com/assets/s111257_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 2 MX OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784551.ts
+#EXTINF:-1 tvg-id="CLASP2" tvg-logo="http://www.tmsimg.com/assets/s111257_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 2 MX OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784552.ts
+#EXTINF:-1 tvg-id="CLAROHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 3 MX (SOLO EVENTO)
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784553.ts
+#EXTINF:-1 tvg-id="CLAROHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 4 MX (SOLO EVENTO)
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784554.ts
+#EXTINF:-1 tvg-id="CLAROSP" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-claro-sports-gt-1767.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS GUATEMALA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784555.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/dpxmcd1743576834.png" group-title="⭐DEPORTES PREMIUM",CALIENTE TV MEXICO OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784556.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/dpxmcd1743576834.png" group-title="⭐DEPORTES PREMIUM",CALIENTE TV MEXICO OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784557.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="⭐DEPORTES PREMIUM",TUDN MEXICO OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784558.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-logo="http://www.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TUDN MEXICO OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784559.ts
+#EXTINF:-1 tvg-id="TUDNCH" tvg-logo="http://www.tmsimg.com/assets/s89113_ll_h3_ac.png" group-title="⭐DEPORTES PREMIUM",TUDN USA OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784560.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="⭐DEPORTES PREMIUM",TUDN USA OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784561.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TYC SPORTS OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784562.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TYC SPORTS OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784563.ts
+#EXTINF:-1 tvg-id="FUBOSN" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FuboTV_US.png" group-title="⭐DEPORTES PREMIUM",FUBO SPORTS NETWORK (USA)
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784576.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903580.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ French (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ French (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903581.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ German (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ German (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903582.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Hispanic America (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Hispanic America (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903583.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Italy (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Italy (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903584.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Portuguese (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Portuguese (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903585.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Spain (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903586.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ United States (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ United States (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903587.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Women (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Women (720p)
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903588.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="⭐DEPORTES PREMIUM",DAZN F1 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784471.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="⭐DEPORTES PREMIUM",DAZN F1 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784472.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="⭐DEPORTES PREMIUM",DAZN 1 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784473.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="⭐DEPORTES PREMIUM",DAZN 1 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784474.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="⭐DEPORTES PREMIUM",DAZN 2 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784475.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="⭐DEPORTES PREMIUM",DAZN 2 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784476.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="⭐DEPORTES PREMIUM",DAZN 3 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784477.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="⭐DEPORTES PREMIUM",DAZN 3 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784478.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="⭐DEPORTES PREMIUM",DAZN 4 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784479.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="⭐DEPORTES PREMIUM",DAZN 4 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784480.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 1 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784481.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 1 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784482.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 2 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="⭐DEPORTES PREMIUM",DAZN LALIGA 2 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784484.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/05/1_0_1_7574_412_1_C00000_0_0_0.png?resize=440,264&ssl=1" group-title="⭐DEPORTES PREMIUM",DAZN 1 BAR ALEMANIA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784485.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/j/j/xdazn2bar.jpg.pagespeed.ic.syjFryyuj7.jpg" group-title="⭐DEPORTES PREMIUM",DAZN 2 BAR ALEMANIA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784486.ts
+#EXTINF:-1 tvg-id="LIGCAHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 1 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784487.ts
+#EXTINF:-1 tvg-id="LIGCAMP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 1 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784488.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 2 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784489.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 2 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784490.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 3 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784491.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="⭐DEPORTES PREMIUM",LIGA DE CAMPEONES 3 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784492.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="⭐DEPORTES PREMIUM",LALIGA TV 1 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784493.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="⭐DEPORTES PREMIUM",LALIGA TV 1 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784494.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="⭐DEPORTES PREMIUM",LALIGA TV 2 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784495.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="⭐DEPORTES PREMIUM",LALIGA TV 2 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784496.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784497.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784498.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES PERU OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784499.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="⭐DEPORTES PREMIUM",MOVISTAR DEPORTES PERU OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784500.ts
+#EXTINF:-1 tvg-id="MGOLFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoXLhMbBfA-VCk8d0ilRzHvnANHMsubePB1g&s" group-title="⭐DEPORTES PREMIUM",GOLF POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784501.ts
+#EXTINF:-1 tvg-id="MGOLFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoXLhMbBfA-VCk8d0ilRzHvnANHMsubePB1g&s" group-title="⭐DEPORTES PREMIUM",GOLF POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784502.ts
+#EXTINF:-1 tvg-id="MGOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="⭐DEPORTES PREMIUM",GOLF 2 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784503.ts
+#EXTINF:-1 tvg-id="MGOLF" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="⭐DEPORTES PREMIUM",GOLF 2 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784504.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="⭐DEPORTES PREMIUM",#VAMOS POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784505.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="⭐DEPORTES PREMIUM",#VAMOS POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784506.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="⭐DEPORTES PREMIUM",ELLAS VAMOS POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784507.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="⭐DEPORTES PREMIUM",ELLAS VAMOS POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784508.ts
+#EXTINF:-1 tvg-id="EURSPHD" tvg-logo="http://www.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 1 ESPAÑA OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784509.ts
+#EXTINF:-1 tvg-id="EURSPHD" tvg-logo="http://www.tmsimg.com/assets/s91198_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 1 ESPAÑA OP 2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784510.ts
+#EXTINF:-1 tvg-id="ES2ESP" tvg-logo="http://www.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 2 ESPAÑA OP 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784511.ts
+#EXTINF:-1 tvg-id="ES2ESP" tvg-logo="http://www.tmsimg.com/assets/s108370_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 2 ESPAÑA OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784512.ts
+#EXTINF:-1 tvg-id="ESPORT" tvg-logo="http://www.tmsimg.com/assets/s88253_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 1 ALEMANIA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784513.ts
+#EXTINF:-1 tvg-id="ESUK2V" tvg-logo="http://www.tmsimg.com/assets/s112395_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",EUROSPORT 2 ALEMANIA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784514.ts
+#EXTINF:-1 tvg-id="TDEP" tvg-logo="http://www.tmsimg.com/assets/s17189_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TDP (TELEDEPORTE ESP) OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784515.ts
+#EXTINF:-1 tvg-id="TELEDHD" tvg-logo="http://www.tmsimg.com/assets/s91225_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TDP (TELEDEPORTE ESP) OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784516.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="⭐DEPORTES PREMIUM",GOL PLAY ESPAÑA OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784517.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="⭐DEPORTES PREMIUM",GOL PLAY ESPAÑA OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784518.ts
+#EXTINF:-1 tvg-id="RMAD" tvg-logo="http://www.tmsimg.com/assets/s109784_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",REAL MADRID TV
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784519.ts
+#EXTINF:-1 tvg-id="BARCATV" tvg-logo="http://www.tmsimg.com/assets/s85437_h3_aa.png" group-title="⭐DEPORTES PREMIUM",BARCA TV
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784520.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS F1 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784521.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS F1 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784522.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="⭐DEPORTES PREMIUM",SKY SPORTS LALIGA  OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784523.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="⭐DEPORTES PREMIUM",SKY SPORTS LALIGA  OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784524.ts
+#EXTINF:-1 tvg-id="SSPOPL" tvg-logo="http://www.tmsimg.com/assets/s89362_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS PREMIER LEAGUE OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784525.ts
+#EXTINF:-1 tvg-id="SSPOPLH" tvg-logo="http://www.tmsimg.com/assets/s89363_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS PREMIER LEAGUE OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784526.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://fussball.hatcoach.org/sender/sky-sport-bundesliga.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA ALEMANIA OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784527.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://fussball.hatcoach.org/sender/sky-sport-bundesliga.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS BUNDESLIGA ALEMANIA OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784528.ts
+#EXTINF:-1 tvg-id="SSPOGO" tvg-logo="http://www.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS GOLF OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784529.ts
+#EXTINF:-1 tvg-id="SSPOGO" tvg-logo="http://www.tmsimg.com/assets/s24216_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",SKY SPORTS GOLF OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784530.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",GOLTV ECUADOR
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784531.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",GOLTV ECUADOR
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784532.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784533.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784534.ts
+#EXTINF:-1 tvg-id="WINSPHD" tvg-logo="http://www.tmsimg.com/assets/s87031_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS (CO) OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784535.ts
+#EXTINF:-1 tvg-id="WINSPHD" tvg-logo="http://www.tmsimg.com/assets/s87031_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS (CO) OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784536.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS + (CO) OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784537.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",WIN SPORTS + (CO) OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784538.ts
+#EXTINF:-1 tvg-id="BEIN2HE" tvg-logo="http://www.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS Ñ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784539.ts
+#EXTINF:-1 tvg-id="BINSESE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/BeIN_Sports_En_Espa%C3%B1ol.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS Ñ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784540.ts
+#EXTINF:-1 tvg-id="BEINX" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784541.ts
+#EXTINF:-1 tvg-id="BEINX" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport-xtra-espanol-plain.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS XTRA Ñ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784542.ts
+#EXTINF:-1 tvg-id="BEIN1HD" tvg-logo="http://www.tmsimg.com/assets/s76950_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS USA OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784543.ts
+#EXTINF:-1 tvg-id="BEIN1HD" tvg-logo="http://www.tmsimg.com/assets/s76950_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS USA OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784544.ts
+#EXTINF:-1 tvg-id="BEIN2HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/BeIN_LaLiga_HD.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS LALIGA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784545.ts
+#EXTINF:-1 tvg-id="BEIN1HD" tvg-logo="http://www.tmsimg.com/assets/s76950_ll_h3_ab.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS LIGUE 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784546.ts
+#EXTINF:-1 tvg-id="BEIN2HE" tvg-logo="http://www.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS PREMIER LEAGUE
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784547.ts
+#EXTINF:-1 tvg-id="BEIN10C" tvg-logo="https://mma.prnewswire.com/media/1817332/beIN_SPORTS_Logo.jpg?p=facebook" group-title="⭐DEPORTES PREMIUM",BEIN SPORTS CANADA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784548.ts
+#EXTINF:-1 tvg-id="CLAROHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 1 MX OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784549.ts
+#EXTINF:-1 tvg-id="CLARDIS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 1 MX OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784550.ts
+#EXTINF:-1 tvg-id="CLASP2" tvg-logo="http://www.tmsimg.com/assets/s111257_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 2 MX OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784551.ts
+#EXTINF:-1 tvg-id="CLASP2" tvg-logo="http://www.tmsimg.com/assets/s111257_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 2 MX OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784552.ts
+#EXTINF:-1 tvg-id="CLAROHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 3 MX (SOLO EVENTO)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784553.ts
+#EXTINF:-1 tvg-id="CLAROHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zr8xea1610651720.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS 4 MX (SOLO EVENTO)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784554.ts
+#EXTINF:-1 tvg-id="CLAROSP" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-claro-sports-gt-1767.png" group-title="⭐DEPORTES PREMIUM",CLARO SPORTS GUATEMALA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784555.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/dpxmcd1743576834.png" group-title="⭐DEPORTES PREMIUM",CALIENTE TV MEXICO OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784556.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/dpxmcd1743576834.png" group-title="⭐DEPORTES PREMIUM",CALIENTE TV MEXICO OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784557.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="⭐DEPORTES PREMIUM",TUDN MEXICO OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784558.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-logo="http://www.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TUDN MEXICO OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784559.ts
+#EXTINF:-1 tvg-id="TUDNCH" tvg-logo="http://www.tmsimg.com/assets/s89113_ll_h3_ac.png" group-title="⭐DEPORTES PREMIUM",TUDN USA OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784560.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="⭐DEPORTES PREMIUM",TUDN USA OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784561.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TYC SPORTS OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784562.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="⭐DEPORTES PREMIUM",TYC SPORTS OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784563.ts
+#EXTINF:-1 tvg-id="FUBOSN" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FuboTV_US.png" group-title="⭐DEPORTES PREMIUM",FUBO SPORTS NETWORK (USA)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784576.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903580.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ French (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ French (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903581.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ German (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ German (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903582.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Hispanic America (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Hispanic America (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903583.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Italy (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Italy (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903584.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Portuguese (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Portuguese (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903585.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Spain (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Spain (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903586.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ United States (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ United States (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903587.ts
-#EXTINF:-1 group-title="FUTBOL INTERNACIONAL",FIFA+ Women (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FUTBOL INTERNACIONAL",FIFA+ Women (720p)
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903588.ts
