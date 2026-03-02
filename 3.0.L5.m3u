@@ -1,210 +1,610 @@
 --- LISTA L5 ---
 #EXTM3U
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »1«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/86.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »1«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/86.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »1«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/86.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »2«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/87.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »2«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/87.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/92.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »2«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/87.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/92.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »4«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/93.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »1«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/86.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »2«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/87.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/92.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »4«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/93.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »1«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/86.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »2«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/87.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/92.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »4«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/93.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/567.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »1«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/86.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »2«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/87.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO I (HD) »3«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/88.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »1«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/61274.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »2«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/61275.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FCL• FUTBÓL CHILENO II (HD) »3«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/61276.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »3«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/92.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM (HD) »4«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/93.ts
+#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS PREMIUM 2 (HD) »4«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/97.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »1«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/98.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »2«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/99.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »3«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/56659.ts
+#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="FUTBOL CHILENO",FCL• TNT SPORTS (HD) »4«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/56660.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="FUTBOL CHILENO",FCL• ESPN (HD) »2«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/67190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »1«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60957.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »2«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »3«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="FUTBOL CHILENO",FCL• D13 (HD) »4«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/60960.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »1«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/568.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE CLUBES BR (HD) »2«
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/569.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 1 BR (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/561.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 3 BR (HD)
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/563.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 4 BR (HD)
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/564.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 5 BR (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/565.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 6 BR (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/566.ts
-#EXTINF:-1 group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",DEP• PREMIERE 7 BR (HD)
 http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/567.ts
