@@ -1,5 +1,7 @@
 --- LISTA L1 ---
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/459.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
 http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/460.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
