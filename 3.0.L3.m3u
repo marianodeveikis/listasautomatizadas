@@ -10,3 +10,9 @@ http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/88.ts
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/61274.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="FUTBOL CHILENO",FUTBÓL CHILENO II »2«
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/61275.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="FUTBOL ESPAÑA",M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/550.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="FUTBOL CHILENO",TNT SPORTS PREMIUM CHILE OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784469.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="FUTBOL CHILENO",TNT SPORTS PREMIUM CHILE OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784470.ts
