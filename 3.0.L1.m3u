@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/459.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/461.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
