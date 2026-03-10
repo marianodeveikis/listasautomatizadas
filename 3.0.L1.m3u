@@ -1,219 +1,14 @@
---- LISTA L1 ---
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/a4/ESPN_Premium_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20231209132001&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »6«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784384.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/a4/ESPN_Premium_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20231209132001&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »7«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784385.ts
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/04/TAVI_TNT-Sports_Liga-Profesional.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »8«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784465.ts
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/04/TAVI_TNT-Sports_Liga-Profesional.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »9«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784466.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP1
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784564.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP2
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784565.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »10«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776740.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »11«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776741.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP3
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776756.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP4
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776757.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png/revision/latest?cb=20180622191427&path-prefix=es" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »4«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776758.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png/revision/latest?cb=20180622191427&path-prefix=es" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »5«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776759.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_(Argentina).png/330px-TNT_Sports_Premium_(Argentina).png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »6«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776760.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_(Argentina).png/330px-TNT_Sports_Premium_(Argentina).png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »7«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776761.ts
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Iy4fKVgUWmjmzWPu3ypL1ohkujKTWj8azi6LTOvt-2HQ.jpg" group-title="FUTBOL ARGENTINA",ESPN PREMIUM 12
-http://sudaka.link:25461/live/luiscavacho/cavacho/16959.ts
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
-http://sudaka.link:25461/live/luiscavacho/cavacho/15076.ts
-#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
-http://sudaka.link:25461/live/luiscavacho/cavacho/16399.ts
-#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
-http://sudaka.link:25461/live/luiscavacho/cavacho/13913.ts
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
-http://sudaka.link:25461/live/luiscavacho/cavacho/16961.ts
-#EXTINF:-1 tvg-id="CDF" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
-http://sudaka.link:25461/live/luiscavacho/cavacho/13915.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/979485332tv/fgx54q/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/460.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/544.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »3«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/461.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »1«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/542.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »2«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/543.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »3«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »4«
-http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/a4/ESPN_Premium_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20231209132001&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »6«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784384.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/a4/ESPN_Premium_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20231209132001&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »7«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784385.ts
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/04/TAVI_TNT-Sports_Liga-Profesional.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »8«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784465.ts
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/04/TAVI_TNT-Sports_Liga-Profesional.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »9«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784466.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP1
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784564.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP2
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784565.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »10«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776740.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »11«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776741.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP3
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776756.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP4
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776757.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png/revision/latest?cb=20180622191427&path-prefix=es" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »4«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776758.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png/revision/latest?cb=20180622191427&path-prefix=es" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »5«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776759.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_(Argentina).png/330px-TNT_Sports_Premium_(Argentina).png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »6«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776760.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_(Argentina).png/330px-TNT_Sports_Premium_(Argentina).png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »7«
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776761.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/a4/ESPN_Premium_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20231209132001&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »6«
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784384.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/a/a4/ESPN_Premium_logo.svg.png/revision/latest/scale-to-width-down/1200?cb=20231209132001&path-prefix=es" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »7«
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784385.ts
 #EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/04/TAVI_TNT-Sports_Liga-Profesional.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »8«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784465.ts
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784465.ts
 #EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://tavilatam.com/wp-content/uploads/2025/04/TAVI_TNT-Sports_Liga-Profesional.png" group-title="FUTBOL ARGENTINO",ESPN PREMIUM (HD) »9«
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784466.ts
 #EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="FUTBOL ARGENTINO",TYC SPORTS INTERNACIONAL OP1
@@ -231,20 +26,20 @@ http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776757.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png/revision/latest?cb=20180622191427&path-prefix=es" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »4«
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776758.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/TNT_Sports_Logo_(2017)_II.png/revision/latest?cb=20180622191427&path-prefix=es" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »5«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776759.ts
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776759.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_(Argentina).png/330px-TNT_Sports_Premium_(Argentina).png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »6«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776760.ts
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776760.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TNT_Sports_Premium_(Argentina).png/330px-TNT_Sports_Premium_(Argentina).png" group-title="FUTBOL ARGENTINO",TNT SPORTS AR (HD) »7«
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776761.ts
-#EXTINF:-1 tvg-id="foxsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Iy4fKVgUWmjmzWPu3ypL1ohkujKTWj8azi6LTOvt-2HQ.jpg" group-title="FUTBOL ARGENTINA",ESPN PREMIUM 12
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776761.ts
+#EXTINF:-1 tvg-id="foxsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Iy4fKVgUWmjmzWPu3ypL1ohkujKTWj8azi6LTOvt-2HQ.jpg" group-title="FUTBOL ARGENTINA",ESPN PREMIUM (HD) »12«
 http://sudaka.link:25461/live/luiscavacho/cavacho/16959.ts
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS AR (HD) »8«
 http://sudaka.link:25461/live/luiscavacho/cavacho/15076.ts
-#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
+#EXTINF:-1 tvg-id="cdfpremium.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS AR (HD) »9«
 http://sudaka.link:25461/live/luiscavacho/cavacho/16399.ts
-#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
+#EXTINF:-1 tvg-id="CDFBasico.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS AR (HD) »10«
 http://sudaka.link:25461/live/luiscavacho/cavacho/13913.ts
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS AR (HD) »11«
 http://sudaka.link:25461/live/luiscavacho/cavacho/16961.ts
-#EXTINF:-1 tvg-id="CDF" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS
+#EXTINF:-1 tvg-id="CDF" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="FUTBOL ARGENTINA",TNT SPORTS AR (HD) »12«
 http://sudaka.link:25461/live/luiscavacho/cavacho/13915.ts
