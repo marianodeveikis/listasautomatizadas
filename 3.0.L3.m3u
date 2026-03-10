@@ -157,12 +157,12 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584959.ts
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584960.ts
 #EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LaLigaTV_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175336" group-title="FUTBOL ESPAÑA",LaLiga TV 3 por M+  HD
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584962.ts
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LaLigaTV_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175336" group-title="FUTBOL ESPAÑA",LaLiga TV 3 por M+ FHD
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584963.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION SD
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584971.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION HD
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584972.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 2 HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584976.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 2 FHD
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584977.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 3 SD
