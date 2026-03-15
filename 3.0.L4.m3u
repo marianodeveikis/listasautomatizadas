@@ -1,1 +1,949 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga.png" group-title="EVENTOS DE HOY",15:00 ◌ LaLiga ◌ Levante vs. Deportivo Alavés ◌ ES-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904145.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga.png" group-title="EVENTOS DE HOY",15:00 ◌ LaLiga ◌ Levante vs. Deportivo Alavés ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904146.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:50 ◌ Premier League ◌ Wolverhampton Wanderers vs. Aston Villa ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904147.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/seriea.png" group-title="EVENTOS DE HOY",14:30 ◌ Serie A ◌ Parma vs. Cagliari ◌ ES-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904148.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/seriea.png" group-title="EVENTOS DE HOY",14:30 ◌ Serie A ◌ Parma vs. Cagliari ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904149.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue1.png" group-title="EVENTOS DE HOY",14:45 ◌ Ligue 1 ◌ Strasbourg vs. Lens ◌ ES-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904150.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue1.png" group-title="EVENTOS DE HOY",14:45 ◌ Ligue 1 ◌ Strasbourg vs. Lens ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904151.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/bundesliga.png" group-title="EVENTOS DE HOY",14:30 ◌ Bundesliga ◌ Augsburg vs. Köln ◌ ES-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904152.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/bundesliga.png" group-title="EVENTOS DE HOY",14:30 ◌ Bundesliga ◌ Augsburg vs. Köln ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904153.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/bundesliga2.png" group-title="EVENTOS DE HOY",12:30 ◌ 2. Bundesliga ◌ Dynamo Dresden vs. Darmstadt 98 ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904154.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/bundesliga2.png" group-title="EVENTOS DE HOY",12:30 ◌ 2. Bundesliga ◌ Fortuna Düsseldorf vs. Bochum ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904155.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue2.png" group-title="EVENTOS DE HOY",14:00 ◌ Ligue 2 ◌ Bastia vs. Annecy ◌ FR-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904156.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue2.png" group-title="EVENTOS DE HOY",14:00 ◌ Ligue 2 ◌ Clermont vs. Dunkerque ◌ FR-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904157.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue2.png" group-title="EVENTOS DE HOY",14:00 ◌ Ligue 2 ◌ Grenoble Foot 38 vs. Boulogne ◌ FR-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904158.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue2.png" group-title="EVENTOS DE HOY",14:00 ◌ Ligue 2 ◌ Laval vs. Nancy ◌ FR-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904159.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue2.png" group-title="EVENTOS DE HOY",14:00 ◌ Ligue 2 ◌ Montpellier vs. Reims ◌ FR-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904160.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/efl.png" group-title="EVENTOS DE HOY",15:00 ◌ Championship ◌ Bristol City vs. Watford ◌ ES-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904161.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/efl.png" group-title="EVENTOS DE HOY",15:00 ◌ Championship ◌ Bristol City vs. Watford ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904162.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga2.png" group-title="EVENTOS DE HOY",14:20 ◌ Liga Smartbank ◌ Albacete vs. Almería ◌ ES-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904163.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga2.png" group-title="EVENTOS DE HOY",14:20 ◌ Liga Smartbank ◌ Albacete vs. Almería ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904164.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/saudipro.png" group-title="EVENTOS DE HOY",14:00 ◌ Saudi Pro League ◌ Al Shabab vs. Al Hilal ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904165.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/saudipro.png" group-title="EVENTOS DE HOY",14:00 ◌ Saudi Pro League ◌ Al Shabab vs. Al Hilal ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904166.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/superlig.png" group-title="EVENTOS DE HOY",11:50 ◌ Super Lig ◌ Trabzonspor vs. Fatih Karagümrük ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904167.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeiraliga.png" group-title="EVENTOS DE HOY",13:45 ◌ Primeira Liga ◌ Porto vs. Arouca ◌ PT-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904168.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeiraliga.png" group-title="EVENTOS DE HOY",15:45 ◌ Primeira Liga ◌ Sporting CP vs. Estoril ◌ PT-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904169.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",11:50 ◌ CONCACAF U20 ◌ Saint Lucia vs. Dominica ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904170.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",12:50 ◌ CONCACAF U20 ◌ Saint Kitts & Nevis vs. Bonaire ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904171.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",14:50 ◌ CONCACAF U20 ◌ Puerto Rico vs. Turks & Caicos Islands ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904172.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",14:50 ◌ CONCACAF U20 ◌ República Dominicana vs. British Virgin Islands ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904173.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",15:50 ◌ CONCACAF U20 ◌ Suriname vs. Saint Martin ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904174.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",17:50 ◌ CONCACAF U20 ◌ Cayman Islands vs. Jamaica ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904175.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",18:50 ◌ CONCACAF U20 ◌ Grenada vs. El Salvador ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904176.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",20:50 ◌ CONCACAF U20 ◌ Belize vs. French Guiana ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904177.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",18:50 ◌ CONCACAF WQ ◌ Guyana vs. Dominica ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904178.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",18:50 ◌ CONCACAF WQ ◌ Puerto Rico vs. St. Vincent & The Grenadines ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904179.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerabchile.png" group-title="EVENTOS DE HOY",16:00 ◌ Primera B Chile ◌ Recoleta vs. Unión Española ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904180.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerabchile.png" group-title="EVENTOS DE HOY",18:30 ◌ Primera B Chile ◌ Deportes Santa Cruz vs. Cobreloa ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904181.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerachile.png" group-title="EVENTOS DE HOY",16:00 ◌ Primera Chile ◌ Cobresal vs. La Serena ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904182.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerachile.png" group-title="EVENTOS DE HOY",18:30 ◌ Primera Chile ◌ Unión La Calera vs. Audax Italiano ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904183.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamax.png" group-title="EVENTOS DE HOY",15:00 ◌ Liga 1 ◌ Alianza Atlético vs. ADT ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904184.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamax.png" group-title="EVENTOS DE HOY",17:45 ◌ Liga 1 ◌ Melgar vs. Los Chankas ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904185.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamax.png" group-title="EVENTOS DE HOY",20:15 ◌ Liga 1 ◌ Deportivo Garcilaso vs. Cienciano ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904186.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerauruguay.png" group-title="EVENTOS DE HOY",18:00 ◌ Primera División ◌ Cerro vs. Boston River ◌ ES-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904187.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerauruguay.png" group-title="EVENTOS DE HOY",18:00 ◌ Primera División ◌ Cerro vs. Boston River ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904188.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligapro.png" group-title="EVENTOS DE HOY",19:30 ◌ Serie A Ecuador ◌ Técnico Universitario vs. Orense ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904189.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/amistoso.png" group-title="EVENTOS DE HOY",20:00 ◌ Amistoso Femenino ◌ Costa Rica vs. Brasil ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904190.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligabetplay.png" group-title="EVENTOS DE HOY",20:30 ◌ Liga BetPlay ◌ Once Caldas vs. Boyacá Chicó ◌ ES-468p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904191.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligabetplay.png" group-title="EVENTOS DE HOY",20:30 ◌ Liga BetPlay ◌ Once Caldas vs. Boyacá Chicó ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904192.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/expansionmx.png" group-title="EVENTOS DE HOY",18:00 ◌ Expansión MX ◌ Alebrijes vs. Dorados ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904193.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/expansionmx.png" group-title="EVENTOS DE HOY",20:00 ◌ Expansión MX ◌ Correcaminos vs. Tapatío ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904194.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/expansionmx.png" group-title="EVENTOS DE HOY",20:00 ◌ Expansión MX ◌ Mineros vs. Venados ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904195.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",20:00 ◌ Liga MX ◌ Mazatlán vs. Pachuca ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904196.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",20:00 ◌ Liga MX ◌ Querétaro vs. Santos Laguna ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904197.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",22:00 ◌ Liga MX ◌ Juárez vs. Atlas ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904198.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",22:06 ◌ Liga MX ◌ Tijuana vs. Pumas UNAM ◌ ES-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904199.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/superrugby.png" group-title="EVENTOS DE HOY",01:00 ◌ Super Rugby Pacific ◌ Moana Pasifika vs. Force ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904200.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/superrugby.png" group-title="EVENTOS DE HOY",03:30 ◌ Super Rugby Pacific ◌ Reds vs. Highlanders ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904201.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/superrugbyamericas.png" group-title="EVENTOS DE HOY",18:00 ◌ Súper Rugby Américas ◌ Peñarol Rugby vs. Tarucas ◌ ES-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904202.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/atp.png" group-title="EVENTOS DE HOY",04:30 ◌ ATP Dubai ◌ Centre Court (Dobles - Semifinales) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/atp.png" group-title="EVENTOS DE HOY",08:00 ◌ ATP Dubai ◌ Semifinal ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904204.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/atp.png" group-title="EVENTOS DE HOY",13:00 ◌ ATP ◌ Francisco Cerúndolo vs. Emilio Nava (Cuartos de Final) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904205.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/atp.png" group-title="EVENTOS DE HOY",19:55 ◌ ATP ◌ Miomir Kecmanovic vs. Flavio Cobolli (Semifinal) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904206.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/atp.png" group-title="EVENTOS DE HOY",20:00 ◌ ATP Acapulco ◌ Grandstand (Dobles - Semifinales) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904207.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/atp.png" group-title="EVENTOS DE HOY",20:00 ◌ ATP Acapulco ◌ Semifinal ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904208.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/atp.png" group-title="EVENTOS DE HOY",21:30 ◌ ATP Acapulco ◌ Semifinal ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904209.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wta.png" group-title="EVENTOS DE HOY",14:00 ◌ WTA ◌ ATX Open (Cuartos de Final) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904210.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wta.png" group-title="EVENTOS DE HOY",14:55 ◌ WTA ◌ Mérida WTA 500 (Cuartos de Final) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904211.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wta.png" group-title="EVENTOS DE HOY",15:30 ◌ WTA ◌ ATX Open Grandstand (Dobles) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904212.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wta.png" group-title="EVENTOS DE HOY",18:00 ◌ WTA ◌ Mérida WTA 500 Cancha 1 (Dobles) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904213.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wta.png" group-title="EVENTOS DE HOY",18:55 ◌ WTA ◌ Mérida WTA 500 (Cuartos de Final) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904214.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/indycar.png" group-title="EVENTOS DE HOY",12:30 ◌ Indy NXT ◌ Streets of St. Petersburg (Practice 1) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904215.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/indycar.png" group-title="EVENTOS DE HOY",13:30 ◌ IndyCar Series ◌ Streets of St. Petersburg (Practice 1) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904216.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/motogp.png" group-title="EVENTOS DE HOY",01:10 ◌ MotoGP ◌ PT Grand Prix of Thailand - Practice (Moto3/Moto2) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904217.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/motogp.png" group-title="EVENTOS DE HOY",02:50 ◌ MotoGP ◌ PT Grand Prix of Thailand - Practice (MotoGP) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904218.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/motogp.png" group-title="EVENTOS DE HOY",20:35 ◌ MotoGP ◌ PT Grand Prix of Thailand - Free Practice 2 (Moto3) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904219.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nll.png" group-title="EVENTOS DE HOY",18:00 ◌ Women's Lacrosse League ◌ New York Charging vs. Boston Guard (Round Robin) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/premierlacrosse.png" group-title="EVENTOS DE HOY",20:00 ◌ Premier Lacrosse League ◌ New York Atlas vs. Denver Outlaws (Round Robin) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904221.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/dptour.png" group-title="EVENTOS DE HOY",05:30 ◌ DP World Tour ◌ Investec South African Open (Segunda Ronda) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904222.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/pgatour.png" group-title="EVENTOS DE HOY",06:45 ◌ PGA TOUR ◌ Cognizant Classic in The Palm Beaches: Main Feed (Segunda Ronda) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904223.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/icc.png" group-title="EVENTOS DE HOY",08:00 ◌ ICC T20 ◌ Inglaterra vs. Nueva Zelanda ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904224.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaa.png" group-title="EVENTOS DE HOY",15:00 ◌ NCAA Indoor T&F ◌ CUSA Championship (Día 1) ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904225.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaasoftball.png" group-title="EVENTOS DE HOY",17:00 ◌ NCAA Softball ◌ Ohio State vs. Duke ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904226.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaa.png" group-title="EVENTOS DE HOY",17:00 ◌ NCAA Women's Lacrosse ◌ Florida State vs. #1 North Carolina ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904227.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaa.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Gym W ◌ BYU vs. West Virginia ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904228.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaa.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Gym W ◌ Central Michigan vs. Northern Illinois ◌ EN-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/904229.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaa.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Gym W ◌ NC State ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904230.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaavolleyball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Volleyball ◌ Purdue Fort Wayne vs. Ball State ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904231.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nll.png" group-title="EVENTOS DE HOY",19:00 ◌ NLL ◌ Georgia Swarm vs. Philadelphia Wings ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904232.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nll.png" group-title="EVENTOS DE HOY",19:30 ◌ NLL ◌ Saskatchewan Rush vs. Buffalo Bandits ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nll.png" group-title="EVENTOS DE HOY",21:00 ◌ NLL ◌ San Diego Seals vs. Colorado Mammoth ◌ EN-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/904234.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga.png" group-title="EVENTOS DE HOY",15:00 ◌ LALIGA ◌ Real Madrid vs. Getafe CF ◌ es-1080p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905227.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga.png" group-title="EVENTOS DE HOY",15:00 ◌ LALIGA ◌ Real Madrid vs. Getafe CF ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905228.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga.png" group-title="EVENTOS DE HOY",15:00 ◌ LALIGA ◌ Real Madrid vs. Getafe CF ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905229.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/seriea.png" group-title="EVENTOS DE HOY",12:30 ◌ Italy - Serie A ◌ Pisa vs. Bologna ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905230.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/seriea.png" group-title="EVENTOS DE HOY",14:45 ◌ Italy - Serie A ◌ Udinese vs. Fiorentina ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905231.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/seriea.png" group-title="EVENTOS DE HOY",12:30 ◌ Italy - Serie A ◌ Pisa vs. Bologna ◌ es-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905232.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/seriea.png" group-title="EVENTOS DE HOY",14:45 ◌ Italy - Serie A ◌ Udinese vs. Fiorentina ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/efl.png" group-title="EVENTOS DE HOY",15:00 ◌ Championship ◌ Birmingham City vs. Middlesbrough ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905234.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/efl.png" group-title="EVENTOS DE HOY",15:00 ◌ Championship ◌ Birmingham City vs. Middlesbrough ◌ es-468p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905235.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligue2.png" group-title="EVENTOS DE HOY",14:45 ◌ Ligue 2 ◌ Amiens SC vs. Troyes ◌ fr-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905236.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga2.png" group-title="EVENTOS DE HOY",14:30 ◌ Liga Smartbank ◌ Córdoba vs. FC Andorra ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905237.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/laliga2.png" group-title="EVENTOS DE HOY",14:30 ◌ Liga Smartbank ◌ Córdoba vs. FC Andorra ◌ es-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905238.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeiraliga.png" group-title="EVENTOS DE HOY",15:15 ◌ Portugal - Primeira Liga ◌ Gil Vicente vs. Benfica ◌ pt-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905239.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",12:00 ◌ CONCACAF U20 Championship ◌ Sint Maarten U20 vs. Trinidad and Tobago U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905240.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",15:00 ◌ CONCACAF U20 Championship ◌ Bermuda U20 vs. Costa Rica U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905241.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",16:00 ◌ CONCACAF U20 Championship ◌ Anguilla U20 vs. Curaçao U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905242.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",17:00 ◌ CONCACAF U20 Championship ◌ US Virgin Islands U20 vs. Nicaragua U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905243.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",19:00 ◌ CONCACAF U20 Championship ◌ Guyana U20 vs. Haiti U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905244.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",20:00 ◌ CONCACAF U20 Championship ◌ Aruba U20 vs. Canada U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905245.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",14:00 ◌ CONCACAF W Championship ◌ St. Lucia vs. Mexico ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905246.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",19:00 ◌ CONCACAF W Championship ◌ Nicaragua vs. Jamaica ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905247.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerabchile.png" group-title="EVENTOS DE HOY",16:00 ◌ Chile - Primera B ◌ Magallanes vs. San Marcos ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905248.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerabchile.png" group-title="EVENTOS DE HOY",18:30 ◌ Chile - Primera B ◌ San Luis vs. Curicó Unido ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905249.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerauruguay.png" group-title="EVENTOS DE HOY",18:00 ◌ Primera Uruguay ◌ Deportivo Maldonado vs. Juventud ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905250.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primerauruguay.png" group-title="EVENTOS DE HOY",18:00 ◌ Primera Uruguay ◌ Deportivo Maldonado vs. Juventud ◌ es-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905251.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",17:15 ◌ Primera Argentina ◌ Deportivo Riestra vs. Platense ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905252.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",17:15 ◌ Primera Argentina ◌ Estudiantes vs. Vélez Sarsfield ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905253.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",19:30 ◌ Primera Argentina ◌ Banfield vs. Aldosivi ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905254.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",19:30 ◌ Primera Argentina ◌ Independiente Rivadavia vs. River Plate ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905255.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/campeonatocarioca.png" group-title="EVENTOS DE HOY",19:00 ◌ Brazil - Campeonato Carioca 1 ◌ Madureira vs. Flamengo ◌ pt-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905256.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/lacrosse.png" group-title="EVENTOS DE HOY",14:00 ◌ NCAA Men's Lacrosse ◌ Merrimack vs. Providence ◌ en-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905257.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaa.png" group-title="EVENTOS DE HOY",11:15 ◌ NCAA Atletismo ◌ MVC Indoor Track and Field Championship (Dia #2) ◌ en-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905258.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",07:00 ◌ UEFA Women's European Qualifying ◌ Bosnia and Herzegovina vs. Estonia ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751482.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/premierpadel.png" group-title="EVENTOS DE HOY",10:00 ◌ Premier Padel ◌ Gijón - Centre Court (Primera Ronda) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/premierpadel.png" group-title="EVENTOS DE HOY",10:00 ◌ Premier Padel ◌ Gijón - Secondary Court (Primera Ronda) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751484.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nbagleague.png" group-title="EVENTOS DE HOY",11:00 ◌ NBA G League ◌ Windy City Bulls vs. Cleveland Charge ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751485.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",11:30 ◌ UEFA Women's European Qualifying ◌ Alemania vs. Eslovenia ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751486.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",11:30 ◌ UEFA Women's European Qualifying ◌ Alemania vs. Eslovenia ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751487.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",12:00 ◌ CONCACAF U20 Championship ◌ British Virgin Islands U20 vs. Saint Lucia U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751488.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:00 ◌ UEFA Women's European Qualifying ◌ Poland vs. Netherlands ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751489.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:15 ◌ UEFA Women's European Qualifying ◌ Italy vs. Sweden ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751490.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:50 ◌ UEFA Women's European Qualifying ◌ España vs. Islandia ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751491.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:50 ◌ UEFA Women's European Qualifying ◌ España vs. Islandia ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751492.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wbc.png" group-title="EVENTOS DE HOY",13:00 ◌ Clásico Mundial de Béisbol ◌ Canadá vs. Toronto Blue Jays ◌ en-720p ◌ (Exhibición)
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751493.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",13:00 ◌ CONCACAF U20 Championship ◌ Cayman Islands U20 vs. Bonaire U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751494.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",13:45 ◌ UEFA Women's European Qualifying ◌ Portugal vs. Finland ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751495.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/knvbbeker.png" group-title="EVENTOS DE HOY",14:00 ◌ Copa KNVB ◌ NEC vs PSV ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751496.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/eerstedivisie.png" group-title="EVENTOS DE HOY",14:00 ◌ Eerste Divisie ◌ Cambuur vs. Almere City ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751497.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ AFC Bournemouth vs. Brentford ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751498.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ AFC Bournemouth vs. Brentford ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751499.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Everton vs. Burnley ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751500.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Everton vs. Burnley ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751501.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Leeds United vs. Sunderland ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751502.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Leeds United vs. Sunderland ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751503.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/facup.png" group-title="EVENTOS DE HOY",14:45 ◌ FA Cup ◌ Port Vale vs. Bristol City ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751504.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wbc.png" group-title="EVENTOS DE HOY",15:00 ◌ Clásico Mundial de Béisbol ◌ México vs. Arizona Diamondbacks ◌ en-720p ◌ (Exhibición)
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751505.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",15:00 ◌ CONCACAF U20 Championship ◌ Dominican Republic U20 vs. Antigua and Barbuda U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751506.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",15:00 ◌ CONCACAF U20 Championship ◌ Grenada U20 vs. French Guiana U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751507.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/copadelrey.png" group-title="EVENTOS DE HOY",15:00 ◌ Copa del Rey ◌ Barcelona vs. Atlético Madrid ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751508.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/copadelrey.png" group-title="EVENTOS DE HOY",15:00 ◌ Copa del Rey ◌ Barcelona vs. Atlético Madrid ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751509.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/coppaitalia.png" group-title="EVENTOS DE HOY",15:00 ◌ Coppa Italia ◌ Como vs. Internazionale ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751510.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/coppaitalia.png" group-title="EVENTOS DE HOY",15:00 ◌ Coppa Italia ◌ Como vs. Internazionale ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751511.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/coupefrance.png" group-title="EVENTOS DE HOY",15:00 ◌ Coupe de France ◌ Strasbourg vs. Reims ◌ fr-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751512.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/mlb.png" group-title="EVENTOS DE HOY",15:05 ◌ MLB Spring Training ◌ Los Angeles Dodgers vs. Cleveland Guardians ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751513.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/mlb.png" group-title="EVENTOS DE HOY",15:05 ◌ MLB Spring Training ◌ Team USA vs. San Francisco Giants ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751514.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/mlb.png" group-title="EVENTOS DE HOY",15:05 ◌ MLB Spring Training ◌ Team USA vs. San Francisco Giants ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751515.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/mlb.png" group-title="EVENTOS DE HOY",15:10 ◌ MLB Spring Training ◌ Great Britain vs. Milwaukee Brewers ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751516.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/mlb.png" group-title="EVENTOS DE HOY",15:10 ◌ MLB Spring Training ◌ Los Angeles Angels vs. Seattle Mariners ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751517.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",15:15 ◌ Premier League ◌ Wolverhampton Wanderers vs. Liverpool ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751518.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",15:15 ◌ Premier League ◌ Wolverhampton Wanderers vs. Liverpool ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751519.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/tacaportugal.png" group-title="EVENTOS DE HOY",15:45 ◌ Taça Portugal ◌ Sporting CP vs. Porto ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751520.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/tacaportugal.png" group-title="EVENTOS DE HOY",15:45 ◌ Taça Portugal ◌ Sporting CP vs. Porto ◌ pt-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751521.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",16:00 ◌ CONCACAF U20 Championship ◌ St Kitts and Nevis U20 vs. Turks and Caicos U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751522.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabaseball.png" group-title="EVENTOS DE HOY",16:00 ◌ NCAA Beisbol ◌ Gardner-Webb vs. Duke ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751523.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",17:00 ◌ CONCACAF W Championship ◌ Suriname vs. Haiti ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751524.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Independiente Petrolero (BOL) vs. Guabirá (BOL) ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751525.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Independiente Petrolero (BOL) vs. Guabirá (BOL) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751526.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Torque (URU) vs. Defensor Sporting (URU) ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751527.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Torque (URU) vs. Defensor Sporting (URU) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751528.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabaseball.png" group-title="EVENTOS DE HOY",17:00 ◌ NCAA Beisbol ◌ #21 Kentucky vs. Eastern Kentucky ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751529.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/lacrosse.png" group-title="EVENTOS DE HOY",17:00 ◌ NCAA Women's Lacrosse ◌ California vs. #14 Syracuse ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751530.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",17:00 ◌ Primera Argentina ◌ Sarmiento vs. Estudiantes Río Cuarto ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751531.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",17:15 ◌ Primera Argentina ◌ Huracán vs. Belgrano ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751532.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wbc.png" group-title="EVENTOS DE HOY",18:00 ◌ Clásico Mundial de Béisbol ◌ Detroit Tigers vs. República Dominicana ◌ en-720p ◌ (Exhibición)
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751533.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wbc.png" group-title="EVENTOS DE HOY",18:00 ◌ Clásico Mundial de Béisbol ◌ Puerto Rico vs. Boston Red Sox ◌ en-720p ◌ (Exhibición)
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751534.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/wbc.png" group-title="EVENTOS DE HOY",18:00 ◌ Clásico Mundial de Béisbol ◌ Venezuela vs. Houston Astros ◌ en-720p ◌ (Exhibición)
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751535.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",18:00 ◌ CONCACAF U20 Championship ◌ Belize U20 vs. Saint Martin U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751536.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",18:00 ◌ CONCACAF W Championship ◌ Bermuda vs. Costa Rica ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751537.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",18:00 ◌ NCAA Men's  Basketball ◌ Tennessee vs. South Carolina ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751538.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaahockey.png" group-title="EVENTOS DE HOY",18:00 ◌ NCAA Women's Hockey ◌ Holy Cross vs. #6 UConn (Semifinal) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751539.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaahockey.png" group-title="EVENTOS DE HOY",18:00 ◌ NCAA Women's Hockey ◌ Vermont vs. #5 Northeastern (Semifinal) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751540.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",19:00 ◌ CONCACAF U20 Championship ◌ Jamaica U20 vs. Puerto Rico U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751541.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nbagleague.png" group-title="EVENTOS DE HOY",19:00 ◌ NBA G League ◌ Sioux Falls Skyforce vs. Osceola Magic ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751542.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",19:00 ◌ NBA ◌ Dallas Mavericks vs. Charlotte Hornets ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751543.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",19:00 ◌ NBA ◌ Detroit Pistons vs. Cleveland Cavaliers ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751544.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",19:00 ◌ NBA ◌ Washington Wizards vs. Orlando Magic ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751545.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabaseball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Beisbol ◌ Arkansas State vs. Louisiana Tech ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751546.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ Clemson vs. North Carolina ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751547.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ Dayton vs. Richmond ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751548.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ George Mason vs. VCU ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751549.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ Georgetown vs. St. John's ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751550.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ Kentucky vs. Texas A&M ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751551.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ Missouri vs. Oklahoma ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ Seton Hall vs. Xavier ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ TCU vs. Texas Tech ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751554.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",19:00 ◌ NCAA Men's  Basketball ◌ Wake Forest vs. Virginia ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751555.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",19:00 ◌ NHL ◌ Florida Panthers vs. New Jersey Devils ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751556.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",19:00 ◌ NHL ◌ Nashville Predators vs. Columbus Blue Jackets ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751557.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",19:00 ◌ NHL ◌ Pittsburgh Penguins vs. Boston Bruins ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751558.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",19:00 ◌ NHL ◌ Utah Mammoth vs. Washington Capitals ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751559.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",19:00 ◌ NHL ◌ Vegas Golden Knights vs. Buffalo Sabres ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751560.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",19:15 ◌ Primera Argentina ◌ Atlético Tucumán vs. Racing Club ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751561.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/libertadores.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Libertadores ◌ Barcelona (ECU) vs. Botafogo (BRA) ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751562.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/libertadores.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Libertadores ◌ Barcelona (ECU) vs. Botafogo (BRA) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751563.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Sudamericana ◌ Academia Puerto Cabello (VEN) vs. Monagas (VEN) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751564.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Sudamericana ◌ Cobresal (CHI) vs. Audax Italiano (CHI) ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751565.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Sudamericana ◌ Cobresal (CHI) vs. Audax Italiano (CHI) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751566.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",19:30 ◌ NBA ◌ Brooklyn Nets vs. Miami Heat ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751567.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",19:30 ◌ NBA ◌ New York Knicks vs. Toronto Raptors ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751568.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabaseball.png" group-title="EVENTOS DE HOY",19:30 ◌ NCAA Beisbol ◌ Memphis vs. Ole Miss ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751569.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",20:00 ◌ Liga MX ◌ Pachuca vs. Necaxa ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751570.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",20:00 ◌ Liga MX ◌ Santos Laguna vs. Cruz Azul ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751571.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nbagleague.png" group-title="EVENTOS DE HOY",20:00 ◌ NBA G League ◌ Texas Legends vs. Memphis Hustle ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751572.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",20:00 ◌ NBA ◌ Memphis Grizzlies vs. Minnesota Timberwolves ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751573.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",20:00 ◌ NBA ◌ Oklahoma City Thunder vs. Chicago Bulls ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751574.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",20:00 ◌ NBA ◌ San Antonio Spurs vs. Philadelphia 76ers ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751575.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",20:00 ◌ NBA ◌ San Antonio Spurs vs. Philadelphia 76ers ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751576.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",20:00 ◌ NCAA Men's  Basketball ◌ Mississippi State vs. Florida ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751577.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",20:00 ◌ NHL ◌ Chicago Blackhawks vs. Winnipeg Jets ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751578.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",21:00 ◌ CONCACAF U20 Championship ◌ El Salvador U20 vs. Suriname U20 ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751579.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",21:00 ◌ Copa Sudamericana ◌ Alianza Atlético (PER) vs. Deportivo Garcilaso (PER) ◌ es-540p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751580.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/sudamericana.png" group-title="EVENTOS DE HOY",21:00 ◌ Copa Sudamericana ◌ Alianza Atlético (PER) vs. Deportivo Garcilaso (PER) ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751581.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nbagleague.png" group-title="EVENTOS DE HOY",21:00 ◌ NBA G League ◌ Noblesville Boom vs. Mexico City Capitanes ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751582.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",21:00 ◌ NCAA Men's  Basketball ◌ Boston College vs. Virginia Tech ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751583.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",21:00 ◌ NCAA Men's  Basketball ◌ BYU vs. Cincinnati ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751584.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",21:00 ◌ NCAA Men's  Basketball ◌ Kansas vs. Arizona State ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751585.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",21:00 ◌ NCAA Men's  Basketball ◌ Oregon vs. Illinois ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751586.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",21:00 ◌ NCAA Men's  Basketball ◌ San Diego State vs. Boise State ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751587.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",21:00 ◌ NCAA Men's  Basketball ◌ Syracuse vs. Louisville ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751588.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",21:00 ◌ NCAA Men's  Basketball ◌ Vanderbilt vs. Mississippi ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751589.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",21:00 ◌ NHL ◌ Dallas Stars vs. Calgary Flames ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751590.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",21:00 ◌ NHL ◌ Ottawa Senators vs. Edmonton Oilers ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751591.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeracr.png" group-title="EVENTOS DE HOY",21:00 ◌ Primera CR ◌ Alajuelense vs. Cartagines ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751592.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraguatemala.png" group-title="EVENTOS DE HOY",21:00 ◌ Primera Guatemala ◌ Comunicaciones vs Malacateco ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751593.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",21:30 ◌ NHL ◌ Tampa Bay Lightning vs. Minnesota Wild ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751594.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",22:00 ◌ Liga MX ◌ Atlético San Luis vs. Mazatlán ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751595.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",22:00 ◌ NCAA Men's  Basketball ◌ LSU vs. Auburn ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751596.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",22:00 ◌ NHL ◌ Colorado Avalanche vs. Anaheim Ducks ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751597.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nhl.png" group-title="EVENTOS DE HOY",22:00 ◌ NHL ◌ Montreal Canadiens vs. San Jose Sharks ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751598.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",22:10 ◌ Liga MX ◌ Pumas UNAM vs. Toluca ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751599.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",22:30 ◌ NBA ◌ New Orleans Pelicans vs. Los Angeles Lakers ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751600.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/nba.png" group-title="EVENTOS DE HOY",23:00 ◌ NBA ◌ Phoenix Suns vs. Sacramento Kings ◌ en-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751601.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",23:00 ◌ NCAA Men's  Basketball ◌ Nebraska vs. UCLA ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751602.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ncaabasketball.png" group-title="EVENTOS DE HOY",23:00 ◌ NCAA Men's  Basketball ◌ Utah State vs. UNLV ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751603.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/afcwomensasiancup.png" group-title="EVENTOS DE HOY",23:55 ◌ AFC Women's Asian Cup ◌ Japón vs. Chinese Taipei ◌ es-720p ◌
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751604.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2Rt9Wy7/BCO_e34f084a_5992_45b5_920d_58ae44e7003d.png" group-title="EVENTOS DE HOY",10:00  | Premier Padel: Gijón - Centre Court (Primera Ronda) | Premier Pádel
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751605.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/s2Rt9Wy7/BCO_e34f084a_5992_45b5_920d_58ae44e7003d.png" group-title="EVENTOS DE HOY",10:00  | Premier Padel: Gijón - Secondary Court (Primera Ronda) | Premier Pádel
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751606.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS DE HOY",11:30  | Alemania vs. Eslovenia | UEFA Women's European Championship Qualifying
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751607.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",11:50  | British Virgin Islands vs. Santa Lucia | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751608.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",12:50  | Cayman Islands vs. Bonaire | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751609.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",12:50  | España vs. Islandia | UEFA Women's European Championship Qualifying
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751610.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:10  | Como vs. Inter | Copa de Italia
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751612.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:10  | Leeds United vs. Sunderland | Premier League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751613.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:20  | Bournemouth vs. Brentford | Premier League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751614.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:20  | Bournemouth vs. Brentford | Premier League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751615.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:20  | Everton vs. Burnley | Premier League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751616.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:20  | Everton vs. Burnley | Premier League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751617.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:20  | Leeds United vs. Sunderland | Premier League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751618.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:30  | En Español: FC Barcelona vs. Atlético de Madrid - Semifinal Vuelta | Copa del Rey
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751619.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:30  | English: FC Barcelona vs. Atlético de Madrid - Semifinal Vuelta | Copa del Rey
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751620.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:30  | Ipswich Town vs. Hull City | EFL Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751621.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:40  | Port Yale vs. Bristol City | FA Cup
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751622.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:50  | Doncaster Rovers vs. Stockport County | EFL Trophy
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751623.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:50  | Grenada vs. French Guiana | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751624.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",14:50  | República Dominicana vs. Antigua y Barbuda | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751625.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",15:00  | Wolverhampton Wanderers vs. Liverpool | Premier League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751628.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",15:50  | St. Kitts and Nevis vs. Turks and Caicos Islands | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751630.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",16:50  | Suriname vs. Haiti | Concacaf W Championship Qualifying
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751631.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",17:00  | Sarmiento vs. Estudiantes de Río Cuarto | Liga Profesional de Fútbol
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751632.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",17:15  | Huracán vs. Belgrano | Liga Profesional de Fútbol
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751633.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",17:50  | Belize vs. Saint Martin | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751634.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",17:50  | Bermudas vs. Costa Rica | Concacaf W Championship Qualifying
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751635.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",18:50  | Jamaica vs. Puerto Rico | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751640.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS DE HOY",19:00  | Barcelona (ECU) vs. Botafogo (BRA) | CONMEBOL Libertadores
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751641.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXRh7GZ3/BCO_92d24447_076d_4fb8_b465_e179a233892a.png" group-title="EVENTOS DE HOY",19:00  | Sloux Falls Skyforce vs. Osceola Magic | NBA G League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751644.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",19:15  | Academia Puerto Cabello vs. Monagas (VEN) - Primera Fase | CONMEBOL Sudamericana
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751650.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",19:15  | Atlético Tucumán vs. Racing Club | Liga Profesional de Fútbol
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751651.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",19:15  | Cobresal (CHI) vs. Audax Italiano (CHI) - Primera Fase | CONMEBOL Sudamericana
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751652.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXRh7GZ3/BCO_92d24447_076d_4fb8_b465_e179a233892a.png" group-title="EVENTOS DE HOY",20:00  | Texas Legends vs. Memphis Hustle | NBA G League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751657.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",20:45  | Alianza Atlético (PER) vs. Deportivo Garcilaso (PER) - Primera Fase | CONMEBOL Sudamericana
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751661.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",20:50  | El Salvador vs. Surinam | Concacaf Women's Under-20 Championship
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751662.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXRh7GZ3/BCO_92d24447_076d_4fb8_b465_e179a233892a.png" group-title="EVENTOS DE HOY",21:00  | En Español: Noblesville Boom vs. Capitanes de Ciudad de México | NBA G League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751664.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXRh7GZ3/BCO_92d24447_076d_4fb8_b465_e179a233892a.png" group-title="EVENTOS DE HOY",21:00  | English: Noblesville Boom vs. Capitanes de Ciudad de México | NBA G League
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751665.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",19:45  | CF Pachuca vs. Necaxa | Liga MX
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751672.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",19:45  | Club Santos Laguna vs. CF Cruz Azul | Liga MX
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751673.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",21:45  | Atlético de San Luis vs. Mazatlán FC | Liga MX
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751674.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="EVENTOS DE HOY",21:50  | Pumas vs. Toluca FC | Liga MX
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/751675.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://stream.mediastreamx.net:443/images/UYwZ7P2xerFdRYBryjCLwAVuVhXnyb1gJm6xD1baXUKT4u3QFGp1JClFZluFd74DIkQxXogKc7tbj_Pp_Adv8f4f4PFcbjGDPB603SCuFlw.png" group-title="EVENTOS DE HOY",PRIMIRA FEDERACION HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/717749.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://stream.mediastreamx.net:443/images/UYwZ7P2xerFdRYBryjCLwAVuVhXnyb1gJm6xD1baXUKT4u3QFGp1JClFZluFd74DIkQxXogKc7tbj_Pp_Adv8f4f4PFcbjGDPB603SCuFlw.png" group-title="EVENTOS DE HOY",Primera Federacion (EVENTOS)
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/743325.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" group-title="EVENTOS DE HOY",Champions 00 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595597.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" group-title="EVENTOS DE HOY",Champions 01 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595598.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" group-title="EVENTOS DE HOY",Champions 02 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595599.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" group-title="EVENTOS DE HOY",Champions 03 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595600.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" group-title="EVENTOS DE HOY",Champions 04 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595601.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" group-title="EVENTOS DE HOY",Champions 05 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595602.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/revenge-history/images/9/9f/Uefa_champiosn_logo.png/revision/latest?cb=20191012150254&path-prefix=es" group-title="EVENTOS DE HOY",Champions 06 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595603.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/819/352/png-transparent-uefa-champions-league-logo-2018-uefa-champions-league-final-uefa-europa-league-europe-2012-uefa-champions-league-final-champions-league-text-sport-team-thumbnail.png" group-title="EVENTOS DE HOY",Champions 07 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595604.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/819/352/png-transparent-uefa-champions-league-logo-2018-uefa-champions-league-final-uefa-europa-league-europe-2012-uefa-champions-league-final-champions-league-text-sport-team-thumbnail.png" group-title="EVENTOS DE HOY",Champions 08 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595605.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/819/352/png-transparent-uefa-champions-league-logo-2018-uefa-champions-league-final-uefa-europa-league-europe-2012-uefa-champions-league-final-champions-league-text-sport-team-thumbnail.png" group-title="EVENTOS DE HOY",Champions 09 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/595606.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 10 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741129.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 11 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741130.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 12 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741131.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 13 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741132.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 14 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741133.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 15 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741134.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 16 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741135.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 17 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741136.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 18 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741137.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vBgKYzxb/champy%DB%86nzlyg.png" group-title="EVENTOS DE HOY",Champions 19 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/741138.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 00 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714402.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 01 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714403.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 02 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714404.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 03 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714405.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 04 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714406.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 05 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714407.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 06 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714408.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 07 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714409.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 08 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714410.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 09 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714411.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 10 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714412.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 11 |  AEK Athens vs. Universitatea Craiova
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714413.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 12 |  NK Celje vs. Shelbourne
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714414.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 13 |  Legia Warsaw vs. Lincoln Red Imps
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714415.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 14 | AC Omonia vs. Rakow Czestochowa
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714416.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 17 |  Zrinjski vs. SK Rapid Wlen
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714419.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 15 | Sigma Olomouc vs. Lech Poznan
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714417.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS DE HOY",UEFA Conference League 16 |  Sk Slovan Bratislava vs. BK Hacken
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714418.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 01 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714385.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 02 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714386.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 03 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714387.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 04 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714388.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 05 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714389.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 06 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714390.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 07 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714391.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 08 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714392.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 09 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714393.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 10 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714394.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 11 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714395.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 12 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714396.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 14 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714397.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS DE HOY",Europa League 15 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714398.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="FORMULA 1",DAZN F1 HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/212211.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="FORMULA 1",DAZN F1 FHD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/212212.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="FORMULA 1",USA: FOX SPORTS RACING
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/212237.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Sky_Sports_F1_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152412" group-title="FORMULA 1",Sky Sports F1 FHD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/615286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fomwatch.co.uk/wp-content/uploads/2019/11/Driver-Tracker-Channel-1024x576.png" group-title="FORMULA 1",F1 TV Driver Tracker Channel
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/615289.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fomwatch.co.uk/wp-content/uploads/2019/11/Data-Channel.png" group-title="FORMULA 1",F1 DATA CHANNEL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/615292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 1 | Barcelona vs Botafogo 7.30 PM ET
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742924.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 2 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742925.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 3 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742926.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 4 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742927.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 5 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742928.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 6 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742929.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 7 |
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742930.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="EVENTOS DE HOY",USA: BEIN SPORTS EN ESPANOL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/89811.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 01  | Venezia vs Torino   | 12.30PM ET | FRI
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219733.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 02:
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219734.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 03:
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219735.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 04:
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219736.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 05:
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219737.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 06: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219738.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 07: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219739.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 08: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219740.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 09: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219741.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 01  | Venezia vs Torino   | 12.30PM ET | FRI
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222133.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 02  | Inter vs Atalanta  | 2.45PM ET | FRI
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222136.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 03:
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222128.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 04:
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222135.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 05:
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222131.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY", Serie A 06: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222129.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 07: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222132.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 08: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222130.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 09: OFFLINE
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222134.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/copadelrey.png" group-title="EVENTOS DE HOY",15:00 ◌ Copa del Rey ◌ Barcelona vs. Atlético Madrid ◌ es-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/copadelrey.png" group-title="EVENTOS DE HOY",15:00 ◌ Copa del Rey ◌ Barcelona vs. Atlético Madrid ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905355.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ AFC Bournemouth vs. Brentford ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905356.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ AFC Bournemouth vs. Brentford ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905357.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Everton vs. Burnley ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905358.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Everton vs. Burnley ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905359.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Leeds United vs. Sunderland ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905360.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",14:30 ◌ Premier League ◌ Leeds United vs. Sunderland ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905361.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",15:15 ◌ Premier League ◌ Wolverhampton Wanderers vs. Liverpool ◌ es-540p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905362.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/epl.png" group-title="EVENTOS DE HOY",15:15 ◌ Premier League ◌ Wolverhampton Wanderers vs. Liverpool ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905363.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/coppaitalia.png" group-title="EVENTOS DE HOY",15:00 ◌ Coppa Italia ◌ Como vs. Internazionale ◌ en-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905364.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/coppaitalia.png" group-title="EVENTOS DE HOY",15:00 ◌ Coppa Italia ◌ Como vs. Internazionale ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905365.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/tacaportugal.png" group-title="EVENTOS DE HOY",15:45 ◌ Taça Portugal ◌ Sporting CP vs. Porto ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905366.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/tacaportugal.png" group-title="EVENTOS DE HOY",15:45 ◌ Taça Portugal ◌ Sporting CP vs. Porto ◌ pt-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905367.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/facup.png" group-title="EVENTOS DE HOY",14:45 ◌ FA Cup ◌ Port Vale vs. Bristol City ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905368.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/coupefrance.png" group-title="EVENTOS DE HOY",15:00 ◌ Coupe de France ◌ Strasbourg vs. Reims ◌ fr-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905369.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/knvbbeker.png" group-title="EVENTOS DE HOY",14:00 ◌ Copa KNVB ◌ NEC vs PSV ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905370.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/eerstedivisie.png" group-title="EVENTOS DE HOY",14:00 ◌ Eerste Divisie ◌ Cambuur vs. Almere City ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905371.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",07:00 ◌ UEFA Women's European Qualifying ◌ Bosnia and Herzegovina vs. Estonia ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905372.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",11:30 ◌ UEFA Women's European Qualifying ◌ Alemania vs. Eslovenia ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905373.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",11:30 ◌ UEFA Women's European Qualifying ◌ Alemania vs. Eslovenia ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905374.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:00 ◌ UEFA Women's European Qualifying ◌ Poland vs. Netherlands ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905375.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:15 ◌ UEFA Women's European Qualifying ◌ Italy vs. Sweden ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905376.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:50 ◌ UEFA Women's European Qualifying ◌ España vs. Islandia ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905377.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",12:50 ◌ UEFA Women's European Qualifying ◌ España vs. Islandia ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905378.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/uefawomenseuro.png" group-title="EVENTOS DE HOY",13:45 ◌ UEFA Women's European Qualifying ◌ Portugal vs. Finland ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905379.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Libertadores ◌ Barcelona (ECU) vs. Botafogo (BRA) ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905380.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a4.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/58.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Libertadores ◌ Barcelona (ECU) vs. Botafogo (BRA) ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905381.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Independiente Petrolero (BOL) vs. Guabirá (BOL) ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905382.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Independiente Petrolero (BOL) vs. Guabirá (BOL) ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905383.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Torque (URU) vs. Defensor Sporting (URU) ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905384.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",17:00 ◌ Copa Sudamericana ◌ Torque (URU) vs. Defensor Sporting (URU) ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905385.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Sudamericana ◌ Academia Puerto Cabello (VEN) vs. Monagas (VEN) ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905386.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Sudamericana ◌ Cobresal (CHI) vs. Audax Italiano (CHI) ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905387.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",19:30 ◌ Copa Sudamericana ◌ Cobresal (CHI) vs. Audax Italiano (CHI) ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905388.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",21:00 ◌ Copa Sudamericana ◌ Alianza Atlético (PER) vs. Deportivo Garcilaso (PER) ◌ es-540p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905389.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-img.zerozero.pt/img/logos/competicoes/269_imgbank_cs_20250311124354.png" group-title="EVENTOS DE HOY",21:00 ◌ Copa Sudamericana ◌ Alianza Atlético (PER) vs. Deportivo Garcilaso (PER) ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905390.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",12:00 ◌ CONCACAF U20 Championship ◌ British Virgin Islands U20 vs. Saint Lucia U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905391.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",13:00 ◌ CONCACAF U20 Championship ◌ Cayman Islands U20 vs. Bonaire U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905392.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",15:00 ◌ CONCACAF U20 Championship ◌ Dominican Republic U20 vs. Antigua and Barbuda U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905393.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",15:00 ◌ CONCACAF U20 Championship ◌ Grenada U20 vs. French Guiana U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905394.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",16:00 ◌ CONCACAF U20 Championship ◌ St Kitts and Nevis U20 vs. Turks and Caicos U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905395.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",18:00 ◌ CONCACAF U20 Championship ◌ Belize U20 vs. Saint Martin U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905396.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",19:00 ◌ CONCACAF U20 Championship ◌ Jamaica U20 vs. Puerto Rico U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905397.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu20.png" group-title="EVENTOS DE HOY",21:00 ◌ CONCACAF U20 Championship ◌ El Salvador U20 vs. Suriname U20 ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905398.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",17:00 ◌ CONCACAF W Championship ◌ Suriname vs. Haiti ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905399.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwqualifyers.png" group-title="EVENTOS DE HOY",18:00 ◌ CONCACAF W Championship ◌ Bermuda vs. Costa Rica ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905400.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",17:00 ◌ Primera Argentina ◌ Sarmiento vs. Estudiantes Río Cuarto ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905401.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",17:15 ◌ Primera Argentina ◌ Huracán vs. Belgrano ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905402.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraargentina.png" group-title="EVENTOS DE HOY",19:15 ◌ Primera Argentina ◌ Atlético Tucumán vs. Racing Club ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905403.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeracr.png" group-title="EVENTOS DE HOY",21:00 ◌ Primera CR ◌ Alajuelense vs. Cartagines ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905404.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/primeraguatemala.png" group-title="EVENTOS DE HOY",21:00 ◌ Primera Guatemala ◌ Comunicaciones vs Malacateco ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905405.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/afcwomensasiancup.png" group-title="EVENTOS DE HOY",23:55 ◌ AFC Women's Asian Cup ◌ Japón vs. Chinese Taipei ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905406.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",20:00 ◌ Liga MX ◌ Pachuca vs. Necaxa ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905407.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",20:00 ◌ Liga MX ◌ Santos Laguna vs. Cruz Azul ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905408.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",22:00 ◌ Liga MX ◌ Atlético San Luis vs. Mazatlán ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905409.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/ligamx.png" group-title="EVENTOS DE HOY",22:10 ◌ Liga MX ◌ Pumas UNAM vs. Toluca ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905410.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://premierpadel.com/_next/image?url=https://d1txpmnu5q46gr.cloudfront.net/uploads/images/about/kiio5c331tiz17hjlv6rjolyl9tin7b7.png&w=1920&q=75" group-title="EVENTOS DE HOY",10:00 ◌ Premier Padel ◌ Gijón - Centre Court (Primera Ronda) ◌ es-720p ◌
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/905411.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://premierpadel.com/_next/image?url=https://d1txpmnu5q46gr.cloudfront.net/uploads/images/about/kiio5c331tiz17hjlv6rjolyl9tin7b7.png&w=1920&q=75" group-title="EVENTOS DE HOY",10:00 ◌ Premier Padel ◌ Gijón - Secondary Court (Primera Ronda) ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905412.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/lacrosse.png" group-title="EVENTOS DE HOY",17:00 ◌ NCAA Women's Lacrosse ◌ California vs. #14 Syracuse ◌ es-720p ◌
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/905413.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 3
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437352.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 4
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437353.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 5
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 6
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437355.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 7
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437356.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 8
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437357.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 9
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437358.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 10
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437359.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824272.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 10
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824273.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824283.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 3
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824288.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 4
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824289.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 5
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824290.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 6
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824291.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 7
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 8
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824293.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 9
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824294.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824295.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 10
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824296.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 11
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824297.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 12
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824298.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 13
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824299.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 14
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824300.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 15
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824301.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824302.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 3
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824303.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 4
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824304.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 5
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824305.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 6
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824306.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 7
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824307.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 8
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824308.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 9
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824309.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 4
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824304.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 5
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824305.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 6
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824306.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 7
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824307.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 8
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824308.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 9
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824309.ts
