@@ -693,6 +693,8 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/615286.ts
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/615289.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.fomwatch.co.uk/wp-content/uploads/2019/11/Data-Channel.png" group-title="FORMULA 1",F1 DATA CHANNEL
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/615292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.formula1.com/image/upload/f_auto,c_limit,w_112,q_auto/nwp-navigation/f1-tv-logo" group-title="FORMULA 1",F1 TV 01 Main Event
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/615295.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 1 | Barcelona vs Botafogo 7.30 PM ET
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742924.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS DE HOY",LIBERTADORES 2 |
@@ -935,6 +937,8 @@ http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824307.ts
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824308.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 9
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824309.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 3
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824303.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 4
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824304.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 5
