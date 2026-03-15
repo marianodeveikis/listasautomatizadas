@@ -1,1 +1,445 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FUTBÓL CHILENO I »1«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/86.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FUTBÓL CHILENO I »2«
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/87.ts
+#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="FUTBOL CHILENO",FUTBÓL CHILENO I »3«
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/88.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE CLUBES BR (HD) »1«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/568.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE CLUBES BR (HD) »2«
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/569.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE 1 BR (HD)
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/561.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE 3 BR (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/563.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE 4 BR (HD)
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/564.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE 5 BR (HD)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/565.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE 6 BR (HD)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/566.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="FUTBOL BRASIL",PREMIERE 7 BR (HD)
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/567.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="FUTBOL URUGUAY",VTV+ UR (HD) »2«
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/559.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="FUTBOL ESPAÑA",M. DEPORTES ES (HD)
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/550.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="FUTBOL ESPAÑA",LA LIGA TV ES (HD)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/490.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="FUTBOL ESPAÑA",M. LA LIGA ES (HD) »3«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/495.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="FUTBOL ESPAÑA",M. LA LIGA ES (HD) »4«
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/492.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="FUTBOL ESPAÑA",M. LA LIGA 2 ES (HD)
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/493.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="FUTBOL CHILENO",TNT SPORTS PREMIUM CHILE OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784469.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="FUTBOL CHILENO",TNT SPORTS PREMIUM CHILE OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784470.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN",DAZN F1 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784471.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN",DAZN F1 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784472.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN",DAZN 1 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784473.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN",DAZN 1 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784474.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN",DAZN 2 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784475.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN",DAZN 2 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784476.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="DAZN",DAZN 3 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784477.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="DAZN",DAZN 3 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784478.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="DAZN",DAZN 4 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784479.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="DAZN",DAZN 4 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784480.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LALIGA 1 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784481.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LALIGA 1 OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784482.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="DAZN",DAZN LALIGA 2 OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="DAZN",DAZN LALIGA 2 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784484.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/05/1_0_1_7574_412_1_C00000_0_0_0.png?resize=440,264&ssl=1" group-title="DAZN",DAZN 1 BAR ALEMANIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784485.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/j/j/xdazn2bar.jpg.pagespeed.ic.syjFryyuj7.jpg" group-title="DAZN",DAZN 2 BAR ALEMANIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784486.ts
+#EXTINF:-1 tvg-id="LIGCAHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="FUTBOL ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784487.ts
+#EXTINF:-1 tvg-id="LIGCAMP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="FUTBOL ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784488.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="FUTBOL ESPAÑA",LIGA DE CAMPEONES 2 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784489.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="FUTBOL ESPAÑA",LIGA DE CAMPEONES 2 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784490.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="FUTBOL ESPAÑA",LIGA DE CAMPEONES 3 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784491.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="FUTBOL ESPAÑA",LIGA DE CAMPEONES 3 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784492.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="FUTBOL ESPAÑA",LALIGA TV 1 POR M+ OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784493.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="FUTBOL ESPAÑA",LALIGA TV 1 POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784494.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="FUTBOL ESPAÑA",LALIGA TV 2 POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784495.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="FUTBOL ESPAÑA",LALIGA TV 2 POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784496.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="FUTBOL ESPAÑA",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784497.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="FUTBOL ESPAÑA",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784498.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="FUTBOL ESPAÑA",MOVISTAR DEPORTES PERU OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784499.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="FUTBOL ESPAÑA",MOVISTAR DEPORTES PERU OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784500.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="FUTBOL ESPAÑA",#VAMOS POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784505.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="FUTBOL ESPAÑA",#VAMOS POR M+ OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784506.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="FUTBOL ESPAÑA",ELLAS VAMOS POR M+ OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784507.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="FUTBOL ESPAÑA",ELLAS VAMOS POR M+ OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784508.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="FUTBOL INTERNACIONAL",GOL PLAY ESPAÑA OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784517.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="FUTBOL INTERNACIONAL",GOL PLAY ESPAÑA OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784518.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="FORMULA 1",SKY SPORTS F1 OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784521.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="FORMULA 1",SKY SPORTS F1 OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784522.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="FUTBOL ECUADOR",GOLTV ECUADOR
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784531.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="FUTBOL ECUADOR",GOLTV ECUADOR
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784532.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="FUTBOL COLOMBIA",WIN SPORTS + (CO) OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784537.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="FUTBOL COLOMBIA",WIN SPORTS + (CO) OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784538.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="FUTBOL MEXICO",TUDN MEXICO OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784558.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-logo="http://www.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="FUTBOL MEXICO",TUDN MEXICO OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784559.ts
+#EXTINF:-1 tvg-id="TUDNCH" tvg-logo="http://www.tmsimg.com/assets/s89113_ll_h3_ac.png" group-title="FUTBOL MEXICO",TUDN USA OP1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784560.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="FUTBOL MEXICO",TUDN USA OP2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784561.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903580.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ French (720p)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903581.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ German (720p)
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903582.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Hispanic America (720p)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903583.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Italy (720p)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903584.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Portuguese (720p)
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903585.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Spain (720p)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903586.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ United States (720p)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903587.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Women (720p)
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903588.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.39.50.222:36995/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="FUTBOL URUGUAY",URU | VTV + HD
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/61927.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.39.50.222:36995/images/010d8f295c9651ebb0f2c7f1f3c0b715.png" group-title="FUTBOL URUGUAY",URU | VTV + FHD
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/61936.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://185.39.50.222:36995/images/8c146dc3cc009b876ab48e07d1496f17.png" group-title="FUTBOL URUGUAY",URU | VTV PLUS HD
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/61950.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )*
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/250855.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="FUTBOL ECUADOR",ECU | Gol TV
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/250867.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="FUTBOL ECUADOR",ECU | Gol TV FHD
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/250868.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 1 FHD (S1)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/278286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 2 FHD (S1)
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/278288.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 3 FHD (S1)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/278290.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 4 FHD (S1)
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/278292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 5 FHD (S1)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/278294.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 6 FHD (S1)
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/278296.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 7 FHD (S1)
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/278298.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 8 FHD (S1)
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/278300.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS 9 FHD (S1)
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/278302.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-9-qa.png" group-title="FUTBOL INTERNACIONAL",beIN SPORTS Extra
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/278303.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-3-qa.png" group-title="FUTBOL INTERNACIONAL",beIN EXTRA 2
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/278304.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png" group-title="FUTBOL INTERNACIONAL",FR: BEIN SPORT 1 FHD
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/278305.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa.png" group-title="FUTBOL INTERNACIONAL",FR: BEIN SPORT extra 3
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/278306.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa.png" group-title="FUTBOL INTERNACIONAL",FR: BEIN extra 4
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/278307.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL INTERNACIONAL",AR: KSA SPORTS 3 FHD
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/278560.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL INTERNACIONAL",AR: KSA SPORTS 4 FHD
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/278561.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL INTERNACIONAL",AR: KUWAIT SPORTS  FHD
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/278562.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCwe_syK6zUHwcQfySMZGeH.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 6 ᶠᴴᴰ
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/269565.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : Sport TV 6 LOW
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/269566.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jCwe_syK6zUHwcQfySMZGeH.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 6 HD
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/269567.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 6 FHD 265
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269568.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jD-RQws7CAY7y7jNJEa63TH.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 6
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/269569.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 5 ᶠᴴᴰ
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/269570.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 5 LOW
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/269571.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPzJYFqduJQy1IynrIi8m1qb0c8LynIk06AH7YJzX16r5EDkqFXYMtfHBQe9lxJP6QcQLmlHCdPNt8tocqztiHWbPZ4IKCYdX5HjTs0F5vPk0g.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 5 HD HEVC
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/269572.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 5 HD
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/269573.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 5 720P
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269575.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jAH3WOmYBe1nVvVexo_pmkw.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 5
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/269576.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 4 LOW
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/269578.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBFoQrbeelLMY8-Txy1a3ac.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 4 HD
+http://tvhomesmart.xyz:8080/live/87200572/mdvbshey45/269579.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 4 FHD 265
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/269580.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/ZUbFfR577OwfqSMNTCmm1VWwW7bRwIJULbKzcuLN3jBFoQrbeelLMY8-Txy1a3ac.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 4
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/269582.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 3 ᶠᴴᴰ
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/269583.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 3 ᴴᴰ
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/269584.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 3 LOW
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269585.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/07c77245fa2e0e43c71eead6b873036e.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 3 HD
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269586.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 3 FHD HEVC
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269587.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 3 FHD 265
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/269588.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/aa7c9dd5238e7a946b8031b7218c8279.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 3
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/269589.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 2 ᶠᴴᴰ
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/269590.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/23fe70cb89bf6045f64295ef7c8b5b35.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 2 ᴴᴰ
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269591.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 2 LOW
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/269592.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/23fe70cb89bf6045f64295ef7c8b5b35.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 2 HD
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269593.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 2 FULHD HEVC
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/269594.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 2 FHD 265
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/269595.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/8a71fc2c6ef35d9e1220103f85278a6a.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 2
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/269596.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/b06593295fc1585b84d8f20d4662d287.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 1 ᶠᴴᴰ
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/269597.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 1 LOW
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/269600.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2mTSJvJpcSD23539K81MWsix6pdtDA6UDqYSIXayTZvqXAC_KE1m64eXTcq1xUaPDWbkIsvDc-vfv9ocbtPnar1rlfN3ZIaBYqf2P4tNtTBJ4uEtCsa9cDW4-0jrd9UNyQ_LXYkXs1VQndW3R66p-Q.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 1 HD HEVC
+http://tvhomesmart.xyz:8080/live/56932295189faceztv/160321ztv/269601.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 1 FHD 265
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/269603.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV 1 4K UHD HEVC
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/269604.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/b06593295fc1585b84d8f20d4662d287.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV 1
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/269605.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV + ᶠᴴᴰ
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/269606.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT : SPORT TV + FHD 265
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/269608.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/a451219bf2a8e0f0e96d53d0da054fa8.png" group-title="FUTBOL PORTUGAL",PT : SPORT TV +
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/269609.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FUTBOL PORTUGAL",PT :  SPORT TV 4 HD HEVC
+http://tvhomesmart.xyz:8080/live/966682717tv/n0y7f2/269646.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ay2UKiiGIWE6BRp4zxFH4m7KZAMXsCxhuIex3_y4rGuPwoIxfHwzqHmb0TOhAy_Y_5l0HW8Ai-bwqedM66RzV4FuHfrP04C-Jeq3yoW0ZHUHVtOi7YGiQGq2__0v4tVqrmNFy4D53iuHah2p0knSA8Qg.png" group-title="FUTBOL PORTUGAL",PT :  SPORT TV 3 HD HEVC
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/269647.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayAVtnwZpkaKx-KhpUcvFPEGn9fQv8aB0F_FFxABUJsdTUmOWnFw0a9OkoobytpMhddIiDJj0kxQ7Q9h6KZZJ0bCfsKuywy7h7c330EzK-U0fA7bBHFHCseDi-BUZWyngZK7DsWRTI4nFoXw_Tidav5w.png" group-title="FUTBOL PORTUGAL",PT :  SPORT TV + HD HEVC
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/269649.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 2 FHD 1080p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195715.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 2 | 720p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195716.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 3  | H.264 480p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195717.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 3 FHD 1080P
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195718.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 3 | 720p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195719.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 4  | H.264 480p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195720.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 4 FHD 1080P
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195721.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 5  | H.264 480p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195723.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 5 | 720p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195724.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 6 FHD 1080P
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195725.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 7  | H.264 480p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195726.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE 7 FHD 1080P
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195727.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE CLUBES | 1080p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195730.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="FUTBOL BRASIL",PREMIERE CLUBES | 720p
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195731.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" group-title="FUTBOL ESPAÑA",LaLiga TV 2 POR M+
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584958.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" group-title="FUTBOL ESPAÑA",LaLiga TV 2 POR M+ HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584959.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" group-title="FUTBOL ESPAÑA",LaLiga TV 2 por M+ FHD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584960.ts
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LaLigaTV_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175336" group-title="FUTBOL ESPAÑA",LaLiga TV 3 por M+  HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584962.ts
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/LaLigaTV_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175336" group-title="FUTBOL ESPAÑA",LaLiga TV 3 por M+ FHD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584963.ts
+#EXTINF:-1 tvg-id="M+ LALIGA TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/LaLigaTV_4_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175337" group-title="FUTBOL ESPAÑA",LaLiga TV 4 POR M+
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584964.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION SD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584971.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584972.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 2 SD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584975.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 2 HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584976.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 2 FHD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584977.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 3 SD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584979.ts
+#EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION  3 HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584980.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410" group-title="FORMULA 1",| SKY SPORTS F1 | FORMULA 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216348.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.motor.es/fotos-noticias/2018/01/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="FORMULA 1",M+ | MOVISTAR FÓRMULA 1 HD
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 HD
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 SD | FORMULA 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216352.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 HD | FORMULA 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216353.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 FHD | FORMULA 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.heraldodeportes.com.mx/u/fotografias/m/2023/3/2/f1280x720-59416_191091_5050.jpg" group-title="FORMULA 1",MX | FOX SPORTS PREMIUM | FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216355.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/11/16/formula-continuara-transmitida-fox-sports.jpg" group-title="FORMULA 1",MX | Fox Sports 1 | Formula 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369422.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/11/16/formula-continuara-transmitida-fox-sports.jpg" group-title="FORMULA 1",ARG | FOX SPORTS 1 | FORMULA 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369423.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://elmarketingdeportivo.com/wp-content/uploads/2022/06/PORTADA-1-1024x768.jpg" group-title="FORMULA 1",USA | ESPN 1 | FORMULA 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369425.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2006/01/02/236176-24642541-2560-1440.jpg" group-title="FORMULA 1",D-ESP | EURO SPORTS 1 | FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369426.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.elespanol.com/2015/06/30/bluper/bluper_45005534_169923556_1706x960.jpg" group-title="FORMULA 1",D-ESP | EURO SPORTS 2 | FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369427.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | LIGA DE CAMPEONES OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302831.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | LIGA DE CAMPEONES OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302832.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | MOVISTAR VAMOS OP1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302833.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | MOVISTAR VAMOS OP2
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302839.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | AZTECA UNO
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308739.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | AZTECA 7
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308740.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | ADN 40
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308741.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | TNT SPORTS ARG
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308742.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | A+ MX
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/308743.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SLP | FOX DEPORTES
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/339129.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | FOX SOCCER PLUS
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/845991.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="FUTBOL ARABIA",SPL | SPORT TV 6
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/845992.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="FUTBOL BRASIL",PREMIERE 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382279.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="FUTBOL BRASIL",PREMIERE 2
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382280.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="FUTBOL BRASIL",PREMIERE 3
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382281.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="FUTBOL BRASIL",PREMIERE 4
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382282.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="FUTBOL BRASIL",PREMIERE 5
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382283.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="FUTBOL BRASIL",PREMIERE 6
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382284.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="FUTBOL BRASIL",PREMIERE 7
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/400120.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1658.png" group-title="FUTBOL ECUADOR",⚽ GOLTV ECUADOR SD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/400.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1658.png" group-title="FUTBOL ECUADOR",⚽ GOLTV ECUADOR HD
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/401.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ipuntotv.com/IMAGES/Goltv-ecuador.png" group-title="FUTBOL ECUADOR",⚽ GOLTV ECUADOR FHD ***
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/402.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="https://ipuntotv.com/IMAGES/Goltv-ecuador.png" group-title="FUTBOL ECUADOR",GOL TV ⚽
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/13445.ts
+#EXTINF:-1 tvg-id="GOLTVLE" tvg-logo="http://www.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="FUTBOL ECUADOR",GOL TV FHD ⚽
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/13446.ts
+#EXTINF:-1 tvg-id="GOLTVLE" tvg-logo="http://www.tmsimg.com/assets/s54541_ll_h3_aa.png" group-title="FUTBOL ECUADOR",GOLTV HD ⚽
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/13447.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.uy/content/dam/public-sites/co/deportes/la-liga/laliga%20ea%20sports.png" group-title="FUTBOL ESPAÑA",ES: LALIGA DIRECTV SPORTS
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="FUTBOL ESPAÑA",ES: LALIGA SKY SPORTS HD
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="FUTBOL ESPAÑA",ES: LALIGA ELEVEN SPORTS 3
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299700.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8dMsC6bdp89Efxd8FJrUA3OohTRJMuhRIw&s" group-title="FUTBOL ESPAÑA",ES: LA LIGA BEIN SPORTS MAX 4
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299702.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvWRsJZUHGcvvki_rS8yRE5Susfppe0JEeQ&s" group-title="FUTBOL ESPAÑA",ES: LA LIGA MOVISTAR+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299703.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="FUTBOL ESPAÑA",ES: LA LIGA ESPN DEPORTES USA
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299704.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="FUTBOL ESPAÑA",ES: LA LIGA ESPN DEPORTES HD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/300007.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 1 FHD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 2 HD
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 3 HD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338700.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M1 FHD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338701.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M2 SD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338702.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M3 SD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338703.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="FUTBOL ESPAÑA",ES: LA LIGA ESPN DEPORTES HD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/300007.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 1 FHD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 2 HD
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 3 HD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338700.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M1 FHD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338701.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M2 SD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338702.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M3 SD
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338703.ts
