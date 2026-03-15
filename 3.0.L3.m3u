@@ -315,6 +315,12 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584962.ts
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584963.ts
 #EXTINF:-1 tvg-id="M+ LALIGA TV 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a2/LaLigaTV_4_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175337" group-title="FUTBOL ESPAÑA",LaLiga TV 4 POR M+
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584964.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaLigaTV_5_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175338" group-title="FUTBOL ESPAÑA",LaLiga TV 5 POR M+ HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584966.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/LaLigaTV_6_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175339" group-title="FUTBOL ESPAÑA",LaLiga TV 6 POR M+ HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584968.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/LaLigaTV_7_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175340" group-title="FUTBOL ESPAÑA",LALIGA TV 7 POR M+ HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584970.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION SD
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584971.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION HD
@@ -329,6 +335,8 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584977.ts
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584979.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION  3 HD
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584980.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" group-title="FUTBOL ESPAÑA",LaLiga TV HYPERMOTION 4 HD
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584984.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410" group-title="FORMULA 1",| SKY SPORTS F1 | FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216348.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.motor.es/fotos-noticias/2018/01/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="FORMULA 1",M+ | MOVISTAR FÓRMULA 1 HD
@@ -429,17 +437,5 @@ http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338701.ts
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338702.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M3 SD
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338703.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="FUTBOL ESPAÑA",ES: LA LIGA ESPN DEPORTES HD
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/300007.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 1 FHD
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338698.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 2 HD
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338699.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION 3 HD
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338700.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M1 FHD
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338701.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M2 SD
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338702.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="FUTBOL ESPAÑA",LIGA HYPERMOTION M3 SD
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338703.ts
