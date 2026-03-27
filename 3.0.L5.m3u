@@ -1,412 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/pga.png" group-title="✨Eventos Diarios  18/03✨",06:30 ◘ Valspar Championship: Main Feed ◘ PGA TOUR ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758052.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:00 | Nicaragua vs. El Salvador (Ronda Final) | Concacaf Women's Under-17 Championship U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758208.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu17.png" group-title="✨Eventos Diarios  18/03✨",11:00 ◘ Nicaragua vs. El Salvador ◘ Concacaf Women's Under-17 ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758076.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu17.png" group-title="✨Eventos Diarios  18/03✨",11:00 ◘ República Dominicana vs. Canadá ◘ Concacaf Women's Under-17 ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758077.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:50 | Besiktas vs. Kasimpasa | Super Lig de Turquía U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758210.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:55 | Aek Athens FC vs. NK Celje - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758211.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:55 | Aek Larnaca vs. Crystal Palace - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758212.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:55 | Mainz 05 vs. Sigma Olomouc - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758213.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:55 | Olympique Lyon vs. Celta Vigo - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758214.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:55 | Rakow Czestochowa vs. Fiorentina - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758215.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",11:55 | The Golazo Show | UEFA Europa-Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758216.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y03gyqvH/Copilot_2026.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:00 | IMSA Carrera Cup Sebring R1 | Porsche Carrera Cup U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758218.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/6de9a82fb078388e66344c30e1180413.png" group-title="✨Eventos Diarios  18/03✨",12:00 ◘ Beşiktaş vs. Kasımpaşa ◘ Süper Lig ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758079.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="✨Eventos Diarios  18/03✨",12:05 ◘ Baltimore Orioles vs. New York Yankees ◘ MLB Spring Training ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758082.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="✨Eventos Diarios  18/03✨",12:05 ◘ Tampa Bay Rays vs. Philadelphia Phillies ◘ MLB Spring Training ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758083.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="✨Eventos Diarios  18/03✨",12:07 ◘ New York Yankees vs. Toronto Blue Jays ◘ MLB Spring Training ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758084.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:30 | Aek Athens FC vs. NK Celje - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758223.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:30 | Midtjylland vs. Nottingham Forest - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758224.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:30 | Olympique Lyon vs. Celta Vigo - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758225.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:30 | SC Freiburg vs. Genk - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758226.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ Aek Athens FC vs. NK Celje ◘ UEFA Conference League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758085.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ Aek Athens FC vs. NK Celje ◘ UEFA Conference League ◘ 540p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758086.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ Aek Athens FC vs. NK Celje ◘ UEFA Conference League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758087.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ Midtjylland vs. Nottingham Forest ◘ UEFA Europa League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758088.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ Midtjylland vs. Nottingham Forest ◘ UEFA Europa League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758089.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ Olympique Lyonnais vs. Celta Vigo ◘ UEFA Europa League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758090.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ Olympique Lyonnais vs. Celta Vigo ◘ UEFA Europa League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758091.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ SC Freiburg vs. Genk ◘ UEFA Europa League ◘ 1080p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758092.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",12:30 ◘ SC Freiburg vs. Genk ◘ UEFA Europa League ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758093.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:35 | Aek Larnaca vs. Crystal Palace - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758227.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:35 | Mainz 05 vs. Sigma Olomouc - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758228.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:35 | Rakow Czestochowa vs. Fiorentina - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758229.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:35 ◘ Aek Larnaca vs. Crystal Palace ◘ UEFA Conference League ◘ 1080p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758094.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:35 ◘ Aek Larnaca vs. Crystal Palace ◘ UEFA Conference League ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758095.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:35 ◘ Mainz 05 vs. Sigma Olomouc ◘ UEFA Conference League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758096.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:35 ◘ Mainz 05 vs. Sigma Olomouc ◘ UEFA Conference League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758097.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:35 ◘ Raków Częstochowa vs. Fiorentina ◘ UEFA Conference League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758098.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",12:35 ◘ Raków Częstochowa vs. Fiorentina ◘ UEFA Conference League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758099.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",12:40 | UEL and UECL al instante | UEFA Europa-Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758230.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:20 | Panamá vs. México (Ronda Final) | Concacaf Women's Under-17 Championship U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758233.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",13:30 | Jamaica vs. Costa Rica (Ronda Final) | Concacaf Women's Under-17 Championship U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758234.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu17.png" group-title="✨Eventos Diarios  18/03✨",13:30 ◘ Jamaica vs. Costa Rica ◘ Concacaf Women's Under-17 ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758102.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu17.png" group-title="✨Eventos Diarios  18/03✨",13:30 ◘ Panamá vs. México ◘ Concacaf Women's Under-17 ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758103.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y03gyqvH/Copilot_2026.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:00 | IMSA Carrera Cup Sebring R1 | Porsche Carrera Cup U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758236.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="✨Eventos Diarios  18/03✨",14:00 ◘ Aucas vs. Técnico Universitario ◘ Liga Pro ◘ 720p-es◘ Tentativo U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758104.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/08c219d06cd2ac9ddb63122b9a0b81ca.png" group-title="✨Eventos Diarios  18/03✨",14:00 ◘ Flamengo U20 vs. Olimpia U20 ◘ Copa Libertadores Sub-20 ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758105.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXRh7GZ3/BCO_92d24447_076d_4fb8_b465_e179a233892a.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:20 | London Lions vs. Surrey 89ers | Super League Basketball U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758237.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:40 | AS Roma vs. Bologna - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758239.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:40 | Aston Villa vs. Lille - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758240.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:40 | FC Porto vs. Stuttgart - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:40 | Real Betis vs. Panathinaikos - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758242.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | AS Roma vs. Bologna - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758243.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | Aston Villa vs. Lille - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758244.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | FC Porto vs. Stuttgart - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758245.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | FC Shaktar Donetsk vs. Lech Poznan - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758246.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | Rayo Vallecano vs. Samsunspor - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758247.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | Real Betis vs. Panathinaikos - 8vos de Final (Vuelta) | UEFA Europa League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758248.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | Sparta Praha vs. AZ - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758249.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:45 | Strasbourg vs. HNK Rijeka - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:50 | FC Shaktar Donetsk vs. Lech Poznan - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758251.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:50 | Rayo Vallecano vs. Samsunspor - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758252.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:50 | Sparta Praha vs. AZ - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758253.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",14:50 | Strasbourg vs. HNK Rijeka - 8vos de Final (Vuelta) | UEFA Conference League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758254.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ AS Roma vs. Bologna ◘ UEFA Europa League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758107.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ AS Roma vs. Bologna ◘ UEFA Europa League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758108.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Aston Villa vs. Lille ◘ UEFA Europa League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758109.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Aston Villa vs. Lille ◘ UEFA Europa League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758110.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ FC Porto vs. Stuttgart  ◘ UEFA Europa League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758111.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ FC Porto vs. Stuttgart  ◘ UEFA Europa League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758112.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ FC Shakhtar Donetsk vs. Lech Poznan ◘ UEFA Conference League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758113.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ FC Shakhtar Donetsk vs. Lech Poznan ◘ UEFA Conference League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758114.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Rayo Vallecano vs. Samsunspor ◘ UEFA Conference League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758115.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Rayo Vallecano vs. Samsunspor ◘ UEFA Conference League ◘ 540p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758116.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Rayo Vallecano vs. Samsunspor ◘ UEFA Conference League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758117.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Real Betis vs. Panathinaikos ◘ UEFA Europa League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758118.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Real Betis vs. Panathinaikos ◘ UEFA Europa League ◘ 540p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758119.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/4d2fb7c6a840ef3288e98f34a02faf50.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Real Betis vs. Panathinaikos ◘ UEFA Europa League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758120.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Sparta Praga vs. AZ ◘ UEFA Conference League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758121.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Sparta Praga vs. AZ ◘ UEFA Conference League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758122.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Strasbourg vs. HNK Rijeka ◘ UEFA Conference League ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758123.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/e1ae87b6cea30c611c1b1313f687840b.png" group-title="✨Eventos Diarios  18/03✨",15:00 ◘ Strasbourg vs. HNK Rijeka ◘ UEFA Conference League ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758124.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",15:45 | Aurora vs. Guastatoya | Liga Guate U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758257.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",15:55 | Haiti vs. Estados Unidos (Ronda Final) | Concacaf Women's Under-17 Championship U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758258.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",16:00 | Bermuda vs. Puerto Rico (Ronda Final) | Concacaf Women's Under-17 Championship U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758259.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/569cd913cb704f4396466fbb37ddf00e.png" group-title="✨Eventos Diarios  18/03✨",16:00 ◘ Aurora vs. Guastatoya ◘ Liga Guatemala ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758125.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu17.png" group-title="✨Eventos Diarios  18/03✨",16:00 ◘ Bermuda vs. Puerto Rico ◘ Concacaf Women's Under-17 ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758126.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/concacafwu17.png" group-title="✨Eventos Diarios  18/03✨",16:00 ◘ Haití vs. Estados Unidos ◘ Concacaf Women's Under-17 ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758127.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/0c2dddf89adce59212f64165fe85f8de.png" group-title="✨Eventos Diarios  18/03✨",16:00 ◘ Platense vs. Motagua ◘ Liga Honduras◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758128.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/2e93e55aa51d35f46e83250c1e2e5cae.png" group-title="✨Eventos Diarios  18/03✨",16:10 ◘ Alianza vs. Jaguares de Córdoba ◘ Liga Betplay ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758132.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/2e93e55aa51d35f46e83250c1e2e5cae.png" group-title="✨Eventos Diarios  18/03✨",16:10 ◘ Alianza vs. Jaguares de Córdoba ◘ Liga Betplay ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758133.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="✨Eventos Diarios  18/03✨",16:30 ◘ Orense vs. Mushuc Runa ◘ Liga Pro ◘ 720p-es ◘ Tentativo U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758134.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y03gyqvH/Copilot_2026.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",17:00 | IMSA Super Trofeo Sebring R1 | Porsche Carrera Cup U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758262.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="✨Eventos Diarios  18/03✨",17:00 ◘ Grêmio vs. Vitória ◘ Brasileirão ◘ 720p-br ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758136.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/89d021e682f117a6ff8e6fe859cdcc2d.png" group-title="✨Eventos Diarios  18/03✨",17:05 ◘ Pittsburgh Pirates vs. Baltimore Orioles ◘ MLB Spring Training ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758138.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",17:50 | Mt. Pleasant FA vs. LA Galaxy (Octavos de final - Vuelta) | CONCACAF Liga Campeones U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758266.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXRh7GZ3/BCO_92d24447_076d_4fb8_b465_e179a233892a.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:00 | College Park Skyhawks vs. Westchester Knicks | NBA G League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758269.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Detroit Pistons vs. Washington Wizards ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758142.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Flamengo vs. Remo ◘ Brasileirão ◘ 720p-br ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758143.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Montreal Canadiens vs. Detroit Red Wings ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758146.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/94730ac554558d77bc5f30438edd02c4.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Mt. Pleasant FA vs. LA Galaxy ◘ CONCACAF Liga Campeones ◘ 1080p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758147.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/94730ac554558d77bc5f30438edd02c4.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Mt. Pleasant FA vs. LA Galaxy ◘ CONCACAF Liga Campeones ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758148.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ New York Islanders vs. Ottawa Senators ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758152.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ New York Rangers vs. Columbus Blue Jackets ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758153.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Orlando Magic vs. Charlotte Hornets ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758154.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://213.145.87.11:90/Logos/ppv2/conmebol.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Sorteo CONMEBOL Libertadores & Sudamericana ◘ CONMEBOL ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758156.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/89c1513084bfa90a4308bfbd6b6f43bd.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Volta Redonda vs. Barra ◘ Copa do Brasil ◘ 720p-br ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758160.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",18:00 ◘ Winnipeg Jets vs. Boston Bruins ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758161.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/2e93e55aa51d35f46e83250c1e2e5cae.png" group-title="✨Eventos Diarios  18/03✨",18:20 ◘ Deportes Tolima vs. Fortaleza CEIF ◘ Liga Betplay ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758162.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/2e93e55aa51d35f46e83250c1e2e5cae.png" group-title="✨Eventos Diarios  18/03✨",18:20 ◘ Deportes Tolima vs. Fortaleza CEIF ◘ Liga Betplay ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758163.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",18:30 ◘ Chicago Blackhawks vs. Minnesota Wild ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758164.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/08c219d06cd2ac9ddb63122b9a0b81ca.png" group-title="✨Eventos Diarios  18/03✨",18:30 ◘ Palmeiras U20 vs. S. Wanderers U20 ◘ Copa Libertadores Sub-20 ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758166.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",18:45 | Comunicaciones vs. Antigua GFC | Liga Guate U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758282.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",19:00 ◘ Cleveland Cavaliers vs. Chicago Bulls ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758170.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/569cd913cb704f4396466fbb37ddf00e.png" group-title="✨Eventos Diarios  18/03✨",19:00 ◘ Comunicaciones vs. Antigua GFC ◘ Liga Guatemala ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758171.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/d36e55af049ace47b58669c7520096c9.png" group-title="✨Eventos Diarios  18/03✨",19:00 ◘ Emelec vs. Independiente del Valle ◘ Liga Pro ◘ 720p-es ◘ Tentativo U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758172.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",19:00 ◘ Los Angeles Clippers vs. New Orleans Pelicans ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758173.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",19:00 ◘ Los Angeles Lakers vs. Miami Heat ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758174.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",19:00 ◘ Phoenix Suns vs. San Antonio Spurs ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758176.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",19:00 ◘ Seattle Kraken vs. Nashville Predators ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758177.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/5012bb0692b5c2c91e9d336cf4062430.png" group-title="✨Eventos Diarios  18/03✨",19:30 ◘ Chapecoense vs. Corinthians ◘ Brasileirão ◘ 720p-br ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758178.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y03gyqvH/Copilot_2026.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",19:45 | High Limit Racing at Central Arizona Raceway | Carreras U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758287.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",20:00 | Tigres UANL vs. FC Cincinnati (Octavos de final - Vuelta) | CONCACAF Liga Campeones U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758289.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",20:00 ◘ Florida Panthers vs. Edmonton Oilers ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758180.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",20:00 ◘ Milwaukee Bucks vs. Utah Jazz ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758181.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/94730ac554558d77bc5f30438edd02c4.png" group-title="✨Eventos Diarios  18/03✨",20:00 ◘ Tigres UANL vs. FC Cincinnati ◘ CONCACAF Liga Campeones ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758184.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/94730ac554558d77bc5f30438edd02c4.png" group-title="✨Eventos Diarios  18/03✨",20:00 ◘ Tigres UANL vs. FC Cincinnati ◘ CONCACAF Liga Campeones ◘ 540p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758185.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/94730ac554558d77bc5f30438edd02c4.png" group-title="✨Eventos Diarios  18/03✨",20:00 ◘ Tigres UANL vs. FC Cincinnati ◘ CONCACAF Liga Campeones ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758186.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/2e93e55aa51d35f46e83250c1e2e5cae.png" group-title="✨Eventos Diarios  18/03✨",20:30 ◘ Medellín vs. Junior ◘ Liga Betplay ◘ 1080p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758192.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/2e93e55aa51d35f46e83250c1e2e5cae.png" group-title="✨Eventos Diarios  18/03✨",20:30 ◘ Medellín vs. Junior ◘ Liga Betplay ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758193.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CxK0nkh5/BCO_37c59012_d1be_41b6_a344_6a43fea42e8c.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",20:55 | Xelajú MC vs.  Municipal | Liga Guate U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758294.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXRh7GZ3/BCO_92d24447_076d_4fb8_b465_e179a233892a.png" group-title="✮✮[Eventos Diarios | Exclusivos]✮✮",21:00 | Rio Grande Valley Vipers vs. Santa Cruz | NBA G League U3
-#EXTGRP:✮✮[Eventos Diarios | Exclusivos]✮✮
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758297.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",21:00 ◘ Buffalo Sabres vs. San Jose Sharks ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758194.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/8e617358cf86c2b4ce01ad8309d2ac33.png" group-title="✨Eventos Diarios  18/03✨",21:00 ◘ Philadelphia 76ers vs. Sacramento Kings ◘ NBA ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758195.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",21:00 ◘ Tampa Bay Lightning vs. Vancouver Canucks ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758196.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/7a7e1c8a0d5c02db22a0dd5b7c64799f.png" group-title="✨Eventos Diarios  18/03✨",21:00 ◘ Utah Mammoth vs. Vegas Golden Knights ◘ NHL ◘ 720p-en ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758197.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.1play.cool:25461/images/569cd913cb704f4396466fbb37ddf00e.png" group-title="✨Eventos Diarios  18/03✨",21:00 ◘ Xelajú vs. Municipal ◘ Liga Guatemala ◘ 720p-es ◘ U3
-#EXTGRP:✨Eventos Diarios  18/03✨
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/758198.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPbIBkT1SaMvnlqjDsQXHEt0jPADhpUEhTmtjeV58tPCfqf8O4yGrm1S1Kzxw8hS6Bg.png" group-title="EVENTOS DE HOY",BOD08: EVENTOS 1 HD U1
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242456.ts
@@ -731,25 +323,25 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/250854.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/250854.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 01 | Freiburg vs Genk 1.45 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 01 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714385.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 02 | Olympique Lyonnais vs Celta de Vigo 1.45 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 02 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714386.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 03 | Midtjylland vs Nottingham Forest 1.45 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 03 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714387.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 04 | Aston Villa vs Lille 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 04 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714388.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 05 | Roma vs Bologna 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 05 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714389.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 06 | Real Betis vs Panathinaikos 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 06 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714390.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 07 | Porto vs Stuttgart 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 07 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714391.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrr4UZOhUwsEsOcFYIs1FhDGmK2vI9t9BLdg&s" group-title="EVENTOS UEFA",Europa League 08 | U3
@@ -836,9 +428,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/251627.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D (SOLO EVENTOS) U35
-#EXTGRP:EVENTOS ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/56940940382x/LJBG9X7zRkyK/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U12
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/251628.ts
@@ -905,9 +494,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/251628.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U35
-#EXTGRP:EVENTOS ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/56940940382x/LJBG9X7zRkyK/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS CONMEBOL",LIBERTADORES 1 | U3
 #EXTGRP:EVENTOS CONMEBOL
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742924.ts
@@ -1085,9 +671,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20203.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U35
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/56940940382x/LJBG9X7zRkyK/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U12
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20220.ts
@@ -1154,9 +737,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20220.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U35
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/56940940382x/LJBG9X7zRkyK/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U12
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20233.ts
@@ -1223,9 +803,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20233.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U35
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/56940940382x/LJBG9X7zRkyK/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U12
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20285.ts
@@ -1292,9 +869,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20285.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U35
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/56940940382x/LJBG9X7zRkyK/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U12
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20286.ts
@@ -1361,9 +935,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U34
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20286.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U35
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/56940940382x/LJBG9X7zRkyK/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://stream.mediastreamx.net:443/images/UYwZ7P2xerFdRYBryjCLwAVuVhXnyb1gJm6xD1baXUKT4u3QFGp1JClFZluFd74DIkQxXogKc7tbj_Pp_Adv8f4f4PFcbjGDPB603SCuFlw.png" group-title="EVENTOS DE HOY",PRIMERA FEDERACION OP1 U3
 #EXTGRP:EVENTOS DE HOY
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/743325.ts
@@ -1484,28 +1055,28 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437358.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 9 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437358.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 00 | Mainz 05 vs Sigma Olomouc 1.45 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 00 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714402.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 01 | Raków Częstochowa vs Fiorentina 1.45 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 01 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714403.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 02 | AEK Larnaca vs Crystal Palace 1.45 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 02 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714404.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 03 | AEK Athens vs Celje 1.45 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 03 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714405.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 04 | Strasbourg vs Rijeka 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 04 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714406.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 05 | Sparta Praha vs AZ 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 05 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714407.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 06 | Shakhtar Donetsk vs Lech Poznań 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 06 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714408.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 07 | Rayo Vallecano vs Samsunspor 4 PM ET U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 07 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714409.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 08 | U3
