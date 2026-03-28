@@ -4475,6 +4475,9 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585017.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Liga_de_Campeones_4_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193610" group-title="ESPAÑA",LIGA DE CAMPEONES 4 POR M+ HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585016.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Liga_de_Campeones_8_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193615" group-title="ESPAÑA",LIGA DE CAMPEONES 8 POR M+ HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585024.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/3x1Lx01r/Liga-de-Campeones-por-Movistar-Plus-2023-Logo-svg.png" group-title="ESPAÑA",LIGA DE CAMPEONES POR M+ FHD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585009.ts
@@ -4995,7 +4998,4 @@ http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/60249.ts
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/60249.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8bnKBps/MLIG1.png" group-title="ESPAÑA",M+  LA LIGA 2 FHD (FIBRA) U16
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/60249.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/8bnKBps/MLIG1.png" group-title="ESPAÑA",M+  LA LIGA 2 FHD (FIBRA) U17
 #EXTGRP:ESPAÑA
