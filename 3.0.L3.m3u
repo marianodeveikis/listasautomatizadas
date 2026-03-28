@@ -26,18 +26,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/280496.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tpjfMm1/sportv3.png" group-title="⚽DEPORTES BRASIL",BR: SPORTV 3 FHD U2
 #EXTGRP:⚽DEPORTES BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/280496.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/419-4196216_cdo-premium-canal-cdo.png" group-title="CHILE",CDO PREMIUM HD U1
-#EXTGRP:CHILE
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834424.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/419-4196216_cdo-premium-canal-cdo.png" group-title="CHILE",CDO PREMIUM HD U2
-#EXTGRP:CHILE
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834424.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/419-4196216_cdo-premium-canal-cdo.png" group-title="CHILE",CDO PREMIUM SD U1
-#EXTGRP:CHILE
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834423.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.nicepng.com/png/detail/419-4196216_cdo-premium-canal-cdo.png" group-title="CHILE",CDO PREMIUM SD U2
-#EXTGRP:CHILE
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834423.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="⚽DEPORTES CHILE⚽",CLD10: TNT SPORTS PREMIUM 1 U1
 #EXTGRP:⚽DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343135.ts
@@ -3779,6 +3767,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382280.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382280.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195716.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 FHD 1080p U3
 #EXTGRP:BRASIL
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195715.ts
@@ -4388,6 +4379,18 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/796060.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="PERU",SAT | MOVISTAR PLUS U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/796060.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP1 U1
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834423.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP1 U2
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834423.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP2 U1
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834424.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP2 U2
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834424.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/futbolchileno/images/7/7f/Logo_de_la_Segunda_GrupoTX_2022.png/revision/latest?cb=20220705175446&path-prefix=es" group-title="⚽DEPORTES CHILE⚽",SEGUNDA  CHILE U1
 #EXTGRP:⚽DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/379934.ts
@@ -4995,7 +4998,4 @@ http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/27203.ts
 #EXTGRP:→ BRASIL ←
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/27203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U28
-#EXTGRP:→ BRASIL ←
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/27203.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U29
 #EXTGRP:→ BRASIL ←
