@@ -65,6 +65,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784454.ts
 #EXTINF:-1 tvg-id="SPOPLH" tvg-logo="http://www.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS + ECUADOR U2
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784454.ts
+#EXTINF:-1 tvg-id="SPOPLH" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4IeLpKgLLz82eZKj2_L3JJcwIT0uiJit0Vplpl1CLnF4Q.jpeg" group-title="DIRECTV",Directv Sports + HD U8
+#EXTGRP:DIRECTV
+http://sudaka.link:25461/live/luiscavacho/cavacho/17350.ts
 #EXTINF:-1 tvg-id="SPOPLH" tvg-logo="http://www.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS + PERU U1
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784460.ts
@@ -509,6 +512,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784453.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS 2 ECUADOR U2
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784453.ts
+#EXTINF:-1 tvg-id="SPO2HD" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4IeLpKgLLz82eZKj2_L3JJc6fscCZ7jVhBudiJEWBSvQA.jpeg" group-title="DIRECTV",Directv Sports 2 HD U8
+#EXTGRP:DIRECTV
+http://sudaka.link:25461/live/luiscavacho/cavacho/17348.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="DIRECTV",DIRECTV SPORTS 2 PE (HD) U12
 #EXTGRP:DIRECTV
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/477.ts
@@ -1394,6 +1400,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/796042.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/DirecTV_Sports%2B_2018.png/revision/latest/scale-to-width-down/250?cb=20200706230244&path-prefix=es" group-title="DIRECTV",DSPORTS + PE OP 3 U2
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/796042.ts
+#EXTINF:-1 tvg-id="SPOEQ" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4IeLpKgLLz82eZKj2_L3JJcKd5s3q32TAhsqtKP2x96Gg.jpeg" group-title="DIRECTV 1",DSPORTS 1 U8
+#EXTGRP:DIRECTV 1
+http://sudaka.link:25461/live/luiscavacho/cavacho/17326.ts
 #EXTINF:-1 tvg-id="SPOARHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f8fyyg1642114077.png" group-title="DIRECTV 1",DSPORTS 1 AR U1
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784446.ts
