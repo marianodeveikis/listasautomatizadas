@@ -770,9 +770,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/250886.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV HD U34
 #EXTGRP:ECUADOR
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/250886.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LgJQGdiZu1IR-UICnfERlQtPkkO2plARJFQGFmrkTEDQ.jpg" group-title="DEPORTES",El Canal del Fútbol U8
-#EXTGRP:DEPORTES
-http://sudaka.link:25461/live/luiscavacho/cavacho/14581.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP1 U1
 #EXTGRP:⭐DEPORTES PREMIUM
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784533.ts
@@ -785,9 +782,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784534.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP2 U2
 #EXTGRP:⭐DEPORTES PREMIUM
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784534.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LgJQGdiZu1IR-UICnfERlQtPkkO2plARJFQGFmrkTEDQ.jpg" group-title="DEPORTES",El Canal del Fútbol HD U8
-#EXTGRP:DEPORTES
-http://sudaka.link:25461/live/luiscavacho/cavacho/14580.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »1« U12
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/60957.ts
@@ -2108,15 +2102,6 @@ http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/61276.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »3« U34
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/61276.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Ln8snmwfmTo0qfM8n7G-_qve1rwHtBvFok4E5QmzUQ5w.jpeg" group-title="DEPORTES",Gol Perú U8
-#EXTGRP:DEPORTES
-http://sudaka.link:25461/live/luiscavacho/cavacho/15865.ts
-#EXTINF:-1 tvg-id="PAINDA" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Ln8snmwfmTo0qfM8n7G-_qve1rwHtBvFok4E5QmzUQ5w.jpeg" group-title="DEPORTES",Gol Peru HD U8
-#EXTGRP:DEPORTES
-http://sudaka.link:25461/live/luiscavacho/cavacho/15866.ts
-#EXTINF:-1 tvg-id="GOLLAHD" tvg-logo="https://i.imgur.com/M36tI2w.png" group-title="DEPORTES",Gol TV HD U8
-#EXTGRP:DEPORTES
-http://sudaka.link:25461/live/luiscavacho/cavacho/14559.ts
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="ECUADOR",GOLTV ECUADOR U1
 #EXTGRP:ECUADOR
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784531.ts
@@ -4998,4 +4983,19 @@ http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/27203.ts
 #EXTGRP:→ BRASIL ←
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/27203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U28
+#EXTGRP:→ BRASIL ←
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/27203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U29
+#EXTGRP:→ BRASIL ←
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/27203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U30
+#EXTGRP:→ BRASIL ←
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/27203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U31
+#EXTGRP:→ BRASIL ←
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/27203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U32
+#EXTGRP:→ BRASIL ←
+http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/27203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U33
 #EXTGRP:→ BRASIL ←
