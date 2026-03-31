@@ -215,6 +215,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776740.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »6« U2
 #EXTGRP:ESPN PREMIUM
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776740.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJ02zqWP/descarga-(16).png" group-title="TNT SPORTS",tnt probar U3
+#EXTGRP:TNT SPORTS
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592031.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U12
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/459.ts
@@ -425,6 +428,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784466.ts
 #EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »5« U2
 #EXTGRP:TNT SPORTS
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784466.ts
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »6« U8
+#EXTGRP:TNT SPORTS
+http://sudaka.link:25461/live/luiscavacho/cavacho/15076.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »7« U1
 #EXTGRP:TNT SPORTS
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776758.ts
@@ -479,6 +485,12 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784563.ts
 #EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="tyc",tyc probar U2
 #EXTGRP:tyc
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784563.ts
+#EXTINF:-1 tvg-id="TyCSportsPanregional.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LPI2cf7Y7KXgkfp_5C3uU1rENuzY2fiTNxOIWDA72pfg.jpg" group-title="tyc",tyc probar U8
+#EXTGRP:tyc
+http://sudaka.link:25461/live/luiscavacho/cavacho/15122.ts
+#EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LPI2cf7Y7KXgkfp_5C3uU1rENuzY2fiTNxOIWDA72pfg.jpg" group-title="tyc",tyc probar U8
+#EXTGRP:tyc
+http://sudaka.link:25461/live/luiscavacho/cavacho/15123.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U12
 #EXTGRP:tyc
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/462.ts
