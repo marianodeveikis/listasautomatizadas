@@ -3767,12 +3767,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382280.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382280.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195716.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 FHD 1080p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195715.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382281.ts
@@ -4998,4 +4992,10 @@ http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/27203.ts
 #EXTGRP:→ BRASIL ←
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/27203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U28
+#EXTGRP:→ BRASIL ←
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/27203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U29
+#EXTGRP:→ BRASIL ←
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/27203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="→ BRASIL ←",VIP_BR:SPORTV 3 HD U30
 #EXTGRP:→ BRASIL ←
