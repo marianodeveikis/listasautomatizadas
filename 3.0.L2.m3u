@@ -2252,6 +2252,9 @@ http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776753.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ FÚTBOL PERÚ ←",PE• DIRECTV SPORTS (HD) »1« U42
 #EXTGRP:→ FÚTBOL PERÚ ←
 http://ultrapremium.cloud:8080/live/64316813/24042022/317.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="→ FÚTBOL PERÚ ←",PE• DIRECTV SPORTS (HD) »1« U46
+#EXTGRP:→ FÚTBOL PERÚ ←
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/317.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kgY2Cqyz/Direc-TV-Sports-2-Latin-America-2018.png" group-title="DIRECTV",PE• DIRECTV SPORTS 2 (HD) U12
 #EXTGRP:DIRECTV
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/316.ts
@@ -2327,6 +2330,9 @@ http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/316.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kgY2Cqyz/Direc-TV-Sports-2-Latin-America-2018.png" group-title="→ FÚTBOL PERÚ ←",PE• DIRECTV SPORTS 2 (HD) U42
 #EXTGRP:→ FÚTBOL PERÚ ←
 http://ultrapremium.cloud:8080/live/64316813/24042022/316.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kgY2Cqyz/Direc-TV-Sports-2-Latin-America-2018.png" group-title="→ FÚTBOL PERÚ ←",PE• DIRECTV SPORTS 2 (HD) U46
+#EXTGRP:→ FÚTBOL PERÚ ←
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/316.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kGwnyv1z/Direc-TV-Sports-Latin-America-2018-png.png" group-title="DIRECTV",PE• DIRECTV SPORTS+ (HD) U12
 #EXTGRP:DIRECTV
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/315.ts
@@ -2402,6 +2408,9 @@ http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/315.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kGwnyv1z/Direc-TV-Sports-Latin-America-2018-png.png" group-title="→ FÚTBOL PERÚ ←",PE• DIRECTV SPORTS+ (HD) U42
 #EXTGRP:→ FÚTBOL PERÚ ←
 http://ultrapremium.cloud:8080/live/64316813/24042022/315.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/kGwnyv1z/Direc-TV-Sports-Latin-America-2018-png.png" group-title="→ FÚTBOL PERÚ ←",PE• DIRECTV SPORTS+ (HD) U46
+#EXTGRP:→ FÚTBOL PERÚ ←
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/315.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/D/directv-sports-fight-logo-BBD16A544F-seeklogo.com.png" group-title="DIRECTV",PPV• DIRECTV SPORTS FIGHT (HD) U36
 #EXTGRP:DIRECTV
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20350.ts
