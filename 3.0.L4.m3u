@@ -2240,6 +2240,9 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60267.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="ESPAÑA",DAZN LALIGA 2 SD U37
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/60267.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" group-title="ESPAÑA",DAZN LALIGA 3 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584999.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" group-title="ESPAÑA",Dazn LaLiga 3 HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585000.ts
@@ -4995,7 +4998,4 @@ http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/279300.ts
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/279301.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="ESPAÑA",LIGA ENDESA 3 U13
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/279301.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="ESPAÑA",LIGA ENDESA 3 U14
 #EXTGRP:ESPAÑA
