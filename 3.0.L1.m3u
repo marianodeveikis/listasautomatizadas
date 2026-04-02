@@ -1,230 +1,224 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »3« U42
-#EXTGRP:→ DEPORTES LATINOS ←
-http://ultrapremium.cloud:8080/live/64316813/24042022/544.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »3« U46
-#EXTGRP:→ DEPORTES LATINOS ←
-http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/544.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »4« U42
-#EXTGRP:→ DEPORTES LATINOS ←
-http://ultrapremium.cloud:8080/live/64316813/24042022/545.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="→ DEPORTES LATINOS ←",DEP• ESPN PREMIUM (HD) »4« U46
-#EXTGRP:→ DEPORTES LATINOS ←
-http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U12
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U7
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U13
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U8
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U14
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U9
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U15
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U10
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U16
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U11
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U17
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U12
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U18
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U13
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U20
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U14
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U21
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U15
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U22
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U16
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U23
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U17
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U24
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U18
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U25
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U19
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U26
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U20
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U27
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U21
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U28
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U22
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U29
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U23
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U30
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U24
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U31
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U25
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U32
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U26
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U33
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U27
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U34
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U28
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U36
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U30
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U37
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U31
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U12
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U36
+#EXTGRP:ESPN PREMIUM
+http://ultrapremium.cloud:8080/live/64316813/24042022/544.ts
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U7
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U13
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U8
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U14
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U9
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U15
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U10
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U16
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U11
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U17
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U12
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U18
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U13
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U20
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U14
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U21
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U15
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U22
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U16
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U23
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U17
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U24
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U18
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U25
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U19
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U26
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U20
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U27
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U21
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U28
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U22
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U29
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U23
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U30
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U24
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U31
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U25
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U32
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U26
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U33
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U27
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U34
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U28
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U36
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U30
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U37
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U31
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U12
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U36
+#EXTGRP:ESPN PREMIUM
+http://ultrapremium.cloud:8080/live/64316813/24042022/545.ts
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U7
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U13
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U8
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U14
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U9
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U15
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U10
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U16
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U11
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U17
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U12
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U18
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U13
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U20
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U14
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U21
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U15
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U22
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U16
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U23
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U17
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U24
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U18
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U25
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U19
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U26
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U20
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U27
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U21
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U28
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U22
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U29
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U23
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U30
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U24
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U31
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U25
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U32
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U26
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U33
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U27
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U34
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U28
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U36
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U30
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U37
+#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U31
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/16161.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »4« U1
@@ -245,223 +239,223 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776740.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »6« U2
 #EXTGRP:ESPN PREMIUM
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776740.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJ02zqWP/descarga-(16).png" group-title="TNT SPORTS",tnt probar U3
-#EXTGRP:TNT SPORTS
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592031.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U12
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U7
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U13
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U8
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U14
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U9
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U15
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U10
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U16
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U11
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U17
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U12
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U18
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U13
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U20
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U14
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U21
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U15
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U22
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U16
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U23
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U17
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U24
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U18
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U25
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U19
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U26
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U20
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U27
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U21
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U28
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U22
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U29
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U23
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U30
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U24
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U31
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U25
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U32
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U26
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U33
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U27
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U34
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U28
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U36
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U30
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U37
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U31
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U12
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJ02zqWP/descarga-(16).png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »10« U3
+#EXTGRP:TNT SPORTS
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592031.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U7
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U13
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U8
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U14
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U9
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U15
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U10
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U16
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U11
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U17
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U12
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U18
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U13
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U20
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U14
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U21
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U15
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U22
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U16
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U23
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U17
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U24
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U18
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U25
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U19
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U26
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U20
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U27
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U21
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U28
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U22
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U29
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U23
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U30
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U24
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U31
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U25
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U32
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U26
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U33
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U27
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U34
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U28
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U36
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U30
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U37
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U31
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U12
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U7
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U13
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U8
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U14
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U9
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U15
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U10
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U16
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U11
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U17
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U12
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U18
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U13
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U20
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U14
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U21
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U15
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U22
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U16
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U23
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U17
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U24
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U18
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U25
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U19
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U26
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U20
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U27
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U21
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U28
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U22
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U29
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U23
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U30
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U24
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U31
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U25
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U32
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U26
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U33
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U27
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U34
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U28
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U36
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U30
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U37
+#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U31
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/461.ts
 #EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »4« U1
@@ -476,7 +470,7 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784466.ts
 #EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »5« U2
 #EXTGRP:TNT SPORTS
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784466.ts
-#EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »6« U8
+#EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »6« U4
 #EXTGRP:TNT SPORTS
 http://sudaka.link:25461/live/luiscavacho/cavacho/15076.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »7« U1
@@ -497,201 +491,51 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776761.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »9« U2
 #EXTGRP:TNT SPORTS
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776761.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="tyc",tyc probar U1
-#EXTGRP:tyc
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »1« U1
+#EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776754.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="tyc",tyc probar U2
-#EXTGRP:tyc
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »1« U2
+#EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776754.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="tyc",tyc probar U1
-#EXTGRP:tyc
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »2« U1
+#EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776755.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="tyc",tyc probar U2
-#EXTGRP:tyc
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »2« U2
+#EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776755.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="tyc",tyc probar U1
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776757.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="tyc",tyc probar U2
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776757.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="tyc",tyc probar U1
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784564.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="tyc",tyc probar U2
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784564.ts
-#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="tyc",tyc probar U1
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784562.ts
-#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="tyc",tyc probar U2
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784562.ts
-#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="tyc",tyc probar U1
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784563.ts
-#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="tyc",tyc probar U2
-#EXTGRP:tyc
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784563.ts
-#EXTINF:-1 tvg-id="TyCSportsPanregional.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LPI2cf7Y7KXgkfp_5C3uU1rENuzY2fiTNxOIWDA72pfg.jpg" group-title="tyc",tyc probar U8
-#EXTGRP:tyc
-http://sudaka.link:25461/live/luiscavacho/cavacho/15122.ts
-#EXTINF:-1 tvg-id="tycsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4LPI2cf7Y7KXgkfp_5C3uU1rENuzY2fiTNxOIWDA72pfg.jpg" group-title="tyc",tyc probar U8
-#EXTGRP:tyc
-http://sudaka.link:25461/live/luiscavacho/cavacho/15123.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U12
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U13
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U14
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U15
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U16
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U17
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U18
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U20
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U21
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U22
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U23
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U24
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U25
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U26
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U27
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U28
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U29
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U30
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U31
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U32
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U33
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U34
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U12
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U13
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U14
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U15
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U16
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U17
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U18
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U20
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U21
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U22
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U23
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U24
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U25
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U26
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U27
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U28
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U29
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U30
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U31
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U32
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U33
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U34
-#EXTGRP:tyc
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U36
-#EXTGRP:tyc
-http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U37
-#EXTGRP:tyc
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U36
-#EXTGRP:tyc
-http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YSSq7fVJ/tycsports.png" group-title="tyc",tyc probar U37
-#EXTGRP:tyc
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/555.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »1« U1
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »3« U1
 #EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776756.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »1« U2
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »3« U2
 #EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776756.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »2« U1
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »4« U1
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776757.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »4« U2
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776757.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »5« U1
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784562.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »5« U2
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784562.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »6« U1
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784563.ts
+#EXTINF:-1 tvg-id="TYCHD" tvg-logo="http://www.tmsimg.com/assets/s90677_ll_h3_aa.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »6« U2
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784563.ts
+#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »7« U1
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784564.ts
+#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="http://www.tmsimg.com/assets/s16275_ll_h3_aa.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »7« U2
+#EXTGRP:TYC INTERNACIONAL
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784564.ts
+#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »8« U1
 #EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784565.ts
-#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »2« U2
+#EXTINF:-1 tvg-id="TYCINTH" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »8« U2
 #EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784565.ts
