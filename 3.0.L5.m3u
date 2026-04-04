@@ -431,9 +431,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D (SOLO EVENTOS) U30
 #EXTGRP:EVENTOS ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/251627.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D (SOLO EVENTOS) U31
-#EXTGRP:EVENTOS ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U7
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/251628.ts
@@ -503,9 +500,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U30
 #EXTGRP:EVENTOS ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/251628.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U31
-#EXTGRP:EVENTOS ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS CONMEBOL",LIBERTADORES 1 | U3
 #EXTGRP:EVENTOS CONMEBOL
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742924.ts
@@ -530,6 +524,15 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742930.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 01 | WWE | MONDAY NIGHT RAW | 8 PM ET | MON U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597257.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 03 | UFC Fight Night Adesanya vs. Pyfer | 5 PM ET | 3.28 | ESPANOL U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597259.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 05 | BKFC FIght Night Porter vs. Wilson | 6 PM ET | 3.28 U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597261.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 06 | PFL Pittsburgh Eblen vs. Battle | 7 PM ET | 3.28 U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597262.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/q7Ms20jr/Copilot_20260123_151259.png" group-title="PPV - EVENTS -",PPV 19 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597275.ts
@@ -698,9 +701,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U30
 #EXTGRP:EVENTOS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20203.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U31
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U7
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20220.ts
@@ -770,9 +770,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U30
 #EXTGRP:EVENTOS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20220.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U31
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U7
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20233.ts
@@ -842,9 +839,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U30
 #EXTGRP:EVENTOS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20233.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U31
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U7
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20285.ts
@@ -914,9 +908,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U30
 #EXTGRP:EVENTOS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20285.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U31
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U7
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20286.ts
@@ -986,9 +977,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U30
 #EXTGRP:EVENTOS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20286.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U31
-#EXTGRP:EVENTOS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://stream.mediastreamx.net:443/images/UYwZ7P2xerFdRYBryjCLwAVuVhXnyb1gJm6xD1baXUKT4u3QFGp1JClFZluFd74DIkQxXogKc7tbj_Pp_Adv8f4f4PFcbjGDPB603SCuFlw.png" group-title="EVENTOS DE HOY",PRIMERA FEDERACION OP1 U3
 #EXTGRP:EVENTOS DE HOY
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/743325.ts
