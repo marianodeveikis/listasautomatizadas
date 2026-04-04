@@ -68,12 +68,12 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/544.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U30
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/544.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U31
-#EXTGRP:ESPN PREMIUM
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/544.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U36
 #EXTGRP:ESPN PREMIUM
 http://ultrapremium.cloud:8080/live/64316813/24042022/544.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U40
+#EXTGRP:ESPN PREMIUM
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/544.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U7
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/545.ts
@@ -143,12 +143,12 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/545.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U30
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/545.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U31
-#EXTGRP:ESPN PREMIUM
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/545.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U36
 #EXTGRP:ESPN PREMIUM
 http://ultrapremium.cloud:8080/live/64316813/24042022/545.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U40
+#EXTGRP:ESPN PREMIUM
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/545.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U7
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/16161.ts
@@ -218,9 +218,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/16161.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U30
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/16161.ts
-#EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U31
-#EXTGRP:ESPN PREMIUM
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/16161.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »4« U1
 #EXTGRP:ESPN PREMIUM
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784385.ts
@@ -308,9 +305,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/459.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U30
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/459.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U31
-#EXTGRP:TNT SPORTS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/459.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tJ02zqWP/descarga-(16).png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »10« U3
 #EXTGRP:TNT SPORTS
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592031.ts
@@ -383,9 +377,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/460.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U30
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »2« U31
-#EXTGRP:TNT SPORTS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/460.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U7
 #EXTGRP:TNT SPORTS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/461.ts
@@ -455,9 +446,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/461.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U30
 #EXTGRP:TNT SPORTS
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/461.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »3« U31
-#EXTGRP:TNT SPORTS
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/461.ts
 #EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »4« U1
 #EXTGRP:TNT SPORTS
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784465.ts
