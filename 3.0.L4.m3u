@@ -2162,9 +2162,6 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/60267.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="ESPAÑA",DAZN LALIGA 2 SD U30
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60267.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" group-title="ESPAÑA",DAZN LALIGA 3 HD U3
-#EXTGRP:ESPAÑA
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584999.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" group-title="ESPAÑA",Dazn LaLiga 3 HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585000.ts
@@ -4998,4 +4995,7 @@ http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/493.ts
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/493.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA",M. LA LIGA 2 ES (HD) U12
+#EXTGRP:ESPAÑA
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/493.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA",M. LA LIGA 2 ES (HD) U13
 #EXTGRP:ESPAÑA
