@@ -431,6 +431,9 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D (SOLO EVENTOS) U30
 #EXTGRP:EVENTOS ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/251627.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D (SOLO EVENTOS) U31
+#EXTGRP:EVENTOS ESPAÑA
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U7
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/251628.ts
@@ -500,6 +503,9 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U30
 #EXTGRP:EVENTOS ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/251628.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS ESPAÑA",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U31
+#EXTGRP:EVENTOS ESPAÑA
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/WbP0vVgS/615px-Conmebol_Libertadores_logo.svg.png" group-title="EVENTOS CONMEBOL",LIBERTADORES 1 | U3
 #EXTGRP:EVENTOS CONMEBOL
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742924.ts
@@ -524,21 +530,489 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742930.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 01 | WWE | MONDAY NIGHT RAW | 8 PM ET | MON U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597257.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 03 | PEREZ vs MONTOYA  | 7 PM ET | 4.3 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 03 | Chisora vs. Wilder MAIN| 1 PM ET | 4.4 U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597259.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 05 | TADURAN vs PEREZ | 9 PM ET | 4.3 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 04 | Chisora vs. Wilder MAIN| 1 PM ET | 4.4 | ESPANOL U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597260.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 05 | UFC FIGHT NIGHT | Moicano vs. Duncan | 5 PM ET | 4.4 U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597261.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 06 | U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 06 | UFC FIGHT NIGHT | Moicano vs. Duncan | 5 PM ET | 4.4 | ESPANOL U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597262.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 08 | ARMORED MMA NASHVILLE | 7 PM ET | 4.4 U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597264.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 09 | Tim Tszyu vs. Denis Nurja | 8 PM ET | 4.4 U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597265.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 11 | U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597267.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="PPV - EVENTS -",PPV 12 | U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597268.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/q7Ms20jr/Copilot_20260123_151259.png" group-title="PPV - EVENTS -",PPV 19 | U3
+#EXTGRP:PPV - EVENTS -
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597275.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/q7Ms20jr/Copilot_20260123_151259.png" group-title="PPV - EVENTS -",PPV 20: OFF U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597276.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/q7Ms20jr/Copilot_20260123_151259.png" group-title="PPV - EVENTS -",PPV 21: OFF U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597277.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 1 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824295.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 1 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824295.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 10 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824296.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 10 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824296.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 11 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824297.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 11 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824297.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 12 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824298.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 12 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824298.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 13 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824299.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 13 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824299.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 14 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824300.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 14 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824300.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 15 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824301.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 15 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824301.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 2 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824302.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 2 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824302.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 3 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824303.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 3 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824303.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 4 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824304.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 4 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824304.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 5 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824305.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 5 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824305.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 6 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824306.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 6 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824306.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 7 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824307.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 7 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824307.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 8 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824308.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 8 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824308.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 9 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824309.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 9 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824309.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U7
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U8
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U9
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U10
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U11
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U12
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U13
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U14
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U15
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U16
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U17
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U20
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U21
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U22
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U24
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U25
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U26
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U27
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U28
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U30
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U31
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U7
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U8
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U9
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U10
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U11
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U12
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U13
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U14
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U15
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U16
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U17
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U20
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U21
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U22
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U24
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U25
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U26
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U27
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U28
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U30
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U31
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U7
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U8
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U9
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U10
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U11
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U12
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U13
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U14
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U15
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U16
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U17
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U20
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U21
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U22
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U24
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U25
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U26
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U27
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U28
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U30
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U31
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U7
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U8
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U9
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U10
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U11
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U12
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U13
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U14
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U15
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U16
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U17
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U20
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U21
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U22
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U24
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U25
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U26
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U27
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U28
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U30
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U31
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U7
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U8
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U9
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U10
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U11
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U12
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U13
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U14
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U15
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U16
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U17
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U20
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U21
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U22
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U24
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U25
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U26
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U27
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U28
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U30
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U31
+#EXTGRP:EVENTOS
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://stream.mediastreamx.net:443/images/UYwZ7P2xerFdRYBryjCLwAVuVhXnyb1gJm6xD1baXUKT4u3QFGp1JClFZluFd74DIkQxXogKc7tbj_Pp_Adv8f4f4PFcbjGDPB603SCuFlw.png" group-title="EVENTOS DE HOY",PRIMERA FEDERACION OP1 U3
 #EXTGRP:EVENTOS DE HOY
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/743325.ts
@@ -599,6 +1073,66 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/219741.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/yPTCT0J/sereia.png" group-title="EVENTOS DE HOY",Serie A 09: OFFLINE U3
 #EXTGRP:EVENTOS DE HOY
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/222134.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 1 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 1 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 10 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437359.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 10 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437359.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 2 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 2 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 3 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437352.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 3 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437352.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 4 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437353.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 4 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437353.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 5 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 5 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 6 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437355.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 6 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437355.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 7 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437356.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 7 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437356.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 8 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437357.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 8 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437357.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 9 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437358.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 9 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437358.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://support.tickets-ueclf.uefa.com/hc/theming_assets/01JHMM014KE8CMZ6P4T4441SHJ" group-title="EVENTOS UEFA",UEFA Conference League 00 | U3
 #EXTGRP:EVENTOS UEFA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714402.ts
@@ -647,3 +1181,63 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/714416.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://fanc.tmsimg.com/assets/s76955_ll_h3_aa.png" group-title="EVENTOS DE HOY",USA: BEIN SPORTS EN ESPANOL U3
 #EXTGRP:EVENTOS DE HOY
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/89811.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 1 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824272.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 1 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824272.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 10 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824273.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 10 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824273.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 2 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824283.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 2 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824283.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 3 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824288.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 3 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824288.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 4 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824289.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 4 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824289.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 5 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824290.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 5 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824290.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 6 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824291.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 6 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824291.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 7 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 7 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824292.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 8 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824293.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 8 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824293.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 9 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824294.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 9 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824294.ts
