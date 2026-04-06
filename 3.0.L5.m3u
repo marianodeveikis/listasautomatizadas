@@ -239,6 +239,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/250855.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/250855.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/250855.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/250855.ts
@@ -302,6 +305,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/250854.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/250854.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/250854.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/250854.ts
@@ -404,6 +410,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/251627.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/251627.ts
@@ -473,6 +482,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/251628.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/251628.ts
@@ -689,6 +701,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20203.ts
@@ -758,6 +773,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20220.ts
@@ -827,6 +845,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20233.ts
@@ -896,6 +917,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20285.ts
@@ -965,6 +989,9 @@ http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U22
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U23
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/Alberto-U5/Urtra-A3/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U24
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/20286.ts
