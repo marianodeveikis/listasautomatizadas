@@ -2627,12 +2627,6 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60346.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA",ED• M+  GOLF 2 (HD) »1« U31
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/60346.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U30
-#EXTGRP:ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U31
-#EXTGRP:ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/25795.ts
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »2« U7
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/25800.ts
@@ -4998,4 +4992,10 @@ http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/279301.ts
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/279301.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://basketworld.com/blog/wp-content/uploads/2020/06/liga-endesa-2020.jpg" group-title="ESPAÑA",LIGA ENDESA 3 U31
+#EXTGRP:ESPAÑA
+http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/279301.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 1 FHD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 1 FHD U2
 #EXTGRP:ESPAÑA
