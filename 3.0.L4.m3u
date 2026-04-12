@@ -4463,6 +4463,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784494.ts
 #EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="ESPAÑA",LALIGA TV 1 POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784494.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" group-title="ESPAÑA",LaLiga TV 2 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584958.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/LaLigaTV_2_por_Movistar_Plus+_2023.png/revision/latest?cb=20230708175335" group-title="ESPAÑA",LaLiga TV 2 por M+ FHD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584960.ts
@@ -4995,7 +4998,4 @@ http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/550.ts
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/550.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="ESPAÑA",M. DEPORTES ES (HD) U10
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/550.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/hPTwt2NQ/Deportes-por-Movistar-Plus-2022-logo-svg.png" group-title="ESPAÑA",M. DEPORTES ES (HD) U11
 #EXTGRP:ESPAÑA
