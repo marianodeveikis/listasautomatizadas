@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TNTSportsPremium2024.svg/revision/latest/scale-to-width-down/350?cb=20240601173549&path-prefix=es" group-title="DEPORTES PREMIUM",| TNT PREMIUM CH | U3
+#EXTGRP:DEPORTES PREMIUM
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592033.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="MEXICO",| TUDN MX | HD | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592016.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="MEXICO",| TUDN USA | FHD | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592019.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="MEXICO",| TUDN USA | HD | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592018.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p69jhVbw/imagen-deporte-2.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL (ECDF) OP1 ⚽ U1
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912354.ts
@@ -131,9 +143,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/359.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »1« U27
 #EXTGRP:COLOMBIA
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/359.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »1« U28
-#EXTGRP:COLOMBIA
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/359.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »1« U30
 #EXTGRP:COLOMBIA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/359.ts
@@ -200,9 +209,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/360.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »2« U27
 #EXTGRP:COLOMBIA
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/360.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »2« U28
-#EXTGRP:COLOMBIA
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/360.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »2« U30
 #EXTGRP:COLOMBIA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/360.ts
@@ -269,9 +275,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/361.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »3« U27
 #EXTGRP:COLOMBIA
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/361.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »3« U28
-#EXTGRP:COLOMBIA
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/361.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8e/WinSportsPlusPremium.png" group-title="COLOMBIA",COL• WIN SPORTS+ (HD) »3« U30
 #EXTGRP:COLOMBIA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/361.ts
@@ -338,9 +341,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/26000.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE",DEP• CDO PREMIUM CL (HD) »1« U27
 #EXTGRP:CHILE
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/26000.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE",DEP• CDO PREMIUM CL (HD) »1« U28
-#EXTGRP:CHILE
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/26000.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE",DEP• CDO PREMIUM CL (HD) »1« U30
 #EXTGRP:CHILE
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/26000.ts
@@ -407,9 +407,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/25999.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE",DEP• CDO PREMIUM CL (HD) »2« U27
 #EXTGRP:CHILE
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/25999.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE",DEP• CDO PREMIUM CL (HD) »2« U28
-#EXTGRP:CHILE
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/25999.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/CDO_Premium.png" group-title="CHILE",DEP• CDO PREMIUM CL (HD) »2« U30
 #EXTGRP:CHILE
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/25999.ts
@@ -548,9 +545,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/585.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="INTERNACIONAL",ECDF EC (HD) U27
 #EXTGRP:INTERNACIONAL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/585.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.xtrim.tv/images/xtr-vod-item-logo-ecdf.png" group-title="INTERNACIONAL",ECDF EC (HD) U28
-#EXTGRP:INTERNACIONAL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/585.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF  ᵗᵛᵐ U7
 #EXTGRP:→ ECUADOR ←
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/250884.ts
@@ -611,9 +605,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/250884.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF  ᵗᵛᵐ U27
 #EXTGRP:→ ECUADOR ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/250884.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF  ᵗᵛᵐ U28
-#EXTGRP:→ ECUADOR ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/250884.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF  ᵗᵛᵐ U30
 #EXTGRP:→ ECUADOR ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/250884.ts
@@ -680,9 +671,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/250885.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF FHD U27
 #EXTGRP:→ ECUADOR ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/250885.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF FHD U28
-#EXTGRP:→ ECUADOR ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/250885.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/ecdf.png" group-title="→ ECUADOR ←",ECU | ECDF FHD U30
 #EXTGRP:→ ECUADOR ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/250885.ts
@@ -749,9 +737,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/250867.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV U27
 #EXTGRP:ECUADOR
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/250867.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV U28
-#EXTGRP:ECUADOR
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/250867.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV FHD U7
 #EXTGRP:ECUADOR
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/250868.ts
@@ -812,9 +797,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/250868.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV FHD U27
 #EXTGRP:ECUADOR
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/250868.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV FHD U28
-#EXTGRP:ECUADOR
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/250868.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV HD U7
 #EXTGRP:ECUADOR
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/250886.ts
@@ -875,9 +857,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/250886.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV HD U27
 #EXTGRP:ECUADOR
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/250886.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://209.126.82.213/EC/goltv.png" group-title="ECUADOR",ECU | Gol TV HD U28
-#EXTGRP:ECUADOR
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/250886.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP1 U1
 #EXTGRP:⭐DEPORTES PREMIUM
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784533.ts
@@ -950,9 +929,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/60957.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »1« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/60957.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »1« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/60957.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »1« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60957.ts
@@ -1019,9 +995,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/60958.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »2« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/60958.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »2« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/60958.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »2« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60958.ts
@@ -1088,9 +1061,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/60959.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »3« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/60959.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »3« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/60959.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »3« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60959.ts
@@ -1157,9 +1127,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/60960.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »4« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/60960.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »4« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/60960.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/HnBhjzcN/d13.png" group-title="→ FUTBÓL CHILE ←",FCL• D13 (HD) »4« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60960.ts
@@ -1226,9 +1193,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/67190.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »2« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/67190.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »2« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/67190.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/KvFR3FLr/espn.png" group-title="→ FUTBÓL CHILE ←",FCL• ESPN (HD) »2« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/67190.ts
@@ -1337,9 +1301,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/98.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »1« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/98.ts
-#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »1« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/98.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »1« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/98.ts
@@ -1406,9 +1367,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/99.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »2« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/99.ts
-#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »2« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/99.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »2« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/99.ts
@@ -1475,9 +1433,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/56659.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »3« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/56659.ts
-#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »3« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/56659.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »3« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/56659.ts
@@ -1544,9 +1499,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/56660.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »4« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/56660.ts
-#EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »4« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/56660.ts
 #EXTINF:-1 tvg-id="tntsports3.cl" tvg-logo="https://i.ibb.co/wcD5wDt/TNT-Sports-2023-svg.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS (HD) »4« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/56660.ts
@@ -1625,9 +1577,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/92.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »3« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/92.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »3« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/92.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »3« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/92.ts
@@ -1694,9 +1643,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/93.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »4« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/93.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »4« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/93.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM (HD) »4« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/93.ts
@@ -1769,9 +1715,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/96.ts
 #EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »3« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/96.ts
-#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »3« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/96.ts
 #EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »3« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/96.ts
@@ -1838,9 +1781,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/97.ts
 #EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »4« U27
 #EXTGRP:→ FUTBÓL CHILE ←
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/97.ts
-#EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »4« U28
-#EXTGRP:→ FUTBÓL CHILE ←
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/97.ts
 #EXTINF:-1 tvg-id="tntsports2.cl" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="→ FUTBÓL CHILE ←",FCL• TNT SPORTS PREMIUM 2 (HD) »4« U30
 #EXTGRP:→ FUTBÓL CHILE ←
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/97.ts
@@ -1907,9 +1847,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/86.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »1« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/86.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »1« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/86.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »2« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/87.ts
@@ -1970,9 +1907,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/87.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »2« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/87.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »2« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/87.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »3« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/88.ts
@@ -2033,9 +1967,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/88.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »3« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/88.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »3« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/88.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »4« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/89.ts
@@ -2096,9 +2027,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/89.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »4« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/89.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/VvBpQHHB/FUTBOLCHILENO1.png" group-title="CHILENO",FUTBÓL CHILENO I »4« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/89.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »1« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/61274.ts
@@ -2159,9 +2087,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/61274.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »1« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/61274.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »1« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/61274.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »2« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/61275.ts
@@ -2222,9 +2147,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/61275.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »2« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/61275.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »2« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/61275.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »3« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/61276.ts
@@ -2285,9 +2207,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/61276.ts
 #EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »3« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/61276.ts
-#EXTINF:-1 tvg-id="tntsports.cl" tvg-logo="https://i.postimg.cc/Y97xKqcZ/FUTBOLCHILENO2.png" group-title="CHILENO",FUTBÓL CHILENO II »3« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/61276.ts
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="ECUADOR",GOLTV ECUADOR U1
 #EXTGRP:ECUADOR
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784531.ts
@@ -2468,9 +2387,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/307.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »1« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/307.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »1« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/307.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »1« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/307.ts
@@ -2543,9 +2459,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/324.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »10« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/324.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »10« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/324.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »10« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/324.ts
@@ -2618,9 +2531,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/308.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »2« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/308.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »2« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/308.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »2« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/308.ts
@@ -2693,9 +2603,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/309.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »3« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/309.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »3« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/309.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »3« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/309.ts
@@ -2768,9 +2675,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/311.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »5« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/311.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »5« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/311.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »5« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/311.ts
@@ -2843,9 +2747,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/312.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »6« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/312.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »6« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/312.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »6« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/312.ts
@@ -2918,9 +2819,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/313.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »7« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/313.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »7« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/313.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »7« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/313.ts
@@ -2993,9 +2891,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/322.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »8« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/322.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »8« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/322.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »8« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/322.ts
@@ -3068,9 +2963,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/323.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »9« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/323.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »9« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/323.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjxgDZ0D/Gol-Per-2016.png" group-title="PERU",PE• GOL PERU (HD) »9« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/323.ts
@@ -3143,9 +3035,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/14826.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png" group-title="PERU",PE• LIGA 1 (HD) U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/14826.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png" group-title="PERU",PE• LIGA 1 (HD) U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/14826.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/L/liga-1-peru-logo-2910BFBDB8-seeklogo.com.png" group-title="PERU",PE• LIGA 1 (HD) U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/14826.ts
@@ -3218,9 +3107,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/14827.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »1« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/14827.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »1« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/14827.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »1« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/14827.ts
@@ -3293,9 +3179,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/61474.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »2« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/61474.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »2« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/61474.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »2« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/61474.ts
@@ -3368,9 +3251,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/63060.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »3« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/63060.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »3« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/63060.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »3« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/63060.ts
@@ -3443,9 +3323,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/63061.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »4« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/63061.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »4« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/63061.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »4« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/63061.ts
@@ -3518,9 +3395,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/63062.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »5« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/63062.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »5« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/63062.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »5« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/63062.ts
@@ -3593,9 +3467,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/63059.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »6« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/63059.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »6« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/63059.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/C1Fz05qG/Liga1Max.png" group-title="PERU",PE• LIGA 1 MAX (HD) »6« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/63059.ts
@@ -3668,9 +3539,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/303.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »1« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/303.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »1« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/303.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »1« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/303.ts
@@ -3743,9 +3611,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/304.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »2« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/304.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »2« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/304.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »2« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/304.ts
@@ -3818,9 +3683,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/320.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »3« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/320.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »3« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/320.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »3« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/320.ts
@@ -3893,9 +3755,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/305.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »5« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/305.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »5« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/305.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »5« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/305.ts
@@ -3968,9 +3827,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/306.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" group-title="PERU",PE• M. PLUS (HD) »1« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/306.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" group-title="PERU",PE• M. PLUS (HD) »1« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/306.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" group-title="PERU",PE• M. PLUS (HD) »1« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/306.ts
@@ -4043,9 +3899,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/319.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" group-title="PERU",PE• M. PLUS (HD) »2« U27
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/319.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" group-title="PERU",PE• M. PLUS (HD) »2« U28
-#EXTGRP:PERU
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/319.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/fbbY78Hn/Movistar-Plus-Peru-2017-logo.png" group-title="PERU",PE• M. PLUS (HD) »2« U30
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/319.ts
@@ -4124,21 +3977,30 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/561.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 1 BR (HD) U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/561.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 1 BR (HD) U28
-#EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/561.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382280.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382280.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195716.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 FHD 1080p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195715.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382281.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382281.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 3  | H.264 480p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195717.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 3 | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195719.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 3 BR (HD) U7
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/563.ts
@@ -4199,15 +4061,21 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/563.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 3 BR (HD) U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/563.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 3 BR (HD) U28
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 3 FHD 1080P U3
 #EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/563.ts
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195718.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 4 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382282.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 4 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382282.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 4  | H.264 480p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195720.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 4 | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195722.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 4 BR (HD) U7
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/564.ts
@@ -4268,15 +4136,21 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/564.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 4 BR (HD) U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/564.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 4 BR (HD) U28
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 4 FHD 1080P U3
 #EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/564.ts
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195721.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 5 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382283.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 5 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382283.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 5  | H.264 480p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195723.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 5 | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195724.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 5 BR (HD) U7
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/565.ts
@@ -4337,9 +4211,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/565.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 5 BR (HD) U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/565.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 5 BR (HD) U28
-#EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/565.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 6 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382284.ts
@@ -4406,15 +4277,18 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/566.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 6 BR (HD) U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/566.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 6 BR (HD) U28
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 6 FHD 1080P U3
 #EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/566.ts
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195725.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 7 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/400120.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 7 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/400120.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 7  | H.264 480p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195726.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 7 BR (HD) U7
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/567.ts
@@ -4475,9 +4349,15 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/567.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 7 BR (HD) U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/567.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE 7 BR (HD) U28
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 7 FHD 1080P U3
 #EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/567.ts
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195727.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE CLUBES | 1080p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195730.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE CLUBES | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195731.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE CLUBES BR (HD) »1« U7
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/568.ts
@@ -4538,9 +4418,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/568.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE CLUBES BR (HD) »1« U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/568.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE CLUBES BR (HD) »1« U28
-#EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/568.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE CLUBES BR (HD) »2« U7
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/569.ts
@@ -4601,9 +4478,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/569.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE CLUBES BR (HD) »2« U27
 #EXTGRP:BRASIL
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/569.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/1200px-Logo_Premiere_FC_2018.png" group-title="BRASIL",PREMIERE CLUBES BR (HD) »2« U28
-#EXTGRP:BRASIL
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/569.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKh1l6gVJtV5YHr1vHhED3ayAVtnwZpkaKx-KhpUcvFPEGn9fQv8aB0F_FFxABUJsdTUmOWnFw0a9OkoobytpMhddIiDJj0kxQ7Q9h6KZZJ0bCfsKuywy7h7c330EzK-U0fA7bBHFHCseDi-BUZWyngZK7DsWRTI4nFoXw_Tidav5w.png" group-title="Portugal",PT :  SPORT TV + HD HEVC U30
 #EXTGRP:Portugal
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/269649.ts
@@ -4688,9 +4562,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/269645.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Portugal",PT :  SPORT TV NBA HD HEVC U27
 #EXTGRP:Portugal
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/269645.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Portugal",PT :  SPORT TV NBA HD HEVC U28
-#EXTGRP:Portugal
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/269645.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Portugal",PT :  SPORT TV NBA HD HEVC U30
 #EXTGRP:Portugal
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/269645.ts
@@ -4733,6 +4604,33 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/730025.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/futbolchileno/images/7/7f/Logo_de_la_Segunda_GrupoTX_2022.png/revision/latest?cb=20220705175446&path-prefix=es" group-title="⚽DEPORTES CHILE⚽",SEGUNDA CHILE 2 U2
 #EXTGRP:⚽DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/730025.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV  | H.264 480p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195686.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV | 1080p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195691.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195692.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 2  | H.264 480p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195687.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 2 | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195688.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 3  | H.264 480p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195689.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 3 | 720p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195690.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV2 | 1080p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195693.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV3 | 1080p U3
+#EXTGRP:BRASIL
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195694.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqAl3WFlNAFCb8AoBiO_O34dKhImGoXQ7hEg&s" group-title="COSTA RICA",TIGO SPORTS OP1 U1
 #EXTGRP:COSTA RICA
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343091.ts
@@ -4829,9 +4727,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/248243.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM 2 CHILE »1« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/248243.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM 2 CHILE »1« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/248243.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM CHILE »1« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/248242.ts
@@ -4892,9 +4787,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/248242.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM CHILE »1« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/248242.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM CHILE »1« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/248242.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM CHILE »2« U7
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/247844.ts
@@ -4955,9 +4847,6 @@ http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/247844.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM CHILE »2« U27
 #EXTGRP:CHILENO
 http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/247844.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/qYD5XRN/tnt-sport-premium.png" group-title="CHILENO",TNT SPORTS PREMIUM CHILE »2« U28
-#EXTGRP:CHILENO
-http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/247844.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILE",TNT SPORTS PREMIUM CHILE HD U1
 #EXTGRP:CHILE
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834412.ts
@@ -4998,4 +4887,115 @@ http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784559.ts
 #EXTGRP:MÉXICO
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/553.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U8
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U9
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U10
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U11
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U12
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U13
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U14
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U15
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U16
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U17
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U18
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U19
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U20
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U21
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U22
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U24
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U25
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U26
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »1« U27
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/553.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U7
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U8
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U9
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/940710015tv/gdte46astd/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U10
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/945460912tv1/jn14e7/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U11
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U12
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U13
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/964777022tv/jgnn652/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U14
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U15
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U16
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U17
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U18
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U19
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U20
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U21
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U22
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U24
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U25
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U26
 #EXTGRP:MÉXICO
