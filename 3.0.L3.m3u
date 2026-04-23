@@ -3983,12 +3983,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382280.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382280.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195716.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 FHD 1080p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195715.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382281.ts
@@ -4999,3 +4993,9 @@ http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/552.ts
 http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/552.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U27
 #EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="MÉXICO",TUDN MX (HD) »2« U28
+#EXTGRP:MÉXICO
+http://tvhomesmart.xyz:8080/live/luis0708/92w7shx47/552.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="DEPORTES PREMIUM",TUDN MX FHD U3
+#EXTGRP:DEPORTES PREMIUM
