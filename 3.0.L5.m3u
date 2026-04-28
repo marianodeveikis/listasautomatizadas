@@ -218,6 +218,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/250855.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/250855.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/250855.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/250855.ts
@@ -266,6 +269,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/250854.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/250854.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/250854.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/250854.ts
@@ -353,6 +359,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/251627.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/251627.ts
@@ -407,6 +416,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/251628.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/251628.ts
@@ -458,34 +470,34 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/742930.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 01 | WWE | MONDAY NIGHT RAW | 8 PM ET | MON U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597257.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 02 | UFC Fight Night Sterling vs. Zalal | 5 PM ET | 4.25 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 02 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597258.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 03 | UFC Fight Night Sterling vs. Zalal | 5 PM ET | 4.25 | ESP U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 03 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597259.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 04 | UFC Fight Night Sterling vs. Zalal | 5 PM ET | 4.25 | MULTIVIEW U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 04 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597260.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 05 | Bank vs. Ndjolonimu | 1 PM ET | 4.25 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 05 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597261.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 06 | Warriors 205 | 3.30 PM ET | 4.25 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 06 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597262.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 08 | Miller vs. Pero | 8 PM ET | 4.25 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 08 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597264.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 09 | Dharry vs. Kassim | 8 PM ET | 4.25 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 09 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597265.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 10 | AMA Supercross Championship Philadelphia | 1 / 7 PM ET | 4.25 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 10 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597266.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 11 | Velazquez vs Olivas | 9 PM ET | 4.25 U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://img.freepik.com/vector-premium/logotipo-ppv-letra-ppv-diseno-logotipo-carta-ppv-iniciales-logotipo-ppv-vinculado-circulo-monograma-mayusculas-tipografia-ppv-negocio-tecnologico-marca-inmobiliaria_229120-82137.jpg" group-title="PPV - EVENTS -",PPV 11 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597267.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="PPV - EVENTS -",PPV 12 | Velazquez vs Olivas | 9 PM ET | 4.25 | ESP U3
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.discordapp.com/attachments/697643845319524383/1024376804854730863/PPV.png" group-title="PPV - EVENTS -",PPV 12 | U3
 #EXTGRP:PPV - EVENTS -
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/597268.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/q7Ms20jr/Copilot_20260123_151259.png" group-title="PPV - EVENTS -",PPV 19 | U3
@@ -614,6 +626,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20203.ts
@@ -668,6 +683,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20220.ts
@@ -722,6 +740,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20233.ts
@@ -776,6 +797,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20285.ts
@@ -830,6 +854,9 @@ http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U18
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U19
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U20
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/20286.ts
