@@ -1550,6 +1550,9 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60356.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="ESPAÑA",DAZN FHD 1 U31
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/60356.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/DAZN_LaLiga_4_2023.png/revision/latest?cb=20230708174532" group-title="ESPAÑA",DAZN LA LIGA 4 FHD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585001.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LA LIGA UHD 4K U7
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/60265.ts
@@ -1859,6 +1862,18 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60267.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/232nMzR/DAZNL2.png" group-title="ESPAÑA",DAZN LALIGA 2 SD U31
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/60267.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" group-title="ESPAÑA",DAZN LALIGA 3 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584999.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/DAZN_LaLiga_3_2023.png/revision/latest?cb=20230708174531" group-title="ESPAÑA",Dazn LaLiga 3 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585000.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/DAZN_LaLiga_4_2023.png/revision/latest?cb=20230708174532" group-title="ESPAÑA",DAZN LALIGA 4 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585002.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/DAZN_LaLiga_5_2023.png/revision/latest?cb=20230708174533" group-title="ESPAÑA",DAZN LALIGA 5 U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585003.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LALIGA FHD U7
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/60263.ts
@@ -2087,6 +2102,30 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60261.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA",DAZN LALIGA SD U31
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/60261.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 1 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585036.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 1 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585037.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 2 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585038.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 2 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585039.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 3 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585040.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 3 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585041.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 4 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585042.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.blogs.es/ce75ca/dazn-futbol-femeniono/450_1000.jpg" group-title="ESPAÑA",Dazn Liga Femenina 4 HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585043.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.kooora.com/?i=o%2Fh%2F1%2F837%2Flaliga-tv-hd-1.png" group-title="ESPAÑA",DEP• LA LIGA TV ES (HD) U30
 #EXTGRP:ESPAÑA
 http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/490.ts
@@ -2135,6 +2174,9 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216352.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 SD | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216352.ts
+#EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-logo="https://i.postimg.cc/5ycjJrxC/LA-liga.png" group-title="ESPAÑA",DZN L!G 2 FHD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584997.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA 2" tvg-logo="https://i.postimg.cc/5ycjJrxC/LA-liga.png" group-title="ESPAÑA",DZN L.L!G 2 HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584996.ts
@@ -2147,69 +2189,6 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584995.ts
 #EXTINF:-1 tvg-id="DAZN LALIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="ESPAÑA",DZN L∆L!G∆ HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584993.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA",ED• M+  GOLF 2 (HD) »1« U30
-#EXTGRP:ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/60346.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="ESPAÑA",ED• M+  GOLF 2 (HD) »1« U31
-#EXTGRP:ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/60346.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U7
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U8
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U11
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U12
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U14
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U15
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U16
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U17
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U18
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U19
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U20
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U21
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U22
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U24
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U25
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U26
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U27
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U30
-#EXTGRP:ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/25795.ts
-#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »1« U31
-#EXTGRP:ESPAÑA
-http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/25795.ts
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="ESPAÑA",ED• M+ DEPORTES (HD) »2« U7
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/25800.ts
@@ -3953,6 +3932,9 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584979.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS4.png" group-title="ESPAÑA",LaLiga TV HYPERMOTION 4 HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584984.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA",LaLiga TV HYPERMOTION 5 U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584985.ts
 #EXTINF:-1 tvg-id="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="ESPAÑA",LaLiga TV HYPERMOTION FHD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/584974.ts
@@ -4028,6 +4010,9 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585013.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/3x1Lx01r/Liga-de-Campeones-por-Movistar-Plus-2023-Logo-svg.png" group-title="ESPAÑA",LIGA DE CAMPEONE POR M+ SD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585006.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Liga_de_Campeones_14_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193621" group-title="ESPAÑA",LIGA DE CAMPEONES  14 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585032.ts
 #EXTINF:-1 tvg-id="LIGCAHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP1 U1
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784487.ts
@@ -4040,6 +4025,27 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784488.ts
 #EXTINF:-1 tvg-id="LIGCAMP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784488.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/Liga_de_Campeones_10_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193617" group-title="ESPAÑA",LIGA DE CAMPEONES 10 POR M+ FHD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585028.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Liga_de_Campeones_11_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193618" group-title="ESPAÑA",LIGA DE CAMPEONES 11 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585029.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Liga_de_Campeones_12_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193619" group-title="ESPAÑA",LIGA DE CAMPEONES 12 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585030.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Liga_de_Campeones_13_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193620" group-title="ESPAÑA",LIGA DE CAMPEONES 13 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585031.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Liga_de_Campeones_15_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193623" group-title="ESPAÑA",LIGA DE CAMPEONES 15 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585033.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Liga_de_Campeones_16_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193624" group-title="ESPAÑA",LIGA DE CAMPEONES 16 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585034.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Liga_de_Campeones_17_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193625" group-title="ESPAÑA",LIGA DE CAMPEONES 17 POR M+ U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585035.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA",LIGA DE CAMPEONES 2 POR M+ FHD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585012.ts
@@ -4058,6 +4064,9 @@ http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784490.ts
 #EXTINF:-1 tvg-id="1+1 Internacional" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA",LIGA DE CAMPEONES 2 POR M+ SD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585010.ts
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193609" group-title="ESPAÑA",LIGA DE CAMPEONES 3 POR M+ FHD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585015.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Liga_de_Campeones_3_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193609" group-title="ESPAÑA",LIGA DE CAMPEONES 3 POR M+ HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585014.ts
@@ -4079,9 +4088,27 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585017.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Liga_de_Campeones_4_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193610" group-title="ESPAÑA",LIGA DE CAMPEONES 4 POR M+ HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585016.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Liga_de_Campeones_5_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193611" group-title="ESPAÑA",LIGA DE CAMPEONES 5 POR M+ HD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585018.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Liga_de_Campeones_6_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193612" group-title="ESPAÑA",LIGA DE CAMPEONES 6 POR M+ FHD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585021.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Liga_de_Campeones_6_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193612" group-title="ESPAÑA",LIGA DE CAMPEONES 6 SD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585020.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Liga_de_Campeones_7_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193614" group-title="ESPAÑA",LIGA DE CAMPEONES 7 POR M+ FHD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585022.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Liga_de_Campeones_8_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193615" group-title="ESPAÑA",LIGA DE CAMPEONES 8 POR M+ HD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585024.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Liga_de_Campeones_8_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193615" group-title="ESPAÑA",LIGA DE CAMPEONES 8 POR M+ SD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585023.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8d/Liga_de_Campeones_9_por_Movistar_Plus+_2023.png/revision/latest?cb=20230721193616" group-title="ESPAÑA",LIGA DE CAMPEONES 9 POR M+ SD U3
+#EXTGRP:ESPAÑA
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585025.ts
 #EXTINF:-1 tvg-id="M+ Liga de Campeones" tvg-logo="https://i.postimg.cc/3x1Lx01r/Liga-de-Campeones-por-Movistar-Plus-2023-Logo-svg.png" group-title="ESPAÑA",LIGA DE CAMPEONES POR M+ FHD U3
 #EXTGRP:ESPAÑA
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/585009.ts
@@ -4971,31 +4998,4 @@ http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/60238.ts
 #EXTGRP:ESPAÑA
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/60241.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U8
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/8GrV9jGjK9fN/5PrAG36ZQkYG/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U11
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/948796127tv/3mnbvc/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U12
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/95333223tv/sj92nhg44/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U14
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U15
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U16
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U17
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U18
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U19
-#EXTGRP:ESPAÑA
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/60241.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA",M+ LA LIGA FHD  (FIBRA 2) U20
 #EXTGRP:ESPAÑA
