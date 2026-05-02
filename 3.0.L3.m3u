@@ -11,6 +11,39 @@ http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592019.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="MEXICO",| TUDN USA | HD | U3
 #EXTGRP:MEXICO
 http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592018.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="MEXICO",| TUDNxtra 1 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592020.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 10 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592029.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="MEXICO",| TUDNxtra 11 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592030.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux2.png.06b73f9842ce65b4ce4a054d8fde72e5.png" group-title="MEXICO",| TUDNxtra 2 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592021.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 3 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592022.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 4 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592023.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 5 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592024.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="MEXICO",| TUDNxtra 6 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592025.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="MEXICO",| TUDNxtra 7 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592026.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 8 | U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592027.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 9 || U3
+#EXTGRP:MEXICO
+http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592028.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p69jhVbw/imagen-deporte-2.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL (ECDF) OP1 ⚽ U1
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912354.ts
@@ -4965,37 +4998,4 @@ http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/560.ts
 #EXTGRP:URUGUAY
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/560.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U16
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U17
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U18
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U19
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U20
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/985395880tv/vw5486/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U21
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/991311148tv/12j34h1/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U22
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/993492457tv/u65r9u/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U24
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/eb7bAU36UJGa/u4QsVZL5wtZA/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U25
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/gastonmariangeltv/3d7j25d25/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U26
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/j8tkbLMn3745/EUeQ4cB4jhau/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U27
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/LCZJFnENhquu/BTgyBxdv9zWv/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »2« U7
 #EXTGRP:URUGUAY
