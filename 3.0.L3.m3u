@@ -3146,6 +3146,12 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/303.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »1« U31
 #EXTGRP:PERU
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/303.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="→ FÚTBOL PERÚ ←",PE• M. DEPORTES (HD) »1« U36
+#EXTGRP:→ FÚTBOL PERÚ ←
+http://ultrapremium.cloud:8080/live/64316813/24042022/303.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="→ FÚTBOL PERÚ ←",PE• M. DEPORTES (HD) »1« U40
+#EXTGRP:→ FÚTBOL PERÚ ←
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/303.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/prLCmPg8/1280px-Movistar-Deportes-svg.png" group-title="PERU",PE• M. DEPORTES (HD) »2« U7
 #EXTGRP:PERU
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/304.ts
@@ -4992,10 +4998,4 @@ http://tvhomesmart.xyz:8080/live/967142389tv/nsj92kpfvgg/560.ts
 #EXTGRP:URUGUAY
 http://tvhomesmart.xyz:8080/live/971412719tv/16a8h2/560.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U16
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U17
-#EXTGRP:URUGUAY
-http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/560.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Logo_VTV_Plus_nuevo.png" group-title="URUGUAY",VTV+ UR (HD) »1« U18
 #EXTGRP:URUGUAY
