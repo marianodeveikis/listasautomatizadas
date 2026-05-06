@@ -215,6 +215,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/250855.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/250855.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/250855.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports ( Only Events )* U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/250855.ts
@@ -263,6 +266,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/250854.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/250854.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/250854.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="EVENTOS",ECU | Zapping Sports (Only Events) U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/250854.ts
@@ -350,6 +356,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/251627.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/251627.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D (SOLO EVENTOS) U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/251627.ts
@@ -404,6 +413,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/251628.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/251628.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZKXE9OMPR1G57ah2wpEzWxpg8KTyX15jwVbVs1wP1WIO5MoMRmeV14rFo4cneTc1lK8A&usqp=CAU" group-title="EVENTOS",LA LIGA 2D OP2 (SOLO EVENTOS) EXTRA U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/251628.ts
@@ -716,6 +728,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20203.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20203.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 1 (HD) U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20203.ts
@@ -770,6 +785,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20220.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20220.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 2 (HD) U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20220.ts
@@ -824,6 +842,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20233.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20233.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 3 (HD) U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20233.ts
@@ -878,6 +899,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20285.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20285.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 4 (HD) U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20285.ts
@@ -932,6 +956,9 @@ http://tvhomesmart.xyz:8080/live/974698374tv/057zq3/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U17
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/975605763tv/s6363p/20286.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U18
+#EXTGRP:EVENTOS
+http://tvhomesmart.xyz:8080/live/9774409tv/0m6wk7/20286.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://archive.org/download/ppv_20200411/ppv.png" group-title="EVENTOS",PPV• EVENTOS 5 (HD) U19
 #EXTGRP:EVENTOS
 http://tvhomesmart.xyz:8080/live/979188278tv/ty2eo9/20286.ts
