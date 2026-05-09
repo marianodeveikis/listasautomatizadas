@@ -56,6 +56,9 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/544.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U31
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/544.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »1« U40
+#EXTGRP:ESPN PREMIUM
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/544.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U7
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/545.ts
@@ -113,6 +116,9 @@ http://ultra-premium-pro.xyz:8080/live/19378618270/775E3wWhH9mMKg3/545.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U31
 #EXTGRP:ESPN PREMIUM
 http://ultra-premium-pro.xyz:8080/live/65828280tv/bcncbshds02w2/545.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/M57Q0Kv/espn-premium2.png" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »2« U40
+#EXTGRP:ESPN PREMIUM
+http://ultrapremium.cloud:8080/live/Haroldpinzon8i7j6h5g4f/WlQjr4XC3m/545.ts
 #EXTINF:-1 tvg-id="ESPN PREMIUM.ar" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/ESPN_Premium_(white_and_red)_2022.png/revision/latest/scale-to-width-down/250?cb=20220501173308&path-prefix=es" group-title="ESPN PREMIUM",ESPN PREMIUM (HD) »3« U7
 #EXTGRP:ESPN PREMIUM
 http://tvhomesmart.xyz:8080/live/57043134/48utf839tf/16161.ts
