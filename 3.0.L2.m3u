@@ -41,9 +41,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784460.ts
 #EXTINF:-1 tvg-id="SPOPLH" tvg-logo="http://www.tmsimg.com/assets/s107455_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS + PERU U2
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784460.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV",DIRECTV SPORTS 2 AR U3
-#EXTGRP:DIRECTV
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69549.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS 2 ARGENTINA U1
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784447.ts
@@ -68,9 +65,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834427.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS 2 CHILE SD U2
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834427.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/fXC6w96/ds2.png" group-title="DIRECTV",DIRECTV SPORTS 2 CO U3
-#EXTGRP:DIRECTV
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69568.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS 2 COLOMBIA U1
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784450.ts
@@ -95,9 +89,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784462.ts
 #EXTINF:-1 tvg-id="SPO2HD" tvg-logo="http://www.tmsimg.com/assets/s107396_ll_h3_ac.png" group-title="DIRECTV",DIRECTV SPORTS 2 URUGUAY U2
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784462.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QDKfDMG/ds.png" group-title="DIRECTV",DIRECTV SPORTS PLUS EC U3
-#EXTGRP:DIRECTV
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69559.ts
 #EXTINF:-1 tvg-id="SPOPLH" tvg-logo="https://www.directv.cl/content/dam/public-sites/channels/613.png" group-title="DIRECTV",DSPORTS + PE OP 1 U1
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147031.ts
@@ -122,12 +113,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784455.ts
 #EXTINF:-1 tvg-id="SPOARHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bx9fop1642114200.png" group-title="DIRECTV 1",DSPORTS 1 AR U2
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784455.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV 1",DSPORTS 1 AR U3
-#EXTGRP:DIRECTV 1
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69547.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://magosdeldeporte.com/wp-content/uploads/2023/01/dsport-argentina.png" group-title="DIRECTV 1",DSPORTS 1 AR U3
-#EXTGRP:DIRECTV 1
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592036.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_(2018).png" group-title="DIRECTV 1",DSPORTS 1 AR OP 1 U1
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776748.ts
@@ -152,36 +137,24 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834425.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/bx9fop1642114200.png" group-title="DIRECTV 1",DSPORTS 1 CH U2
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834425.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV 1",DSPORTS 1 CH U3
-#EXTGRP:DIRECTV 1
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69552.ts
 #EXTINF:-1 tvg-id="SPOCOHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t4fy2u1642114240.png" group-title="DIRECTV 1",DSPORTS 1 CO U1
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784449.ts
 #EXTINF:-1 tvg-id="SPOCOHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/t4fy2u1642114240.png" group-title="DIRECTV 1",DSPORTS 1 CO U2
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784449.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV 1",DSPORTS 1 CO U3
-#EXTGRP:DIRECTV 1
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69567.ts
 #EXTINF:-1 tvg-id="SPOEQ" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qjwoj61642114251.png" group-title="DIRECTV 1",DSPORTS 1 EC U1
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784452.ts
 #EXTINF:-1 tvg-id="SPOEQ" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qjwoj61642114251.png" group-title="DIRECTV 1",DSPORTS 1 EC U2
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784452.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV 1",DSPORTS 1 EC U3
-#EXTGRP:DIRECTV 1
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69557.ts
 #EXTINF:-1 tvg-id="SPOPHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="DIRECTV 1",DSPORTS 1 PE U1
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784458.ts
 #EXTINF:-1 tvg-id="SPOPHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="DIRECTV 1",DSPORTS 1 PE U2
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784458.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV 1",DSPORTS 1 PE U3
-#EXTGRP:DIRECTV 1
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/151274.ts
 #EXTINF:-1 tvg-id="SPOPHD" tvg-logo="https://pbs.twimg.com/media/FhSdYd1WAAE8b5R.jpg" group-title="DIRECTV 1",DSPORTS 1 PE OP 1 U1
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147029.ts
@@ -200,9 +173,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/796040.ts
 #EXTINF:-1 tvg-id="DTV1610" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vkyaqx1642114272.png" group-title="DIRECTV 1",DSPORTS 1 PE OP 3 U2
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/796040.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/RjFVFZW/wer324324324.png" group-title="DIRECTV 1",DSPORTS 1 URU »1« U3
-#EXTGRP:DIRECTV 1
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/69570.ts
 #EXTINF:-1 tvg-id="SPOURHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/816k3g1642114299.png" group-title="DIRECTV 1",DSPORTS 1 URU »2« U1
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784461.ts
@@ -215,9 +185,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784463.ts
 #EXTINF:-1 tvg-id="SPOPLH" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/816k3g1642114299.png" group-title="DIRECTV 1",DSPORTS 1 URU »3« U2
 #EXTGRP:DIRECTV 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784463.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1718310567007" group-title="DIRECTV",DSPORTS 2 U3
-#EXTGRP:DIRECTV
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592038.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_(2018).png" group-title="DIRECTV",DSPORTS 2 AR OP 1 U1
 #EXTGRP:DIRECTV
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776750.ts
