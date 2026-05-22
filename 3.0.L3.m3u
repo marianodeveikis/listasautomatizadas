@@ -1,49 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TNTSportsPremium2024.svg/revision/latest/scale-to-width-down/350?cb=20240601173549&path-prefix=es" group-title="DEPORTES PREMIUM",| TNT PREMIUM CH | U3
-#EXTGRP:DEPORTES PREMIUM
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592033.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="MEXICO",| TUDN MX | HD | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592016.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="MEXICO",| TUDN USA | FHD | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592019.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="MEXICO",| TUDN USA | HD | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592018.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1163864477856620544/a4jUeZxm_400x400.jpg" group-title="MEXICO",| TUDNxtra 1 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592020.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 10 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592029.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="MEXICO",| TUDNxtra 11 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592030.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2019_09/tux2.png.06b73f9842ce65b4ce4a054d8fde72e5.png" group-title="MEXICO",| TUDNxtra 2 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592021.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 3 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592022.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 4 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592023.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 5 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592024.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="MEXICO",| TUDNxtra 6 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592025.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d5ieH3U.jpg" group-title="MEXICO",| TUDNxtra 7 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592026.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 8 | U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592027.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LYvBRgZ/tudnxtr.png" group-title="MEXICO",| TUDNxtra 9 || U3
-#EXTGRP:MEXICO
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592028.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p69jhVbw/imagen-deporte-2.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL (ECDF) OP1 ⚽ U1
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912354.ts
@@ -260,81 +215,36 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382280.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382280.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195716.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 2 FHD 1080p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195715.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382281.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382281.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 3  | H.264 480p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195717.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 3 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195719.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 3 FHD 1080P U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195718.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 4 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382282.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 4 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382282.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 4  | H.264 480p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195720.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 4 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195722.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 4 FHD 1080P U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195721.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 5 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382283.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 5 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382283.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 5  | H.264 480p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195723.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 5 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195724.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 6 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382284.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 6 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382284.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 6 FHD 1080P U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195725.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 7 U1
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/400120.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 7 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/400120.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 7  | H.264 480p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195726.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE 7 FHD 1080P U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195727.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE CLUBES | 1080p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195730.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.glbimg.com/v1/AUTH_36abb2af534644878388f516c38b89ac/prod/home-share-1b75cdaa.png" group-title="BRASIL",PREMIERE CLUBES | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195731.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",SAT | MOVISTAR DEPORTES (1) U1
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/796057.ts
@@ -371,33 +281,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/730025.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/futbolchileno/images/7/7f/Logo_de_la_Segunda_GrupoTX_2022.png/revision/latest?cb=20220705175446&path-prefix=es" group-title="⚽DEPORTES CHILE⚽",SEGUNDA CHILE 2 U2
 #EXTGRP:⚽DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/730025.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV  | H.264 480p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195686.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV | 1080p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195691.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195692.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 2  | H.264 480p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195687.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 2 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195688.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 3  | H.264 480p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195689.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV 3 | 720p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195690.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV2 | 1080p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195693.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoumAcs3ZaKfduQ2tlkKl-71tT3asoAwfb2-kmTe8FKA&s" group-title="BRASIL",SPORTV3 | 1080p U3
-#EXTGRP:BRASIL
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/195694.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/514/900/png-clipart-fox-broadcasting-company-fox-international-channels-fox-news-fox-life-television-foxlogo-text-trademark.png" group-title="COSTA RICA",TIGO SPORTS OP1 U1
 #EXTGRP:COSTA RICA
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343091.ts
@@ -470,9 +353,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784559.ts
 #EXTINF:-1 tvg-id="TUDNM" tvg-logo="http://www.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="MEXICO",TUDN MEXICO OP2 U2
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784559.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcZyQtmrfHPxBcH9v8kcV6ZEqJkeHYSG7LMg&s" group-title="DEPORTES PREMIUM",TUDN MX FHD U3
-#EXTGRP:DEPORTES PREMIUM
-http://skynetplus.live:8080/live/RobertMartinez/b4bf3fb98956cc56/592017.ts
 #EXTINF:-1 tvg-id="TUDNCH" tvg-logo="http://www.tmsimg.com/assets/s89113_ll_h3_ac.png" group-title="MEXICO",TUDN USA OP1 U1
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784560.ts
