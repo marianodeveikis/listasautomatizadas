@@ -53,6 +53,12 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216351.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 HD U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 SD U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 SD U2
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216350.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2006/01/02/236176-24642541-2560-1440.jpg" group-title="FORMULA 1",D-ESP | EURO SPORTS 1 | FORMULA 1 U1
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369426.ts
@@ -395,12 +401,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338703.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION M3 SD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338703.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.motor.es/fotos-noticias/2018/01/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="FORMULA 1",M+ | MOVISTAR FÓRMULA 1 HD U1
-#EXTGRP:FORMULA 1
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216350.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.motor.es/fotos-noticias/2018/01/movistar-renueva-contrato-emision-f1-201842591_1.jpg" group-title="FORMULA 1",M+ | MOVISTAR FÓRMULA 1 HD U2
-#EXTGRP:FORMULA 1
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216350.ts
 #EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="ESPAÑA",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP1 U1
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784497.ts
