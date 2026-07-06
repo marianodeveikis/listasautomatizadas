@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPbIBkT1SaMvnlqjDsQXHEt0jPADhpUEhTmtjeV58tPCfqf8O4yGrm1S1Kzxw8hS6Bg.png" group-title="EVENTOS DE HOY",BOD08: EVENTOS 1 HD U1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD08: ENTEL GO U1
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242456.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPbIBkT1SaMvnlqjDsQXHEt0jPADhpUEhTmtjeV58tPCfqf8O4yGrm1S1Kzxw8hS6Bg.png" group-title="EVENTOS DE HOY",BOD08: EVENTOS 1 HD U2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD08: ENTEL GO U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/242456.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPbIBkT1SaMvnlqjDsQXHEt0jPADhpUEhTmtjeV58tPCfqf8O4yGrm1S1Kzxw8hS6Bg.png" group-title="EVENTOS DE HOY",BOD11: EVENTOS 3 HD U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242450.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPbIBkT1SaMvnlqjDsQXHEt0jPADhpUEhTmtjeV58tPCfqf8O4yGrm1S1Kzxw8hS6Bg.png" group-title="EVENTOS DE HOY",BOD11: EVENTOS 3 HD U2
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/242450.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPbIBkT1SaMvnlqjDsQXHEt0jPADhpUEhTmtjeV58tPCfqf8O4yGrm1S1Kzxw8hS6Bg.png" group-title="EVENTOS DE HOY",BOD14: EVENTOS 2 HD U1
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD09: ENTEL GO PLUS U1
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242453.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPbIBkT1SaMvnlqjDsQXHEt0jPADhpUEhTmtjeV58tPCfqf8O4yGrm1S1Kzxw8hS6Bg.png" group-title="EVENTOS DE HOY",BOD14: EVENTOS 2 HD U2
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD09: ENTEL GO PLUS U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/242453.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD10: EVENTOS 3 U1
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242450.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD10: EVENTOS 3 U2
+#EXTGRP:EVENTOS DE HOY
+http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/242450.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 1 U1
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824295.ts
