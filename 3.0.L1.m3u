@@ -35,6 +35,12 @@ http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192185.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM
 #EXTGRP:ESPN PREMIUM
 http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/192185.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM U6
+#EXTGRP:ESPN PREMIUM
+http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192186.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM
+#EXTGRP:ESPN PREMIUM
+http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/192186.ts
 #EXTINF:-1 tvg-id="FoxSports1.cl" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Iy4fKVgUWmjmzWPu3ypL1ohkujKTWj8azi6LTOvt-2HQ.jpg" group-title="ESPN PREMIUM",ESPN Premium U3
 #EXTGRP:ESPN PREMIUM
 http://sudaka.link:25461/live/luiscavacho/cavacho/13917.ts
@@ -65,60 +71,6 @@ http://virgencitachatuti.com:8080/live/LeonardoHurtado/d8BU2utDfF/591997.ts
 #EXTINF:-1 tvg-id="foxsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Iy4fKVgUWmjmzWPu3ypL1ohkujKTWj8azi6LTOvt-2HQ.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM HD U3
 #EXTGRP:ESPN PREMIUM
 http://sudaka.link:25461/live/luiscavacho/cavacho/16959.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U39
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/Latid@s11/QwT3CnPHRTG7/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U40
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/9XaHB7CcwLEp/yYDKRpkZ5TwW/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U41
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/BernarditaPaillaoBP/uaSMPsaDd7Sp/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U42
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/dSP8CKMtrbjE/EbKWV5VkZSNF/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U43
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/KUTRAL202/JWhzmBvftXLd/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U44
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/Gx97093843/Ssksr45bEJa2/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U45
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/MiguelVidal/NXJVgZaDmTeF/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U46
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/56982869551f/4LCqjZWRevFZ/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U47
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/CRMariaRosa2026/hK3auNxBwUA4/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U48
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/CASA999/GkupbrLrYKNw/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U50
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/cmdesouza.sandoval/kaUWWuFpGH8N/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U51
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/Emiliozep/MhDxAc3MtEjT/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U52
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/ydalu2026HD/8cGavwC6tBzj/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U53
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/Marc0626/LX6sEFqpQUSp/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U54
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/56978029127C/ndSA5zqKsr6v/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U55
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/Nelsonnz/TQfmhdHzRznZ/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U56
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/Caballeroestafador/zdXM7cQnTZAa/327919.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/2fcdc22ef23e33323bae9ea84c53d7c7.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »1« U58
-#EXTGRP:TNT SPORTS
-http://redworld.pro:8880/live/eveelyn1211/NLUQRZLEVXmz/327919.ts
 #EXTINF:-1 tvg-id="TNTSPOA" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" group-title="TNT SPORTS",TNT SPORTS AR (HD) »4« U1
 #EXTGRP:TNT SPORTS
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784465.ts
@@ -185,60 +137,6 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776754.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »1« U2
 #EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/776754.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U39
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Latid@s11/QwT3CnPHRTG7/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U40
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/9XaHB7CcwLEp/yYDKRpkZ5TwW/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U41
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/BernarditaPaillaoBP/uaSMPsaDd7Sp/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U42
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/dSP8CKMtrbjE/EbKWV5VkZSNF/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U43
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/KUTRAL202/JWhzmBvftXLd/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U44
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Gx97093843/Ssksr45bEJa2/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U45
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/MiguelVidal/NXJVgZaDmTeF/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U46
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/56982869551f/4LCqjZWRevFZ/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U47
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/CRMariaRosa2026/hK3auNxBwUA4/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U48
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/CASA999/GkupbrLrYKNw/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U50
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/cmdesouza.sandoval/kaUWWuFpGH8N/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U51
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Emiliozep/MhDxAc3MtEjT/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U52
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/ydalu2026HD/8cGavwC6tBzj/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U53
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Marc0626/LX6sEFqpQUSp/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U54
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/56978029127C/ndSA5zqKsr6v/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U55
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Nelsonnz/TQfmhdHzRznZ/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U56
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Caballeroestafador/zdXM7cQnTZAa/443250.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »10« U58
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/eveelyn1211/NLUQRZLEVXmz/443250.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »2« U1
 #EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/776755.ts
@@ -281,57 +179,3 @@ http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784565.ts
 #EXTINF:-1 tvg-id="TYCINTH" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2023/11/tv-station-tyc-sports-internacional-1246.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »8« U2
 #EXTGRP:TYC INTERNACIONAL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784565.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U39
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Latid@s11/QwT3CnPHRTG7/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U40
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/9XaHB7CcwLEp/yYDKRpkZ5TwW/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U41
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/BernarditaPaillaoBP/uaSMPsaDd7Sp/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U42
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/dSP8CKMtrbjE/EbKWV5VkZSNF/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U43
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/KUTRAL202/JWhzmBvftXLd/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U44
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Gx97093843/Ssksr45bEJa2/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U45
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/MiguelVidal/NXJVgZaDmTeF/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U46
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/56982869551f/4LCqjZWRevFZ/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U47
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/CRMariaRosa2026/hK3auNxBwUA4/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U48
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/CASA999/GkupbrLrYKNw/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U50
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/cmdesouza.sandoval/kaUWWuFpGH8N/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U51
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Emiliozep/MhDxAc3MtEjT/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U52
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/ydalu2026HD/8cGavwC6tBzj/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U53
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Marc0626/LX6sEFqpQUSp/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U54
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/56978029127C/ndSA5zqKsr6v/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U55
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Nelsonnz/TQfmhdHzRznZ/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U56
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/Caballeroestafador/zdXM7cQnTZAa/327918.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://redworld.pro:8880/images/c5509c4b9b2f0749da4aed3a5ae3d7c3.png" group-title="TYC INTERNACIONAL",TYC SPORTS INTERNACIONAL »9« U58
-#EXTGRP:TYC INTERNACIONAL
-http://redworld.pro:8880/live/eveelyn1211/NLUQRZLEVXmz/327918.ts
