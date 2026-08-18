@@ -1,184 +1,367 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p69jhVbw/imagen-deporte-2.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL (ECDF) OP1 ⚽ U1
+#EXTGRP:⚽DEPORTES ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912354.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p69jhVbw/imagen-deporte-2.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL (ECDF) OP1 ⚽ U2
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/912354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p69jhVbw/imagen-deporte-2.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL (ECDF) OP2 ⚽ U1
+#EXTGRP:⚽DEPORTES ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912355.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/p69jhVbw/imagen-deporte-2.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL (ECDF) OP2 ⚽ U2
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/912355.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HDbCkXqb/imagen-deporte.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL 2 (ECDF2) OP1 ⚽ U1
+#EXTGRP:⚽DEPORTES ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912356.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HDbCkXqb/imagen-deporte.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL 2 (ECDF2) OP1 ⚽ U2
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/912356.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HDbCkXqb/imagen-deporte.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL 2 (ECDF2) OP2 ⚽ U1
+#EXTGRP:⚽DEPORTES ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912357.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HDbCkXqb/imagen-deporte.jpg" group-title="⚽DEPORTES ECUADOR",⚽ EL CANAL DEL FUTBOL 2 (ECDF2) OP2 ⚽ U2
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/912357.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOtrH5QNSbaPiEotYPtuO2j00N7ArHgCBSg&s" group-title="⚽DEPORTES ECUADOR",⚽ GOLTV ECUADOR OP2 ⚽ U1
+#EXTGRP:⚽DEPORTES ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/912359.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOtrH5QNSbaPiEotYPtuO2j00N7ArHgCBSg&s" group-title="⚽DEPORTES ECUADOR",⚽ GOLTV ECUADOR OP2 ⚽ U2
 #EXTGRP:⚽DEPORTES ECUADOR
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/912359.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt5b126f5c37b4648d/63e5616304418740b3be012a/sportv-logo-8.png" group-title="⚽DEPORTES BRASIL",BR: SPORTV 1 U1
+#EXTGRP:⚽DEPORTES BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/280494.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt5b126f5c37b4648d/63e5616304418740b3be012a/sportv-logo-8.png" group-title="⚽DEPORTES BRASIL",BR: SPORTV 1 U2
 #EXTGRP:⚽DEPORTES BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/280494.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JkX5R4B/sportv2.png" group-title="⚽DEPORTES BRASIL",BR: SPORTV 2 HD U1
+#EXTGRP:⚽DEPORTES BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/280495.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/JkX5R4B/sportv2.png" group-title="⚽DEPORTES BRASIL",BR: SPORTV 2 HD U2
 #EXTGRP:⚽DEPORTES BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/280495.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tpjfMm1/sportv3.png" group-title="⚽DEPORTES BRASIL",BR: SPORTV 3 FHD U1
+#EXTGRP:⚽DEPORTES BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/280496.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tpjfMm1/sportv3.png" group-title="⚽DEPORTES BRASIL",BR: SPORTV 3 FHD U2
 #EXTGRP:⚽DEPORTES BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/280496.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="⚽DEPORTES CHILE⚽",CLD10: TNT SPORTS PREMIUM 1 U1
+#EXTGRP:⚽DEPORTES CHILE⚽
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343135.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="⚽DEPORTES CHILE⚽",CLD10: TNT SPORTS PREMIUM 1 U2
 #EXTGRP:⚽DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/343135.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="⚽DEPORTES CHILE⚽",CLD11:  TNT SPORTS PREMIUM 2 U1
+#EXTGRP:⚽DEPORTES CHILE⚽
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343136.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="⚽DEPORTES CHILE⚽",CLD11:  TNT SPORTS PREMIUM 2 U2
 #EXTGRP:⚽DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/343136.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="⚽DEPORTES CHILE⚽",CLD13: TNT SPORTS PREMIUM 3 U1
+#EXTGRP:⚽DEPORTES CHILE⚽
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343137.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="⚽DEPORTES CHILE⚽",CLD13: TNT SPORTS PREMIUM 3 U2
 #EXTGRP:⚽DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/343137.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP1 U1
+#EXTGRP:⭐DEPORTES PREMIUM
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784533.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP1 U2
 #EXTGRP:⭐DEPORTES PREMIUM
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784533.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP2 U1
+#EXTGRP:⭐DEPORTES PREMIUM
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784534.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe7RYTyoqvDihX2pl6zg0Zh038b7lB1Bae0Q&s" group-title="⭐DEPORTES PREMIUM",EL CANAL DEL FUTBOL (ECDF) (EC) OP2 U2
 #EXTGRP:⭐DEPORTES PREMIUM
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784534.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="ECUADOR",GOLTV ECUADOR U1
+#EXTGRP:ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784531.ts
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="ECUADOR",GOLTV ECUADOR U2
 #EXTGRP:ECUADOR
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784531.ts
+#EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="ECUADOR",GOLTV ECUADOR U1
+#EXTGRP:ECUADOR
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784532.ts
 #EXTINF:-1 tvg-id="GOLTV" tvg-logo="http://www.tmsimg.com/assets/s32161_ll_h3_aa.png" group-title="ECUADOR",GOLTV ECUADOR U2
 #EXTGRP:ECUADOR
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784532.ts
+#EXTINF:-1 tvg-id="TUDNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="MEXICO",MX | TUDN U1
+#EXTGRP:MEXICO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/85825.ts
 #EXTINF:-1 tvg-id="TUDNC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1280px-TUDN_Logo.svg.png" group-title="MEXICO",MX | TUDN U2
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/85825.ts
+#EXTINF:-1 tvg-id="TUDNC" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="MEXICO",MX | TUDN USA U1
+#EXTGRP:MEXICO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/85826.ts
 #EXTINF:-1 tvg-id="TUDNC" tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png" group-title="MEXICO",MX | TUDN USA U2
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/85826.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFa1B7rL5xiE0cxTdL5kukwLdfGDBA9ZTZQ&s" group-title="PERU",PE | LIGA 1 MAX opc 1 U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147035.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFa1B7rL5xiE0cxTdL5kukwLdfGDBA9ZTZQ&s" group-title="PERU",PE | LIGA 1 MAX opc 1 U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147035.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFa1B7rL5xiE0cxTdL5kukwLdfGDBA9ZTZQ&s" group-title="PERU",PE | Liga 1 MAX opc 2 U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147036.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFa1B7rL5xiE0cxTdL5kukwLdfGDBA9ZTZQ&s" group-title="PERU",PE | Liga 1 MAX opc 2 U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147036.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFa1B7rL5xiE0cxTdL5kukwLdfGDBA9ZTZQ&s" group-title="PERU",PE | Liga 1 MAX opc 3 U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147037.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoFa1B7rL5xiE0cxTdL5kukwLdfGDBA9ZTZQ&s" group-title="PERU",PE | Liga 1 MAX opc 3 U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147037.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cerebriti.b-cdn.net/uploads/FB_20be8fe5250b4a396c6f5e81545024ba.png" group-title="PERU",PE | LIGA 1 opc 1 U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147033.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cerebriti.b-cdn.net/uploads/FB_20be8fe5250b4a396c6f5e81545024ba.png" group-title="PERU",PE | LIGA 1 opc 1 U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147033.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cerebriti.b-cdn.net/uploads/FB_20be8fe5250b4a396c6f5e81545024ba.png" group-title="PERU",PE | LIGA 1 opc 2 U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147034.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cerebriti.b-cdn.net/uploads/FB_20be8fe5250b4a396c6f5e81545024ba.png" group-title="PERU",PE | LIGA 1 opc 2 U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147034.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PE | Movistar Deportes HD U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147028.ts
 #EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PE | Movistar Deportes HD U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147028.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PE | MOVISTAR DEPORTES OP1 U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/551.ts
 #EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PE | MOVISTAR DEPORTES OP1 U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/551.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PE | MOVISTAR DEPORTES OP2 U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/552.ts
 #EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",PE | MOVISTAR DEPORTES OP2 U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/552.ts
+#EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",PE | MOVISTAR PLUS U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/562.ts
 #EXTINF:-1 tvg-id="MovistarPlus.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_%28Peru%29_-_2017_logo.png" group-title="PERU",PE | MOVISTAR PLUS U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/562.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/52eJNaxLZIc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-_wtuMXGACFwjZf5m7ar_Zazpbw" group-title="PERU",PE | NATIVA DEPORTES U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/206279.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/52eJNaxLZIc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-_wtuMXGACFwjZf5m7ar_Zazpbw" group-title="PERU",PE | NATIVA DEPORTES U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/206279.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147025.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147025.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/796049.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/796049.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) FHD U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147027.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) FHD U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147027.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) HD U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/147026.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7C9BIlkvhtrTA1NEi48dizbr-M0gWS9ixHA&s" group-title="PERU",PE | OVACION (ANTES GOL PERU) HD U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/147026.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 1 U1
+#EXTGRP:BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382279.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 1 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382279.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U1
+#EXTGRP:BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382280.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 2 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382280.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U1
+#EXTGRP:BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382281.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 3 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382281.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 4 U1
+#EXTGRP:BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382282.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 4 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382282.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 5 U1
+#EXTGRP:BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382283.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 5 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382283.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 6 U1
+#EXTGRP:BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/382284.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 6 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/382284.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 7 U1
+#EXTGRP:BRASIL
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/400120.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="BRASIL",PREMIERE 7 U2
 #EXTGRP:BRASIL
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/400120.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",SAT | MOVISTAR DEPORTES (1) U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/796057.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="PERU",SAT | MOVISTAR DEPORTES (1) U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/796057.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="PERU",SAT | MOVISTAR PLUS U1
+#EXTGRP:PERU
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/796060.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Movistar_Plus_(Peru)_-_2017_logo.png" group-title="PERU",SAT | MOVISTAR PLUS U2
 #EXTGRP:PERU
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/796060.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP1 U1
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834423.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP1 U2
 #EXTGRP:CHILE
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834423.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP2 U1
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834424.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hF2p004x/cdo02.png" group-title="CHILE",SAT CL | CDO 2 OP2 U2
 #EXTGRP:CHILE
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834424.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgua3-4.fna.fbcdn.net/v/t39.30808-6/701466428_1620164686784130_4269572106195445104_n.jpg?stp=dst-jpg_tt6&cstp=mx1001x1000&ctp=s1001x1000&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NhWTkRtDg0wQ7kNvwES28wS&_nc_oc=AdpgAFg8ICpPHYHQDzCEtSsq-QUAxFov_t-NXssUe56bTCSPdC8j4I4U-Ai1LdmOOQmef6qOv00pOtmAQ3FBQNfM&_nc_zt=23&_nc_ht=scontent.fgua3-4.fna&_nc_gid=5YJ8ZjeIcOENZeRnCORd7w&_nc_ss=7b2a8&oh=00_AQAwUMzsgYeT0Jnjf3d3pr79h-trdmOPhkYCHuCN4T0wmA&oe=6A644AF6" group-title="COSTA RICA",TIGO SPORTS OP1 U1
+#EXTGRP:COSTA RICA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343091.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fgua3-4.fna.fbcdn.net/v/t39.30808-6/701466428_1620164686784130_4269572106195445104_n.jpg?stp=dst-jpg_tt6&cstp=mx1001x1000&ctp=s1001x1000&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NhWTkRtDg0wQ7kNvwES28wS&_nc_oc=AdpgAFg8ICpPHYHQDzCEtSsq-QUAxFov_t-NXssUe56bTCSPdC8j4I4U-Ai1LdmOOQmef6qOv00pOtmAQ3FBQNfM&_nc_zt=23&_nc_ht=scontent.fgua3-4.fna&_nc_gid=5YJ8ZjeIcOENZeRnCORd7w&_nc_ss=7b2a8&oh=00_AQAwUMzsgYeT0Jnjf3d3pr79h-trdmOPhkYCHuCN4T0wmA&oe=6A644AF6" group-title="COSTA RICA",TIGO SPORTS OP1 U2
 #EXTGRP:COSTA RICA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/343091.ts
+#EXTINF:-1 tvg-id="TIGO" tvg-logo="https://scontent.fgua3-4.fna.fbcdn.net/v/t39.30808-6/701466428_1620164686784130_4269572106195445104_n.jpg?stp=dst-jpg_tt6&cstp=mx1001x1000&ctp=s1001x1000&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NhWTkRtDg0wQ7kNvwES28wS&_nc_oc=AdpgAFg8ICpPHYHQDzCEtSsq-QUAxFov_t-NXssUe56bTCSPdC8j4I4U-Ai1LdmOOQmef6qOv00pOtmAQ3FBQNfM&_nc_zt=23&_nc_ht=scontent.fgua3-4.fna&_nc_gid=5YJ8ZjeIcOENZeRnCORd7w&_nc_ss=7b2a8&oh=00_AQAwUMzsgYeT0Jnjf3d3pr79h-trdmOPhkYCHuCN4T0wmA&oe=6A644AF6" group-title="COSTA RICA",TIGO SPORTS OP2 U1
+#EXTGRP:COSTA RICA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/343092.ts
 #EXTINF:-1 tvg-id="TIGO" tvg-logo="https://scontent.fgua3-4.fna.fbcdn.net/v/t39.30808-6/701466428_1620164686784130_4269572106195445104_n.jpg?stp=dst-jpg_tt6&cstp=mx1001x1000&ctp=s1001x1000&_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=NhWTkRtDg0wQ7kNvwES28wS&_nc_oc=AdpgAFg8ICpPHYHQDzCEtSsq-QUAxFov_t-NXssUe56bTCSPdC8j4I4U-Ai1LdmOOQmef6qOv00pOtmAQ3FBQNfM&_nc_zt=23&_nc_ht=scontent.fgua3-4.fna&_nc_gid=5YJ8ZjeIcOENZeRnCORd7w&_nc_ss=7b2a8&oh=00_AQAwUMzsgYeT0Jnjf3d3pr79h-trdmOPhkYCHuCN4T0wmA&oe=6A644AF6" group-title="COSTA RICA",TIGO SPORTS OP2 U2
 #EXTGRP:COSTA RICA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/343092.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ544nilgnIc3Prn6Hk7oTXuMF2ObmiiyMI7Q&s" group-title="⚽SAT DEPORTES CHILE⚽",TNT SPORTS CHILE HD U1
+#EXTGRP:⚽SAT DEPORTES CHILE⚽
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834410.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ544nilgnIc3Prn6Hk7oTXuMF2ObmiiyMI7Q&s" group-title="⚽SAT DEPORTES CHILE⚽",TNT SPORTS CHILE HD U2
 #EXTGRP:⚽SAT DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834410.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_(2023).svg/330px-TNT_Sports_(2023).svg.png" group-title="⭐DEPORTES PREMIUM",TNT SPORTS CHILE OP1 U1
+#EXTGRP:⭐DEPORTES PREMIUM
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784467.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_(2023).svg/330px-TNT_Sports_(2023).svg.png" group-title="⭐DEPORTES PREMIUM",TNT SPORTS CHILE OP1 U2
 #EXTGRP:⭐DEPORTES PREMIUM
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784467.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_(2023).svg/330px-TNT_Sports_(2023).svg.png" group-title="⭐DEPORTES PREMIUM",TNT SPORTS CHILE OP2 U1
+#EXTGRP:⭐DEPORTES PREMIUM
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784468.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_(2023).svg/330px-TNT_Sports_(2023).svg.png" group-title="⭐DEPORTES PREMIUM",TNT SPORTS CHILE OP2 U2
 #EXTGRP:⭐DEPORTES PREMIUM
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784468.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ544nilgnIc3Prn6Hk7oTXuMF2ObmiiyMI7Q&s" group-title="⚽SAT DEPORTES CHILE⚽",TNT SPORTS CHILE SD U1
+#EXTGRP:⚽SAT DEPORTES CHILE⚽
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834409.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ544nilgnIc3Prn6Hk7oTXuMF2ObmiiyMI7Q&s" group-title="⚽SAT DEPORTES CHILE⚽",TNT SPORTS CHILE SD U2
 #EXTGRP:⚽SAT DEPORTES CHILE⚽
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834409.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILE",TNT SPORTS PREMIUM CHILE HD U1
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834412.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILE",TNT SPORTS PREMIUM CHILE HD U2
 #EXTGRP:CHILE
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834412.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILENO",TNT SPORTS PREMIUM CHILE OP1 U1
+#EXTGRP:CHILENO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784469.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILENO",TNT SPORTS PREMIUM CHILE OP1 U2
 #EXTGRP:CHILENO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784469.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILENO",TNT SPORTS PREMIUM CHILE OP2 U1
+#EXTGRP:CHILENO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784470.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILENO",TNT SPORTS PREMIUM CHILE OP2 U2
 #EXTGRP:CHILENO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784470.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILE",TNT SPORTS PREMIUM CHILE SD U1
+#EXTGRP:CHILE
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/834411.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="CHILE",TNT SPORTS PREMIUM CHILE SD U2
 #EXTGRP:CHILE
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/834411.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="MEXICO",TUDN MEXICO OP1 U1
+#EXTGRP:MEXICO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784558.ts
 #EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="MEXICO",TUDN MEXICO OP1 U2
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784558.ts
+#EXTINF:-1 tvg-id="TUDNM" tvg-logo="http://www.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="MEXICO",TUDN MEXICO OP2 U1
+#EXTGRP:MEXICO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784559.ts
 #EXTINF:-1 tvg-id="TUDNM" tvg-logo="http://www.tmsimg.com/assets/s65129_ll_h3_aa.png" group-title="MEXICO",TUDN MEXICO OP2 U2
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784559.ts
+#EXTINF:-1 tvg-id="TUDNCH" tvg-logo="http://www.tmsimg.com/assets/s89113_ll_h3_ac.png" group-title="MEXICO",TUDN USA OP1 U1
+#EXTGRP:MEXICO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784560.ts
 #EXTINF:-1 tvg-id="TUDNCH" tvg-logo="http://www.tmsimg.com/assets/s89113_ll_h3_ac.png" group-title="MEXICO",TUDN USA OP1 U2
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784560.ts
+#EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="MEXICO",TUDN USA OP2 U1
+#EXTGRP:MEXICO
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784561.ts
 #EXTINF:-1 tvg-id="TUDNU" tvg-logo="http://www.tmsimg.com/assets/s75176_ll_h3_ae.png" group-title="MEXICO",TUDN USA OP2 U2
 #EXTGRP:MEXICO
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784561.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + (CO) OP1 U1
+#EXTGRP:COLOMBIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784537.ts
 #EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + (CO) OP1 U2
 #EXTGRP:COLOMBIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784537.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + (CO) OP2 U1
+#EXTGRP:COLOMBIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784538.ts
 #EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + (CO) OP2 U2
 #EXTGRP:COLOMBIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784538.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + OPCION 1 U1
+#EXTGRP:COLOMBIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/94797.ts
 #EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + OPCION 1 U2
 #EXTGRP:COLOMBIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/94797.ts
+#EXTINF:-1 tvg-id="WINSPR" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + OPCION 2 U1
+#EXTGRP:COLOMBIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/94798.ts
 #EXTINF:-1 tvg-id="WINSPR" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + OPCION 2 U2
 #EXTGRP:COLOMBIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/94798.ts
+#EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + OPCION 3 U1
+#EXTGRP:COLOMBIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/94799.ts
 #EXTINF:-1 tvg-id="WINSPRE" tvg-logo="http://www.tmsimg.com/assets/s112483_ll_h3_aa.png" group-title="COLOMBIA",WIN SPORTS + OPCION 3 U2
 #EXTGRP:COLOMBIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/94799.ts
