@@ -1,229 +1,115 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD08: ENTEL GO U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242456.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD08: ENTEL GO U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/242456.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD09: ENTEL GO PLUS U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242453.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD09: ENTEL GO PLUS U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/242453.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD10: EVENTOS 3 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/242450.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyhniBSZ56Peq5T6St2L3ucrUSo9IWhl1_uosiul2mo4QgAdC68X8SPUs&s=10" group-title="EVENTOS DE HOY",BOD10: EVENTOS 3 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/242450.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 1 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824295.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 1 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824295.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 10 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824296.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 10 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824296.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 11 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824297.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 11 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824297.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 12 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824298.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 12 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824298.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 13 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824299.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 13 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824299.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 14 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824300.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 14 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824300.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 15 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824301.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 15 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824301.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 2 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824302.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 2 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824302.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 3 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824303.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 3 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824303.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 4 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824304.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 4 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824304.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 5 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824305.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 5 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824305.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 6 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824306.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 6 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824306.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 7 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824307.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 7 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824307.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 8 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824308.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 8 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824308.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 9 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824309.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mr4kYW3T/ESTOESTV-VIX-USA.jpg" group-title="EVENTOS DE HOY",PPV VIX | FUTBOL 9 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824309.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 1 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437350.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 1 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437350.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 10 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437359.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 10 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437359.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 2 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437351.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 2 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437351.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 3 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437352.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 3 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437352.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 4 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437353.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 4 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437353.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 5 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437354.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 5 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437354.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 6 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437355.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 6 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437355.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 7 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437356.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 7 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437356.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 8 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437357.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 8 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437357.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 9 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/437358.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZYyBjV2/VIX.jpg" group-title="EVENTOS DE HOY",SPT-LAT | ViX Deportes 9 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/437358.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 1 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824272.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 1 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824272.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 10 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824273.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 10 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824273.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 2 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824283.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 2 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824283.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 3 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824288.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 3 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824288.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 4 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824289.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 4 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824289.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 5 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824290.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 5 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824290.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 6 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824291.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 6 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824291.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 7 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824292.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 7 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824292.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 8 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824293.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 8 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824293.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 9 U1
-#EXTGRP:EVENTOS DE HOY
-http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/824294.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/25x6T9Th/ESTOESTV-VIX-MX.jpg" group-title="EVENTOS DE HOY",ViX Premium Deportes 9 U2
 #EXTGRP:EVENTOS DE HOY
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/824294.ts
