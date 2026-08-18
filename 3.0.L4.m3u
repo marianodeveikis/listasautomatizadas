@@ -1,265 +1,529 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://i.ibb.co/1M0cfQq/DAZM-PREMIER-1.jpg" group-title="DAZN",[ES] DAZN 1 HD U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/206729.ts
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://i.ibb.co/1M0cfQq/DAZM-PREMIER-1.jpg" group-title="DAZN",[ES] DAZN 1 HD U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/206729.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://i.ibb.co/wzdRXHg/DAZN-PREMIER-2.jpg" group-title="DAZN",[ES] DAZN 2 HD U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/206728.ts
 #EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://i.ibb.co/wzdRXHg/DAZN-PREMIER-2.jpg" group-title="DAZN",[ES] DAZN 2 HD U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/206728.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ74zZH/DAZN-PREMIER-3.jpg" group-title="DAZN",[ES] DAZN 3 HD U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/206727.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/GJ74zZH/DAZN-PREMIER-3.jpg" group-title="DAZN",[ES] DAZN 3 HD U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/206727.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KdF6qc/DAZN-PREMIER-4.jpg" group-title="DAZN",[ES] DAZN 4 HD U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/206726.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7KdF6qc/DAZN-PREMIER-4.jpg" group-title="DAZN",[ES] DAZN 4 HD U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/206726.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="ESPAÑA",#VAMOS POR M+ OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784505.ts
 #EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="ESPAÑA",#VAMOS POR M+ OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784505.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="ESPAÑA",#VAMOS POR M+ OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784506.ts
 #EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcC2e7qi3GWsyhzO905v6IfqmK79iczKGiMg&s" group-title="ESPAÑA",#VAMOS POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784506.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410" group-title="FORMULA 1",| SKY SPORTS F1 | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216348.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Sky_Sports_F1_2020_DOG.png/revision/latest?cb=20220620061410" group-title="FORMULA 1",| SKY SPORTS F1 | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216348.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/11/16/formula-continuara-transmitida-fox-sports.jpg" group-title="FORMULA 1",ARG | FOX SPORTS 1 | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369423.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/11/16/formula-continuara-transmitida-fox-sports.jpg" group-title="FORMULA 1",ARG | FOX SPORTS 1 | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369423.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 HD U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216351.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 HD U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216351.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 SD U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216350.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",D-ESP | DAZN FORMULA 1 SD U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216350.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2006/01/02/236176-24642541-2560-1440.jpg" group-title="FORMULA 1",D-ESP | EURO SPORTS 1 | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369426.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x0/filters:format(jpeg)/origin-imgresizer.eurosport.com/2006/01/02/236176-24642541-2560-1440.jpg" group-title="FORMULA 1",D-ESP | EURO SPORTS 1 | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369426.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://s1.elespanol.com/2015/06/30/bluper/bluper_45005534_169923556_1706x960.jpg" group-title="FORMULA 1",D-ESP | EURO SPORTS 2 | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369427.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://s1.elespanol.com/2015/06/30/bluper/bluper_45005534_169923556_1706x960.jpg" group-title="FORMULA 1",D-ESP | EURO SPORTS 2 | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369427.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/05/1_0_1_7574_412_1_C00000_0_0_0.png?resize=440,264&ssl=1" group-title="DAZN",DAZN 1 BAR ALEMANIA U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784485.ts
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/05/1_0_1_7574_412_1_C00000_0_0_0.png?resize=440,264&ssl=1" group-title="DAZN",DAZN 1 BAR ALEMANIA U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784485.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN",DAZN 1 OP1 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784473.ts
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN",DAZN 1 OP1 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784473.ts
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN",DAZN 1 OP2 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784474.ts
 #EXTINF:-1 tvg-id="DAZN1HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" group-title="DAZN",DAZN 1 OP2 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784474.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/j/j/xdazn2bar.jpg.pagespeed.ic.syjFryyuj7.jpg" group-title="DAZN",DAZN 2 BAR ALEMANIA U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784486.ts
 #EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://cdn.sincroguia.tv/uploads/images/z/j/j/xdazn2bar.jpg.pagespeed.ic.syjFryyuj7.jpg" group-title="DAZN",DAZN 2 BAR ALEMANIA U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784486.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN",DAZN 2 OP1 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784475.ts
 #EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN",DAZN 2 OP1 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784475.ts
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN",DAZN 2 OP2 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784476.ts
 #EXTINF:-1 tvg-id="DAZN2HD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" group-title="DAZN",DAZN 2 OP2 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784476.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="DAZN",DAZN 3 OP1 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784477.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="DAZN",DAZN 3 OP1 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784477.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="DAZN",DAZN 3 OP2 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784478.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" group-title="DAZN",DAZN 3 OP2 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784478.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="DAZN",DAZN 4 OP1 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784479.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="DAZN",DAZN 4 OP1 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784479.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="DAZN",DAZN 4 OP2 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784480.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rywrzd1657045443.png" group-title="DAZN",DAZN 4 OP2 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784480.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN",DAZN F1 OP1 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784471.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN",DAZN F1 OP1 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784471.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN",DAZN F1 OP2 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784472.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="DAZN",DAZN F1 OP2 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784472.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LALIGA 1 OP1 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784481.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LALIGA 1 OP1 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784481.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LALIGA 1 OP2 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784482.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDZqHtFwkPR8CyxP8MPc2_El0YqtCFF4zzng&s" group-title="DAZN",DAZN LALIGA 1 OP2 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784482.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="DAZN",DAZN LALIGA 2 OP1 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784483.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="DAZN",DAZN LALIGA 2 OP1 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784483.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="DAZN",DAZN LALIGA 2 OP2 U1
+#EXTGRP:DAZN
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784484.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfcq8jFsJl3A_TsVZEoHmmq_9wTAdli8Q4g&s" group-title="DAZN",DAZN LALIGA 2 OP2 U2
 #EXTGRP:DAZN
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784484.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 FHD | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216354.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 FHD | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216354.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 HD | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216353.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 HD | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216353.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 SD | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216352.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq_86-HFey1IsWljdPh2uNuJShQcyvlqvgW9QBULz-Cj5P-ev4UOSkeLYH1p_rg_W_Utc&usqp=CAU" group-title="FORMULA 1",DZN | DAZN F1 SD | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216352.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="ESPAÑA",ELLAS VAMOS POR M+ OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784507.ts
 #EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="ESPAÑA",ELLAS VAMOS POR M+ OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784507.ts
+#EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="ESPAÑA",ELLAS VAMOS POR M+ OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784508.ts
 #EXTINF:-1 tvg-id="VAMOS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ro_xmjblYrFUtD9QTI5YcSmqP3qfDKAi2g&s" group-title="ESPAÑA",ELLAS VAMOS POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784508.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8dMsC6bdp89Efxd8FJrUA3OohTRJMuhRIw&s" group-title="ESPAÑA",ES: LA LIGA BEIN SPORTS MAX 4 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299702.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs8dMsC6bdp89Efxd8FJrUA3OohTRJMuhRIw&s" group-title="ESPAÑA",ES: LA LIGA BEIN SPORTS MAX 4 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299702.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="ESPAÑA",ES: LA LIGA ESPN DEPORTES HD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/300007.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="ESPAÑA",ES: LA LIGA ESPN DEPORTES HD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/300007.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="ESPAÑA",ES: LA LIGA ESPN DEPORTES USA U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299704.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaQKrO0DKOgoocdUkj5w7bkhkyhICC36o3w&s" group-title="ESPAÑA",ES: LA LIGA ESPN DEPORTES USA U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299704.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvWRsJZUHGcvvki_rS8yRE5Susfppe0JEeQ&s" group-title="ESPAÑA",ES: LA LIGA MOVISTAR+ U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299703.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvWRsJZUHGcvvki_rS8yRE5Susfppe0JEeQ&s" group-title="ESPAÑA",ES: LA LIGA MOVISTAR+ U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299703.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.uy/content/dam/public-sites/co/deportes/la-liga/laliga%20ea%20sports.png" group-title="ESPAÑA",ES: LALIGA DIRECTV SPORTS U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299698.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.directv.com.uy/content/dam/public-sites/co/deportes/la-liga/laliga%20ea%20sports.png" group-title="ESPAÑA",ES: LALIGA DIRECTV SPORTS U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="ESPAÑA",ES: LALIGA ELEVEN SPORTS 3 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299700.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F652%2Fbein-sports-max-1.png" group-title="ESPAÑA",ES: LALIGA ELEVEN SPORTS 3 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299700.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="ESPAÑA",ES: LALIGA SKY SPORTS HD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/299699.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBCa6SydXxbOh3qbRLTAWW6FOnRo5nXa9kw&s" group-title="ESPAÑA",ES: LALIGA SKY SPORTS HD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/299699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903580.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903580.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ French (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903581.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ French (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903581.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ German (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903582.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ German (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903582.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Hispanic America (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903583.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Hispanic America (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903583.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Italy (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903584.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Italy (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903584.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Portuguese (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903585.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Portuguese (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903585.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Spain (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903586.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Spain (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903586.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ United States (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903587.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ United States (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903587.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Women (720p) U1
+#EXTGRP:FIFA+
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/903588.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/bl5a3zHe9lTltDWtfOoAUQn1EwvIQnDUa7tuL5RgTH9tO9CscqmFceLezoxERZEuNg" group-title="FIFA+",FIFA+ Women (720p) U2
 #EXTGRP:FIFA+
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/903588.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="ESPAÑA",GOL PLAY ESPAÑA OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784517.ts
 #EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="ESPAÑA",GOL PLAY ESPAÑA OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784517.ts
+#EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="ESPAÑA",GOL PLAY ESPAÑA OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784518.ts
 #EXTINF:-1 tvg-id="GOLTVES" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/logo.png" group-title="ESPAÑA",GOL PLAY ESPAÑA OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784518.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="ESPAÑA",LALIGA TV 1 POR M+ OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784493.ts
 #EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="ESPAÑA",LALIGA TV 1 POR M+ OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784493.ts
+#EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="ESPAÑA",LALIGA TV 1 POR M+ OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784494.ts
 #EXTINF:-1 tvg-id="MOLIGA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZDhJ7oqU-bMIGmE6719lIr7vIcJF5gb_ZVA&s" group-title="ESPAÑA",LALIGA TV 1 POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784494.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="ESPAÑA",LALIGA TV 2 POR M+ OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784495.ts
 #EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="ESPAÑA",LALIGA TV 2 POR M+ OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784495.ts
+#EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="ESPAÑA",LALIGA TV 2 POR M+ OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784496.ts
 #EXTINF:-1 tvg-id="MVLIGA2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" group-title="ESPAÑA",LALIGA TV 2 POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784496.ts
+#EXTINF:-1 tvg-id="LIGCAHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784487.ts
 #EXTINF:-1 tvg-id="LIGCAHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784487.ts
+#EXTINF:-1 tvg-id="LIGCAMP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784488.ts
 #EXTINF:-1 tvg-id="LIGCAMP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYyNSlvacMe7R6jPnOKL5Km4z2NvMkFTWEzQ&s" group-title="ESPAÑA",LIGA DE CAMPEONES 1 POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784488.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA",LIGA DE CAMPEONES 2 POR M+ OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784489.ts
 #EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA",LIGA DE CAMPEONES 2 POR M+ OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784489.ts
+#EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA",LIGA DE CAMPEONES 2 POR M+ OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784490.ts
 #EXTINF:-1 tvg-id="MVLGCM2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" group-title="ESPAÑA",LIGA DE CAMPEONES 2 POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784490.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ESPAÑA",LIGA DE CAMPEONES 3 POR M+ OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784491.ts
 #EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ESPAÑA",LIGA DE CAMPEONES 3 POR M+ OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784491.ts
+#EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ESPAÑA",LIGA DE CAMPEONES 3 POR M+ OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784492.ts
 #EXTINF:-1 tvg-id="MVLGCM3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="ESPAÑA",LIGA DE CAMPEONES 3 POR M+ OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784492.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 1 FHD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338698.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 1 FHD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 2 HD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338699.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 2 HD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 3 HD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338700.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION 3 HD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338700.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION M1 FHD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338701.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION M1 FHD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338701.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION M2 SD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338702.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION M2 SD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338702.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION M3 SD U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/338703.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/LaLiga-Hypermotion.jpg" group-title="ESPAÑA",LIGA HYPERMOTION M3 SD U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/338703.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="ESPAÑA",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784497.ts
 #EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="ESPAÑA",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784497.ts
+#EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="ESPAÑA",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784498.ts
 #EXTINF:-1 tvg-id="MDEP1HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Deportes_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/309?cb=20230721194319" group-title="ESPAÑA",MOVISTAR DEPORTES ESPAÑA (DEPORTES POR M+) OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784498.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="ESPAÑA",MOVISTAR DEPORTES PERU OP1 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784499.ts
 #EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="ESPAÑA",MOVISTAR DEPORTES PERU OP1 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784499.ts
+#EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="ESPAÑA",MOVISTAR DEPORTES PERU OP2 U1
+#EXTGRP:ESPAÑA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784500.ts
 #EXTINF:-1 tvg-id="MOVDEP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/2560px-Movistar_Deportes.svg.png" group-title="ESPAÑA",MOVISTAR DEPORTES PERU OP2 U2
 #EXTGRP:ESPAÑA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784500.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/11/16/formula-continuara-transmitida-fox-sports.jpg" group-title="FORMULA 1",MX | Fox Sports 1 | Formula 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369422.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn2.mediotiempo.com/uploads/media/2022/11/16/formula-continuara-transmitida-fox-sports.jpg" group-title="FORMULA 1",MX | Fox Sports 1 | Formula 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369422.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.heraldodeportes.com.mx/u/fotografias/m/2023/3/2/f1280x720-59416_191091_5050.jpg" group-title="FORMULA 1",MX | FOX SPORTS PREMIUM | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/216355.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.heraldodeportes.com.mx/u/fotografias/m/2023/3/2/f1280x720-59416_191091_5050.jpg" group-title="FORMULA 1",MX | FOX SPORTS PREMIUM | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/216355.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="FORMULA 1",SKY SPORTS F1 OP1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784521.ts
 #EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="FORMULA 1",SKY SPORTS F1 OP1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784521.ts
+#EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="FORMULA 1",SKY SPORTS F1 OP2 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/784522.ts
 #EXTINF:-1 tvg-id="SSPOF1" tvg-logo="http://www.tmsimg.com/assets/s74410_ll_h3_aa.png" group-title="FORMULA 1",SKY SPORTS F1 OP2 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/784522.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SLP | FOX DEPORTES U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/339129.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SLP | FOX DEPORTES U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/339129.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | A+ MX U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/308743.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | A+ MX U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308743.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | ADN 40 U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/308741.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | ADN 40 U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308741.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | AZTECA 7 U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/308740.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | AZTECA 7 U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308740.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | AZTECA UNO U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/308739.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | AZTECA UNO U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308739.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | FOX SOCCER PLUS U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/845991.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | FOX SOCCER PLUS U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/845991.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | LIGA DE CAMPEONES OP1 U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302831.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | LIGA DE CAMPEONES OP1 U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/302831.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | LIGA DE CAMPEONES OP2 U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302832.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | LIGA DE CAMPEONES OP2 U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/302832.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | MOVISTAR VAMOS OP1 U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302833.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | MOVISTAR VAMOS OP1 U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/302833.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | MOVISTAR VAMOS OP2 U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/302839.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | MOVISTAR VAMOS OP2 U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/302839.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | SPORT TV 6 U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/845992.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | SPORT TV 6 U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/845992.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | TNT SPORTS ARG U1
+#EXTGRP:ARABIA
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/308742.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/2488.png" group-title="ARABIA",SPL | TNT SPORTS ARG U2
 #EXTGRP:ARABIA
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/308742.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://elmarketingdeportivo.com/wp-content/uploads/2022/06/PORTADA-1-1024x768.jpg" group-title="FORMULA 1",USA | ESPN 1 | FORMULA 1 U1
+#EXTGRP:FORMULA 1
+http://skynetmax.live:8080/live/Kfarrier2/JnWBeTnrTs/369425.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://elmarketingdeportivo.com/wp-content/uploads/2022/06/PORTADA-1-1024x768.jpg" group-title="FORMULA 1",USA | ESPN 1 | FORMULA 1 U2
 #EXTGRP:FORMULA 1
 http://skynetmax.live:8080/live/RocaWelchTV/HacuMMC3vnCc/369425.ts
