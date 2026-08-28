@@ -1,49 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="TNT SPORTS",ARG | TNT SPORTS U6
-#EXTGRP:TNT SPORTS
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120641.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="TNT SPORTS",ARG | TNT SPORTS U59
-#EXTGRP:TNT SPORTS
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120641.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="TNT SPORTS",ARG | TNT SPORTS HD U6
-#EXTGRP:TNT SPORTS
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120637.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="TNT SPORTS",ARG | TNT SPORTS HD U59
-#EXTGRP:TNT SPORTS
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120637.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="TYC INTERNACIONAL",ARG | TyC Sports HD U6
-#EXTGRP:TYC INTERNACIONAL
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/106104.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="TYC INTERNACIONAL",ARG | TyC Sports HD U59
-#EXTGRP:TYC INTERNACIONAL
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/106104.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="TYC INTERNACIONAL",ARG | TYC Sports SD U6
-#EXTGRP:TYC INTERNACIONAL
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/129438.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdSI5R05ajZXvxYFbLs6fZwIJXNp5BkTwm2A&s" group-title="TYC INTERNACIONAL",ARG | TYC Sports SD U59
-#EXTGRP:TYC INTERNACIONAL
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/129438.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM  U6
-#EXTGRP:ESPN PREMIUM
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192185.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM  U59
-#EXTGRP:ESPN PREMIUM
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/192185.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM U6
-#EXTGRP:ESPN PREMIUM
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/192186.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/cJ0jSmtw/images-32.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM U59
-#EXTGRP:ESPN PREMIUM
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/192186.ts
 #EXTINF:-1 tvg-id="foxsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4Iy4fKVgUWmjmzWPu3ypL1ohkujKTWj8azi6LTOvt-2HQ.jpg" group-title="ESPN PREMIUM",ESPN PREMIUM HD U3
 #EXTGRP:ESPN PREMIUM
 http://sudaka.link:25461/live/luiscavacho/cavacho/16959.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="TNT SPORTS",TNT SPORTS ARGENTINA HD U6
-#EXTGRP:TNT SPORTS
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/199268.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/TNT_Sports_Logo.svg/1200px-TNT_Sports_Logo.svg.png" group-title="TNT SPORTS",TNT SPORTS ARGENTINA HD U59
-#EXTGRP:TNT SPORTS
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/199268.ts
 #EXTINF:-1 tvg-id="tntsports.ar" tvg-logo="http://sudaka.link:25461/images/voOz4hfclvTmqIJT1G5knFzTwDNWw6gdrflObjBme4JSe2tFXIM5T3tRz4pKnKozLEqRSy-jSm9Zpd8T7tj8aA.jpg" group-title="TNT SPORTS",TNT Sports HD ARG. U3
 #EXTGRP:TNT SPORTS
 http://sudaka.link:25461/live/luiscavacho/cavacho/15076.ts
