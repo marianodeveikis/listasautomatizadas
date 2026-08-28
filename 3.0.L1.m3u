@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="ESPN PREMIUM",ARG | ESPN PREMIUM U6
-#EXTGRP:ESPN PREMIUM
-http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120639.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://flx.lat:8080/images/4b91b95e2dde6009b81b5066503793b3.png" group-title="ESPN PREMIUM",ARG | ESPN PREMIUM U59
-#EXTGRP:ESPN PREMIUM
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/120639.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYXSDwn6wCLfVXPwXevWpRm4aYgYBHlz-WlQ&s" group-title="TNT SPORTS",ARG | TNT SPORTS U6
 #EXTGRP:TNT SPORTS
 http://flexlive.lat:8080/live/JhonSandoval2/H84TACX39/120641.ts
